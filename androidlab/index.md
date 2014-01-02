@@ -30,6 +30,10 @@ title: Android Lab
   - [Android Studio](android_studio).
   - [Code Style Guidelines](code_style).
   - [Google Play Services](google_play_services).
+  - [Mobile Backend Starter](mobile_backend_starter).
+  - [Memory Leaks](memory_leaks).
+  - [Android best coding practices](best_coding_practices).
+  - [ActionBarCompat](actionbarcompat).
   - [Examples](examples).
 
 
