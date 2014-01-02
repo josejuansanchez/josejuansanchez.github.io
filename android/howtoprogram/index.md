@@ -1,3 +1,8 @@
+---
+layout: default
+title: Android
+---
+
 ## How to program for Android
 
 ### 1. Getting started
