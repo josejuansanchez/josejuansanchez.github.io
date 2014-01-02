@@ -17,7 +17,6 @@ title: Android Lab
   - [Networking for Android](networking).
   - [ListView](listview).
   - [Videos](videos).
-
   - [Examples](examples).
 
 
