@@ -32,8 +32,4 @@ Talks
   * [Android Source Code](http://source.android.com).
   * [Android Git repositories](https://android.googlesource.com).
   * [Android Code Review](https://android-review.googlesource.com/).
-
-
-### StackOverflow
-  * http://stackoverflow.com/users/2090682/jose-juan-sanchez
-  * http://stackoverflow.com/questions/tagged/android
+  * [Questions about Android in StackOverflow](http://stackoverflow.com/questions/tagged/android).
