@@ -5,6 +5,8 @@ title: Personal Projects
 
 ## Personal Projects
 
+[TOC]
+
 ### Idiria
 [http://www.idiria.com](http://www.idiria.com)
 
