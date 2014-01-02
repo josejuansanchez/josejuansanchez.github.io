@@ -14,6 +14,7 @@ title: Personal Projects
 - [Android Lab](#androidlab)
 - [La lista de la compra](#lalistadelacompra)
 
+----
 
 <a name="idiria"/>
 ## Idiria
