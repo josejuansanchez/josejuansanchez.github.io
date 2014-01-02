@@ -13,7 +13,7 @@ title: Android Lab
   - [Android Multithreading](multithreading).
   - [Android Services](services).
   - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
-  - [ContentProvider + REST API + LoaderManager](rest).
+  - [REST client applications](rest).
 
 
 ### References
