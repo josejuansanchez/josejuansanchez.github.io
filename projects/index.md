@@ -117,7 +117,6 @@ El **Desafío AbreDatos 2011**, es un concurso de desarrollo exprés de servicio
 Los datos utilizados fueron obtenidos del Ministerio de Industria, Turismo y Comercio.
 
   * [Repositorio](http://code.google.com/p/abredatos2011-t38/).
-
   * [Proyectos presentados](http://www.rtve.es/contenidos/documentos/Abredatos.pdf) en la edición de Abredatos 2011.
 
 
