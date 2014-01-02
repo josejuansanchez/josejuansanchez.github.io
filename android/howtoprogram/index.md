@@ -29,6 +29,4 @@ title: Android
 
 ----
 
-[< Go back](../)
-&#171;
-&laquo;
+[&laquo; Go back](../)
