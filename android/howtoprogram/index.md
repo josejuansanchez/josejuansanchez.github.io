@@ -29,4 +29,4 @@ title: Android
 
 ----
 
-[<< Go back](../)
+[< Go back](../)
