@@ -12,6 +12,7 @@ title: Android Lab
   - [Interprocess Communication](interprocess_communication).
   - [Android Multithreading](multithreading).
   - [Android Services](services).
+  - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
 
 
 ### References
