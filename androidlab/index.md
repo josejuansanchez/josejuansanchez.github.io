@@ -7,6 +7,9 @@ title: Android Lab
   - [How to program for Android](how_to_program_for_android). 
   - [Pass data between Activities/Services](pass_data_between_activities_services).
   - [A comparisson between: Service, Thread, IntentService and AsyncTask](comparisson_between_service_thread_intentservice_asynctask).
+  - [Java Threads](java_threads).
+  - [Processes and Threads](processes_and_threads).
+  - [Interprocess Communication](interprocess_communication).
 
 
 ### References
