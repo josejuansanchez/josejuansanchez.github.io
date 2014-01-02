@@ -8,5 +8,4 @@ title: Android
   * [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/).
   * [Don’t Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/).
 
-<br>
 [&laquo; Go back](./)
