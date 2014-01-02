@@ -3,7 +3,7 @@ layout: default
 title: Research Page
 ---
 
-## Research Page
+## Research
 
 ### Address
 Room 1.13, CITIC building. University of Almería.  
