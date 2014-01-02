@@ -20,6 +20,10 @@ title: Android
 
   * Presentation of the app **"culturAL"** in [XIII Betabeers Almería](http://betabeers.com/event/xiii-betabeers-almeria-1429/), 20 December 2013. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/cultural).
 
+### Apps in Google Play
+  - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
+  - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
+  - [Semana Santa de Úbeda](https://play.google.com/store/apps/details?id=org.josejuansanchez.semanasantadeubeda).
 
 ### Resources
   - [How to program for Android](howtoprogram). 
