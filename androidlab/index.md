@@ -10,6 +10,8 @@ title: Android Lab
   - [Java Threads](java_threads).
   - [Processes and Threads](processes_and_threads).
   - [Interprocess Communication](interprocess_communication).
+  - [Android Multithreading](multithreading).
+  - [Android Services](services).
 
 
 ### References
