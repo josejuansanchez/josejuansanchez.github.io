@@ -3,14 +3,13 @@ layout: default
 title: Android
 ---
 
-### Android
+## Android
 
 ### Google+ Communities
 * Currently, I am collaborating with the [Google+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
 
 
-Talks
------
+### Talks
   * Introducing the app **"Almería en tu mano"** in [X Betabeers Almería](http://betabeers.com/event/x-betabeers-almeria-1061/), 27 June 2013. This event was organized by [Betabeers Almería](https://twitter.com/betabeersALM) in collaboration with [UNIA](http://unia.ual.es). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/almeria-en-tu-mano).
 
   * **Services vs IntentServices**. In the [October](http://josejuansanchez.org/blog/posts/charlas-de-la-comunidad-android-almera-en-octubre/) monthly meeting of the [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876). 18 October 2013.
