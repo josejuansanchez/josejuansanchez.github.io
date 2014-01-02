@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Android
+layout: androidlab
+title: Android Lab
 ---
 
 ## Pass data between Activities/Services

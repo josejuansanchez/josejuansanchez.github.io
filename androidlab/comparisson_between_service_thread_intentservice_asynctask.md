@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Android
+layout: androidlab
+title: Android Lab
 ---
 
 ## A comparisson between: Service, Thread, IntentService and AsyncTask
