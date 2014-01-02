@@ -5,8 +5,8 @@ title: Personal Projects
 
 ## Personal Projects
 
-[Idiria](#idiria)
-[SocialJuke](#socialjuke)
+- [Idiria](#idiria)
+- [SocialJuke](#socialjuke)
 [Almería en tu mano](#almeriaentumano)
 [Almería Aumentada](#almeriaaumentada)
 [Semana Santa de Úbeda](#semanasantadeubeda)
