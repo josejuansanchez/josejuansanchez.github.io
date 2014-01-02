@@ -1,3 +1,8 @@
+---
+layout: default
+title: Android
+---
+
 ## A comparisson between: Service, Thread, IntentService and AsyncTask
 
 | | Service | Thread | IntentService | AsyncTask | 
