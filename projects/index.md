@@ -19,8 +19,7 @@ title: Personal Projects
 <a name="idiria"/>
 Idiria
 ------
-
-[http://www.idiria.com](http://www.idiria.com)
+> [http://www.idiria.com](http://www.idiria.com)
 
 **Idiria** es una empresa de consultoría especializada en la implantación de soluciones computacionales en la “nube” para empresas, centros educativos y usuarios particulares.
 
@@ -32,7 +31,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 
 <a name="socialjuke"/>
 ## SocialJuke
-[http://www.socialjuke.com](http://socialjuke.com)
+> [http://www.socialjuke.com](http://socialjuke.com)
 
 **SocialJuke** es uno de los proyectos seleccionados para formar parte de la edición de [Minerva 2012](http://www.proyectominerva.org). 
 
