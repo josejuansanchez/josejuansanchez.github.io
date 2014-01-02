@@ -14,6 +14,11 @@ title: Android Lab
   - [Android Services](services).
   - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
   - [REST client applications](rest).
+  - [Networking for Android](networking).
+  - [ListView](listview).
+  - [Videos](videos).
+
+  - [Examples](examples).
 
 
 ### References
