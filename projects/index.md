@@ -7,6 +7,9 @@ title: Personal Projects
 
 [TOC]
 
+Idiria
+------
+
 ### Idiria
 [http://www.idiria.com](http://www.idiria.com)
 
