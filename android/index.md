@@ -23,7 +23,7 @@ title: Android
 
 ----
 
-==== Resources ====
+### Resources
   - [How to program for Android](android_how_to_program_for_android) 
   - [[android_pass_data_between_activities_services|Pass data between Activities/Services]]
   - [[android_comparisson_between_service_thread_intentservice_asynctask|A comparisson between: Service, Thread, IntentService and AsyncTask]]
@@ -71,7 +71,7 @@ title: Android
 
 ----
 
-==== References ====
+### References
 
   * [API Guides. Android Developers](http://developer.android.com/guide/components/index.html).
   * [Android Source Code](http://source.android.com).
@@ -80,6 +80,6 @@ title: Android
 
 ----
 
-==== StackOverflow ====
+### StackOverflow
   * http://stackoverflow.com/users/2090682/jose-juan-sanchez
   * http://stackoverflow.com/questions/tagged/android
