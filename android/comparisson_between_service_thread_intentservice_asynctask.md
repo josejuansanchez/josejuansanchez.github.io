@@ -5,11 +5,9 @@ title: Android
 
 ## A comparisson between: Service, Thread, IntentService and AsyncTask
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Service        | Thread           | IntentService  | AsyncTask |
+|:---------------|:-----------------|:---------------|:----------|
 | col 3 is      | right-aligned | $1600 |
- col 2 is      | centered      |   $12 |
- zebra stripes | are neat      |    $1 |
 
 Original: [Comparisons](http://techtej.blogspot.com.es/2011/03/android-thread-constructspart-4.html). [Tejas Lagvankar]
 
