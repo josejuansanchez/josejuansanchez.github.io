@@ -3,9 +3,9 @@ layout: default
 title: Social Web
 ---
 
-### Social Web
-* [[https://twitter.com/josejuansanchez|Twitter]].
-* [[http://gplus.to/josejuansanchez|Google+]].
+## Social Web
+* [Twitter](https://twitter.com/josejuansanchez).
+* [Google+](http://gplus.to/josejuansanchez).
 * [[http://pinterest.com/josejuansanchez|Pinterest]].
 * [[https://launchpad.net/~josejuan-sanchez|Launchpad]].
 * [[https://github.com/josejuansanchez|GitHub]].
