@@ -1,6 +1,6 @@
 ---
 layout: androidlab
-title: Android
+title: Android Lab
 ---
 
 ## How to program for Android
@@ -27,4 +27,4 @@ title: Android
   * [Android SQLite for DBA](http://marakana.com/s/post/1213/android_sqlite_for_the_dba). [Markana]
   * [Remixing Android](http://marakana.com/s/post/1044/remixing_android). [Markana]
 
-[&laquo; Go back](../)
+[&laquo; Go back](./)
