@@ -22,7 +22,7 @@ title: Android
 
 
 ### Resources
-  - [How to program for Android](android_how_to_program_for_android) 
+  - [How to program for Android](howtoprogram) 
 
 
 ### References
