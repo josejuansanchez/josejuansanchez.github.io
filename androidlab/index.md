@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: androidlab
 title: Android Lab
 ---
 
@@ -18,4 +18,3 @@ title: Android Lab
   * [Android Git repositories](https://android.googlesource.com).
   * [Android Code Review](https://android-review.googlesource.com/).
   * [Questions about Android in StackOverflow](http://stackoverflow.com/questions/tagged/android).
-
