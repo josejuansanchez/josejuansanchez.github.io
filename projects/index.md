@@ -50,7 +50,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 
 <a name="almeriaentumano"/>
 ## Almería en tu mano
-[http://www.almeriaentumano.es](http://www.almeriaentumano.es)
+> [http://www.almeriaentumano.es](http://www.almeriaentumano.es)
 
 **Almería en tu mano** es un proyecto que nace en el verano de **2012**, con el objetivo de desarrollar una gymkana urbana que permitiese conocer la ciudad de Almería descifrando acertijos relacionados con plazas, fuentes, calles o monumentos de la ciudad. 
 
@@ -62,7 +62,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 
 <a name="almeriaaumentada"/>
 ## Almería Aumentada
-[http://www.almeriaaumentada.es](http://www.almeriaaumentada.es)
+> [http://www.almeriaaumentada.es](http://www.almeriaaumentada.es)
 
 **Almería Aumentada** es un proyecto que se inició en el año **2010** con el objetivo de desarrollar diferentes guías turísticas de la ciudad de Almería haciendo uso de la Realidad Aumentada.
 
@@ -86,7 +86,7 @@ En este proyecto se desarrollaron varias capas de Realidad Aumentada para el nav
 
 <a name="semanasantadeubeda"/>
 ## Semana Santa de Úbeda
-[http://www.semanasantadeubeda.es](http://www.semanasantadeubeda.es)
+> [http://www.semanasantadeubeda.es](http://www.semanasantadeubeda.es)
 
 Proyecto realizado para la **Semana Santa de Úbeda** de **2012** y **2013**, que permitía seguir en tiempo real la posición de las procesiones a través de cualquier dispositivo móvil.
 
@@ -105,7 +105,7 @@ Para este proyecto se diseño una aplicación que recogía la información detal
 
 <a name="nocheenblanco"/>
 ## Noche en Blanco de Almería
-[http://nocheenblanco.idiria.com](http://nocheenblanco.idiria.com)
+> [http://nocheenblanco.idiria.com](http://nocheenblanco.idiria.com)
 
 Proyecto realizado en Junio de **2012**, en el que se desarrolló una guía para dispositivos móviles con todas las actividades programadas para la **Noche en Blanco de Almería**.
 
@@ -113,7 +113,7 @@ Proyecto realizado en Junio de **2012**, en el que se desarrolló una guía para
 
 <a name="androidlab"/>
 ## Android Lab
-[http://www.androidlab.es](http://www.androidlab.es)  **[offline]**
+> [http://www.androidlab.es](http://www.androidlab.es)  **[offline]**
 
 **Android Lab** es una recopilación de recursos relacionados con la programación para Android, donde se pueden encontrar cursos, librerías, buenas prácticas, etc.
 
@@ -121,7 +121,7 @@ Proyecto realizado en Junio de **2012**, en el que se desarrolló una guía para
 
 <a name="lalistadelacompra"/>
 ## La lista de la compra
-[http://lalistadelacompra.almeriaaumentada.es](http://lalistadelacompra.almeriaaumentada.es)
+> [http://lalistadelacompra.almeriaaumentada.es](http://lalistadelacompra.almeriaaumentada.es)
 
 Proyecto finalista del **Desafío AbreDatos 2011**, organizado por la [Asociación Pro Bono Público](http://www.probp.org), para promover la apertura de datos públicos en España.
 
