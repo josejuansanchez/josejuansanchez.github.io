@@ -21,12 +21,10 @@ Talks
 
   * Presentation of the app **"culturAL"** in [XIII Betabeers Almería](http://betabeers.com/event/xiii-betabeers-almeria-1429/), 20 December 2013. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/cultural).
 
-----
 
 ### Resources
   - [How to program for Android](android_how_to_program_for_android) 
 
-----
 
 ### References
 
@@ -35,7 +33,6 @@ Talks
   * [Android Git repositories](https://android.googlesource.com).
   * [Android Code Review](https://android-review.googlesource.com/).
 
-----
 
 ### StackOverflow
   * http://stackoverflow.com/users/2090682/jose-juan-sanchez
