@@ -37,7 +37,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 ----
 
 ### Almería en tu mano
-[[http://www.almeriaentumano.es](http://www.almeriaentumano.es)
+[http://www.almeriaentumano.es](http://www.almeriaentumano.es)
 
 **Almería en tu mano** es un proyecto que nace en el verano de **2012**, con el objetivo de desarrollar una gymkana urbana que permitiese conocer la ciudad de Almería descifrando acertijos relacionados con plazas, fuentes, calles o monumentos de la ciudad. 
 
@@ -48,17 +48,17 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 ----
 
 ### Almería Aumentada
-[[http://www.almeriaaumentada.es](http://www.almeriaaumentada.es)
+[http://www.almeriaaumentada.es](http://www.almeriaaumentada.es)
 
 **Almería Aumentada** es un proyecto que se inició en el año **2010** con el objetivo de desarrollar diferentes guías turísticas de la ciudad de Almería haciendo uso de la Realidad Aumentada.
 
 En este proyecto se desarrollaron varias capas de Realidad Aumentada para el navegador [Layar](http://www.layar.com):
 
-  * [Alcazaba de Almería](http://www.layar.com/layers/alcazabadealmeria/) \\ Es una guía multi-idioma que permite consultar información de interés de los diferentes recintos del Conjunto Monumental de La Alcazaba de Almería. La guía incluye locuciones que narran los puntos de interés que componen el recorrido de la visita.
+  * [Alcazaba de Almería](http://www.layar.com/layers/alcazabadealmeria/). Es una guía multi-idioma que permite consultar información de interés de los diferentes recintos del Conjunto Monumental de La Alcazaba de Almería. La guía incluye locuciones que narran los puntos de interés que componen el recorrido de la visita.
 
-  * [Almería de Feria](http://www.layar.com/layers/almeriadeferia/) \\ Esta capa de realidad aumentada permite al usuario saber qué está sucediendo a su alrededor dentro del programa de actividades, conciertos y concursos de la Feria de Almería.
+  * [Almería de Feria](http://www.layar.com/layers/almeriadeferia/). Esta capa de realidad aumentada permite al usuario saber qué está sucediendo a su alrededor dentro del programa de actividades, conciertos y concursos de la Feria de Almería.
 
-  * [YouTube Around](http://www.layar.com/layers/youtubearound/) \\ Esta capa permite al usuario visualizar los vídeos de YouTube que han sido grabados próximos a su posición actual.
+  * [YouTube Around](http://www.layar.com/layers/youtubearound/). Esta capa permite al usuario visualizar los vídeos de YouTube que han sido grabados próximos a su posición actual.
 
 #### Equipo
   * Daniel Pérez Ruiz del Moral.
@@ -113,9 +113,9 @@ El **Desafío AbreDatos 2011**, es un concurso de desarrollo exprés de servicio
 
 Los datos utilizados fueron obtenidos del Ministerio de Industria, Turismo y Comercio.
 
-[Repositorio](http://code.google.com/p/abredatos2011-t38/).
+  * [Repositorio](http://code.google.com/p/abredatos2011-t38/).
 
-[Proyectos presentados](http://www.rtve.es/contenidos/documentos/Abredatos.pdf) en la edición de Abredatos 2011.
+  * [Proyectos presentados](http://www.rtve.es/contenidos/documentos/Abredatos.pdf) en la edición de Abredatos 2011.
 
 
 #### Equipo
