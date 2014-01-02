@@ -10,7 +10,7 @@ title: Personal Projects
 [Almería en tu mano](#almeriaentumano)
 [Almería Aumentada](#almeriaaumentada)
 [Semana Santa de Úbeda](#semanasantadeubeda)
-[Noche en blanco](#nocheenblanco)
+[Noche en Blanco](#nocheenblanco)
 [Android Lab](#androidlab)
 [La lista de la compra](#lalistadelacompra)
 
