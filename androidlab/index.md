@@ -20,6 +20,7 @@ title: Android Lab
   - [Releasing apps](releasing_apps).
   - [Styling](styling).
   - [Location](location).
+  - [Images](images).
   - [Examples](examples).
 
 
