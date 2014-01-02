@@ -4,7 +4,7 @@ title: Android
 ---
 
 ## Android
-[Go back](../android)
+[Go back](../)
 
 ## How to program for Android
 
