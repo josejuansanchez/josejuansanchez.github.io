@@ -22,7 +22,8 @@ title: Android
 
 
 ### Resources
-  - [How to program for Android](howtoprogram) 
+  - [How to program for Android](howtoprogram). 
+  - [Pass data between Activities/Services](pass_data_between_activities_services).
 
 
 ### References
