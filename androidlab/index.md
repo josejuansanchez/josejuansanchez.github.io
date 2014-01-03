@@ -3,19 +3,21 @@ layout: androidlab
 title: Android Lab
 ---
 
-### Resources
+### Table of Contents
+
   - [How to program for Android](how_to_program_for_android). 
   - [Pass data between Activities/Services](pass_data_between_activities_services).
   - [A comparisson between: Service, Thread, IntentService and AsyncTask](comparisson_between_service_thread_intentservice_asynctask).
   - [Java Threads](java_threads).
-  - [Processes and Threads](processes_and_threads).
-  - [Interprocess Communication](interprocess_communication).
   - [Android Multithreading](multithreading).
   - [Android Services](services).
-  - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
-  - [REST client applications](rest).
   - [Networking for Android](networking).
+  - [REST client applications](rest).
+  - [Processes and Threads](processes_and_threads).
+  - [Interprocess Communication](interprocess_communication).
+  - [Fragments](fragments).
   - [ListView](listview).
+  - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
   - [Videos](videos).
   - [Releasing apps](releasing_apps).
   - [Styling](styling).
@@ -26,8 +28,8 @@ title: Android Lab
   - [Libs](libs).
   - [Adapters](adapters).
   - [Tools](tools).
-  - [Google Cloud Messaging](google_cloud_messaging).
   - [Android Studio](android_studio).
+  - [Google Cloud Messaging](google_cloud_messaging).
   - [Code Style Guidelines](code_style).
   - [Google Play Services](google_play_services).
   - [Mobile Backend Starter](mobile_backend_starter).
@@ -42,7 +44,6 @@ title: Android Lab
   - [Android Prototyping](prototyping).
   - [Testing on Android](testing).
   - [AdMob](admob).
-  - [Fragments](fragments).
   - [Chrome WebView for Android](chrome_webview).
   - [Android Wakelocks](wakelocks).
   - [Media and Camera](media_camera).
