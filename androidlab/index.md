@@ -46,6 +46,7 @@ title: Android Lab
   - [Chrome WebView for Android](chrome_webview).
   - [Android Wakelocks](wakelocks).
   - [Media and Camera](media_camera).
+  - [Scheduling Repeating Alarms](scheduling_repeating_alarms).
   - [Examples](examples).
 
 
