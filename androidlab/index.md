@@ -31,6 +31,7 @@ title: Android Lab
   - [Android Wakelocks](wakelocks).
   - [Scheduling Repeating Alarms](scheduling_repeating_alarms).  
 
+### Section A
 
   - [Android Studio](android_studio).
   - [Android best coding practices](best_coding_practices).
@@ -48,6 +49,7 @@ title: Android Lab
   - [Chrome WebView for Android](chrome_webview).
   - [Media and Camera](media_camera).
 
+### Section B
 
   - [Videos](videos).
   - [Tools](tools).
