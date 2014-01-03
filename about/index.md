@@ -5,10 +5,6 @@ title: About me
 
 ## About me
 
-![José Juan Sánchez Hernández](http://josejuansanchez.github.io/images/josejuan.png "José Juan Sánchez Hernández")
-
-->![José Juan Sánchez Hernández](http://josejuansanchez.github.io/images/josejuan.png "José Juan Sánchez Hernández")<-
-
 <p align="center">
   <img src="http://josejuansanchez.github.io/images/josejuan.png" />
 </p>
