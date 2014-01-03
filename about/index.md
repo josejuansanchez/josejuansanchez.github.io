@@ -9,6 +9,11 @@ title: About me
   <img src="http://josejuansanchez.github.io/images/josejuan.png" />
 </p>
 
+I received de M.Sc. degree in computer science from the University of 
+Almería in 2008. I am a member of the Supercomputing-Algorithms 
+Research Group of the University of Almería and currently I am
+working toward a PhD in the area of image coding and transmission.
+
 ### Social Web
 * [Twitter](https://twitter.com/josejuansanchez).
 * [Google+](http://gplus.to/josejuansanchez).
