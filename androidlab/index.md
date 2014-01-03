@@ -18,37 +18,41 @@ title: Android Lab
   - [Fragments](fragments).
   - [ListView](listview).
   - [Energy and Network Efficient Apps](energy_and_network_efficient_apps).
-  - [Videos](videos).
   - [Releasing apps](releasing_apps).
   - [Styling](styling).
   - [Location](location).
   - [Images](images).
   - [SQLite](sqlite).
   - [ORMs](orm).
-  - [Libs](libs).
   - [Adapters](adapters).
-  - [Tools](tools).
+  - [Android Internals](android_internals).
+  - [Memory Leaks](memory_leaks).
+  - [Context](context).
+  - [Android Wakelocks](wakelocks).
+  - [Scheduling Repeating Alarms](scheduling_repeating_alarms).  
+
+
   - [Android Studio](android_studio).
-  - [Google Cloud Messaging](google_cloud_messaging).
+  - [Android best coding practices](best_coding_practices).
   - [Code Style Guidelines](code_style).
+  - [Google Cloud Messaging](google_cloud_messaging).
   - [Google Play Services](google_play_services).
   - [Mobile Backend Starter](mobile_backend_starter).
-  - [Memory Leaks](memory_leaks).
-  - [Android best coding practices](best_coding_practices).
   - [ActionBarCompat](actionbarcompat).
   - [RenderScript](renderscript).
-  - [Context](context).
-  - [Android Internals](android_internals).
   - [Security on Android](security).
   - [Software Design Patterns on Android](software_design_patterns).
   - [Android Prototyping](prototyping).
   - [Testing on Android](testing).
   - [AdMob](admob).
   - [Chrome WebView for Android](chrome_webview).
-  - [Android Wakelocks](wakelocks).
   - [Media and Camera](media_camera).
-  - [Scheduling Repeating Alarms](scheduling_repeating_alarms).
+
+
+  - [Videos](videos).
+  - [Tools](tools).
   - [Examples](examples).
+  - [Libs](libs).  
 
 
 ### References
