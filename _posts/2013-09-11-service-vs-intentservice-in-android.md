@@ -17,15 +17,15 @@ Below are some key **differences** between Service and IntentService in Android.
 
 ### 1) When to use?
 
-The Service can be used in tasks with no UI, but shouldn't be too long. If you need to perform long tasks, you must use threads within Service.
+The `Service` can be used in tasks with no UI, but shouldn't be too long. If you need to perform long tasks, you must use threads within Service.
 
-The IntentService can be used in long tasks usually with no communication to Main Thread. If communication is required, can use Main Thread handler or broadcast intents. Another case of use is when callbacks are needed (Intent triggered tasks).
+The `IntentService` can be used in long tasks usually with no communication to Main Thread. If communication is required, can use Main Thread handler or broadcast intents. Another case of use is when callbacks are needed (Intent triggered tasks).
 
 ### 2) How to trigger?
 
 The `Service` is triggered calling to method `onStartService()`.
 
-The `IntentService is triggered using an Intent, it spawns a new worker thread and the method `onHandleIntent()` is called on this thread.
+The `IntentService` is triggered using an Intent, it spawns a new worker thread and the method `onHandleIntent()` is called on this thread.
 
 ### 3) Triggered From
 
