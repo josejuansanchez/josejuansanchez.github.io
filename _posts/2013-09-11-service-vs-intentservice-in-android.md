@@ -11,7 +11,7 @@ This is the base class for all services. When you extend this class, it's import
 
 ### IntentService
 
-This is a subclass of Service that **uses a worker thread** to handle all start requests, one at a time. This is the best option if you don't require that your service handle multiple requests simultaneously. All you need to do is implement onHandleIntent(), which receives the intent for each start request so you can do the background work.
+This is a subclass of Service that **uses a worker thread** to handle all start requests, one at a time. This is the best option if you don't require that your service handle multiple requests simultaneously. All you need to do is implement `onHandleIntent()`, which receives the intent for each start request so you can do the background work.
 
 Below are some key **differences** between Service and IntentService in Android.
 
@@ -23,9 +23,9 @@ The IntentService can be used in long tasks usually with no communication to Mai
 
 ### 2) How to trigger?
 
-The `Service` is triggered calling to method onStartService().
+The `Service` is triggered calling to method `onStartService()`.
 
-The `IntentService is triggered using an Intent, it spawns a new worker thread and the method onHandleIntent() is called on this thread.
+The `IntentService is triggered using an Intent, it spawns a new worker thread and the method `onHandleIntent()` is called on this thread.
 
 ### 3) Triggered From
 
