@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Service VS IntentService in Android
+date: September 11, 2013
+category: android
 ---
 
 In the official documentation of Android, Service and IntentService are described as follows:
@@ -48,9 +50,6 @@ The `IntentService` cannot run tasks in parallel. Hence all the consecutive inte
 ### References
 
 1. [Service. Android API](http://developer.android.com/reference/android/app/Service.html).
-
 2. [IntentService. Android API](http://developer.android.com/reference/android/app/IntentService.html).
-
 3. [Services. API Guide](http://developer.android.com/guide/components/services.html).
-
 4. [Tejas Lagvankar](https://plus.google.com/113624528637645978412/posts) wrote a [nice post](http://techtej.blogspot.com.es/2011/03/android-thread-constructspart-4.html) about this subject.
