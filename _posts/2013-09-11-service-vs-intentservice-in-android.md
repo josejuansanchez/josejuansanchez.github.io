@@ -45,12 +45,4 @@ The `Service` may block the Main Thread of the application.
 
 The `IntentService cannot run tasks in parallel. Hence all the consecutive intents will go into the message queue for the worker thread and will execute sequentially.
 
-References
-
-1. [Service. Android API](http://developer.android.com/reference/android/app/Service.html).
-
-2. [IntentService. Android API](http://developer.android.com/reference/android/app/IntentService.html).
-
-3. [Services. API Guide](http://developer.android.com/guide/components/services.html).
-
-4. [Tejas Lagvankar](https://plus.google.com/113624528637645978412/posts) wrote a [nice post](http://techtej.blogspot.com.es/2011/03/android-thread-constructspart-4.html) about this subject.
+### References
