@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>José Juan Sánchez Hernández</title>
+    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css">
