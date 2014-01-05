@@ -20,3 +20,7 @@ A continuación podéis encontrar los detalles y el material que he utilizado pa
 **Descripción**: En esta charla veremos los diferentes tipos de Services que existen en Android y cómo podemos utilizarlos en nuestras aplicaciones para realizar operaciones en background.
 
 [Transparencias](https://speakerdeck.com/josejuansanchez/android-services) / [Ejemplos](https://github.com/josejuansanchez/GDG-DevFestSur-2013)
+
+<p align="center">
+  <img src="http://josejuansanchez.github.io/images/gdgdevfestsur_android_services_512.png" />
+</p>
