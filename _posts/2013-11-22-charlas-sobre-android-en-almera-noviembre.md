@@ -6,7 +6,7 @@ category: android
 ---
 
 <p align="center">
-  <img src="http://josejuansanchez.github.io/images/betabeers_android_logo.pn" />
+  <img src="http://josejuansanchez.github.io/images/betabeers_android_logo.png" />
 </p>
 
 [Betabeers Almería](https://twitter.com/betabeersALM) y la [Comunidad Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), organizan una sesión de charlas sobre Android el próximo **29 de Noviembre**.
