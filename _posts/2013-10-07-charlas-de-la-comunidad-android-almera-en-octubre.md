@@ -13,13 +13,13 @@ La comunidad de Desarrolladores y Diseñadores Android de Almería y el Centro G
 
 ### Charlas
 
-1) **Scraping**. 
+- **Scraping**. 
 Por [Miguel Ángel López Vicente](https://plus.google.com/u/0/+MiguelÁngelLópezVicente).
 
-2) **Service vs IntentService**. 
+- **Service vs IntentService**. 
 Por [José Juan Sánchez Hernández](https://plus.google.com/u/0/110700942765815639630).
 
-3) **Aplicaciones Híbridas con PhoneGap**. 
+- **Aplicaciones Híbridas con PhoneGap**. 
 Por [Gerardo Parra Juan de la Cruz](https://plus.google.com/u/0/107579737416167533257) de [MobyteStudio](http://www.mobitstudio.com).
 
 
@@ -29,7 +29,7 @@ Viernes, **18 de Octubre** de 2013, a las **18:00 h**.
 
 ### Lugar
 
-Centro Guadalinfo de Huércal de Almería.
+Centro Guadalinfo de Huércal de Almería.  
 Calle Profesor Tierno Galván, 30 (Huércal de Almería).
 
 ### Colabora
@@ -38,5 +38,5 @@ Calle Profesor Tierno Galván, 30 (Huércal de Almería).
 
 ### Referencias
 
-[1] [Evento en Google+](https://plus.google.com/u/0/events/c7enj1rm08i6q45hnglvdc9kgc0).
-[2] [Android Almería en Google+](https://plus.google.com/u/0/communities/105420979515011141876).
+1. [Evento en Google+](https://plus.google.com/u/0/events/c7enj1rm08i6q45hnglvdc9kgc0).
+2. [Android Almería en Google+](https://plus.google.com/u/0/communities/105420979515011141876).
