@@ -19,6 +19,6 @@ title: Android Lab
   * [Implementing Efficient REST Service Patterns on Android](http://www.gqadonis.com/implementing-efficient-rest-service-patterns-on-android/).
   * [RESTDroid. Simple library for REST client implementation in Android](https://github.com/PCreations/RESTDroid). [Github]
   * [Android SQLite Database and ContentProvider](http://www.vogella.com/articles/AndroidSQLite/article.html). [Vogella] 
-  * [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/)
+  * [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/).
 
 [&laquo; Go back](./)
