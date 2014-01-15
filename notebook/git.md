@@ -7,4 +7,4 @@
 * [git - the simple guide &raquo;](http://rogerdudler.github.io/git-guide/)
 
 ### Git Flow
-* [Issues with git-flow &raquo;](http://scottchacon.com/2011/08/31/github-flow.html). By [Scott Chacon](http://scottchacon.com/), the author of the [Pro Git](http://progit.org/) book.
+* [Issues with git-flow &raquo;](http://scottchacon.com/2011/08/31/github-flow.html). By [Scott Chacon](http://scottchacon.com/), the author of the [Pro Git](http://git-scm.com/book) book.
