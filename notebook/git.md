@@ -13,7 +13,7 @@ Git
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
-* [Git for Scientists &raquo;](http://nyuccl.org/pages/GitTutorial/)[[source]](https://github.com/johnmcdonnell/Git-Tutorial)
+* [Git for Scientists &raquo;](http://nyuccl.org/pages/GitTutorial/) [[source]](https://github.com/johnmcdonnell/Git-Tutorial)
 
 ### Git Flow
 * [Issues with git-flow &raquo;](http://scottchacon.com/2011/08/31/github-flow.html). By [Scott Chacon](http://scottchacon.com/), the author of the [Pro Git](http://git-scm.com/book) book.
