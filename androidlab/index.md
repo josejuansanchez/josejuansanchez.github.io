@@ -48,6 +48,7 @@ title: Android Lab
   - [AdMob](admob).
   - [Chrome WebView for Android](chrome_webview).
   - [Media and Camera](media_camera).
+  - [OpenCV for Android](opencv).
 
 ### Section B
 
