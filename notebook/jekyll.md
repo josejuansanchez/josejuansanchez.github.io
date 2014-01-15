@@ -6,4 +6,4 @@ Jekyll
 * Good Examples: 
   * [web](http://erjjones.github.io/) and [source](https://github.com/staceybaker1974/erjjones.github.com).
   * http://girliemac.com/blog/2013/12/27/wordpress-to-jekyll/
-  * http://davidensinger.com
+  * http://davidensinger.com and [source](https://github.com/davidensinger/davidensinger.github.io).
