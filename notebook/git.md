@@ -11,6 +11,9 @@ Git
 * [PeepCode Git Internals &raquo;](https://github.com/pluralsight/git-internals-pdf/releases)
 * [Git Homepage &raquo;](http://git-scm.com/)
 
+### Git for Computer Scientists
+* [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
+
 ### Git Flow
 * [Issues with git-flow &raquo;](http://scottchacon.com/2011/08/31/github-flow.html). By [Scott Chacon](http://scottchacon.com/), the author of the [Pro Git](http://git-scm.com/book) book.
 * [A successful Git branching model &raquo;](http://nvie.com/posts/a-successful-git-branching-model/)
