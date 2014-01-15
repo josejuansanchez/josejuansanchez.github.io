@@ -1,3 +1,5 @@
+# Git
+
 ### Resources for Learning Git
 * [Git Reference &raquo;](http://gitref.org)
 * [Free online version of Pro Git &raquo;](http://git-scm.com/book)[spanish version &raquo;](http://git-scm.com/book/es)
