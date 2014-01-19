@@ -110,7 +110,7 @@ Proyecto realizado en Junio de **2012**, en el que se desarrolló una guía para
 
 <a name="androidlab"/>
 ### Android Lab
-> [http://www.androidlab.es](http://www.androidlab.es)  **[offline]**
+> [http://josejuansanchez.org/androidlab](http://josejuansanchez.org/androidlab)
 
 **Android Lab** es una recopilación de recursos relacionados con la programación para Android, donde se pueden encontrar cursos, librerías, buenas prácticas, etc.
 
