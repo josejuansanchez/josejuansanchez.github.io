@@ -30,9 +30,6 @@ title: Android Lab
   - [Context](context).
   - [Android Wakelocks](wakelocks).
   - [Scheduling Repeating Alarms](scheduling_repeating_alarms).  
-
-### Section A
-
   - [Android Studio](android_studio).
   - [Android best coding practices](best_coding_practices).
   - [Code Style Guidelines](code_style).
@@ -49,9 +46,6 @@ title: Android Lab
   - [Chrome WebView for Android](chrome_webview).
   - [Media and Camera](media_camera).
   - [OpenCV for Android](opencv).
-
-### Section B
-
   - [Videos](videos).
   - [Tools](tools).
   - [Examples](examples).
