@@ -1,5 +1,5 @@
-Massive Open Online Course
-==========================
+Massive Open Online Courses
+===========================
 
 * [Programming Mobile Applications for Android Handheld Systems](https://www.coursera.org/course/android)
 * [Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems &raquo;](https://www.coursera.org/course/posa)
