@@ -15,6 +15,6 @@ title: Android Lab
   * [ListView Tips & Tricks #3: Create Fancy ListViews](http://cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/). Cyril Mottier.
   * [ListView Tips & Tricks #4: Add Several Clickable Areas](http://cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/). Cyril Mottier.
   * [ListView Tips & Tricks #5: Enlarged Touchable Areas](http://cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/). Cyril Mottier.
-  * [Tricks to boost performance of ListView &raquo;](http://optimizationtricks.blogspot.in/2014/01/tricks-to-boost-performance-of-list-view.html). Abhishek Birdawade.
+  * [Tricks to boost performance of ListView](http://optimizationtricks.blogspot.in/2014/01/tricks-to-boost-performance-of-list-view.html). Abhishek Birdawade.
 
 [&laquo; Go back](./)
