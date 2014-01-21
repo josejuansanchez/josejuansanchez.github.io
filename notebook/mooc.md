@@ -12,3 +12,6 @@ Massive Open Online Courses
 
 * [Creative, Serious and Playful Science of Android Apps &raquo;](https://www.coursera.org/course/androidapps101)  
   Coursera. University of Illinois.
+
+* [Mobile Web Development &raquo;](https://www.udacity.com/course/cs256)  
+  Udacity. 
