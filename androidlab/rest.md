@@ -20,5 +20,6 @@ title: Android Lab
   * [RESTDroid. Simple library for REST client implementation in Android](https://github.com/PCreations/RESTDroid). [Github]
   * [Android SQLite Database and ContentProvider](http://www.vogella.com/articles/AndroidSQLite/article.html). [Vogella] 
   * [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/).
+  * [Connecting Android Apps to REST APIs Services](http://xda-devcon.com/wp-content/uploads/2013/08/REST.pdf).
 
 [&laquo; Go back](./)
