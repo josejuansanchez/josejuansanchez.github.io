@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El Hackatón
-date: February 17, 2014
+date: February 18, 2014
 category: events
 ---
 
