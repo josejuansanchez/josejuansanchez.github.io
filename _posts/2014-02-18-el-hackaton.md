@@ -48,7 +48,6 @@ Con la colaboración de:
 - [Geekia](http://www.geekia.es). 
 - [La Oficina](http://laoficinacultural.org).
 - [vmedia](http://www.vmedia.es).
-- 
 
 ### Patrocinadores
 
