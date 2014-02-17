@@ -27,11 +27,12 @@ El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014
 
 El evento está siendo organizado por los siguientes colectivos locales: 
 - [GDG de Almería](https://plus.google.com/100779332357161488372/posts).
-- Asociación UNIA
-- Betabeers Almería 
-- HackLab Almería 
-- Comunidad de Desarrolladores Android Almería
+- [Asociación UNIA](http://unia.ual.es).
+- [Betabeers Almería](http://betabeers.com/community/betabeers-almeria-25/).
+- [HackLab Almería](http://hacklabalmeria.net). 
+- [Comunidad de Desarrolladores Android Almería](https://plus.google.com/u/0/communities/105420979515011141876).
 
 Con la colaboración de: 
-- Geekia 
-- La Oficina
+- [Geekia](http://www.geekia.es). 
+- [La Oficina](http://laoficinacultural.org).
+- [vmedia](http://www.vmedia.es).
