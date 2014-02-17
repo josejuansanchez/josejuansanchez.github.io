@@ -33,7 +33,7 @@ El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014
 
 ### Programa
 
-Puedes consultar más detalles en la web oficial del evento, [http://elhackaton.com](http://elhackaton.com).
+Puedes consultar el programa completo en la web oficial del evento, [http://elhackaton.com](http://elhackaton.com).
 
 ### Organiza
 
