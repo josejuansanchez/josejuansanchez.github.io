@@ -29,6 +29,9 @@ También asistirás a conferencias de nivel, disfrutarás de unas tapas bien chu
 
 El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014**, en un lugar muy céntrico de la capital.
 
+### Programa
+
+Puedes consultar más detalles en la web oficial, [http://elhackaton.com](http://elhackaton.com).
 
 ### Organiza
 
