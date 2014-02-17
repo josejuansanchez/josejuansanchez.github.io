@@ -51,4 +51,4 @@ Con la colaboración de:
 
 ### Patrocinadores
 
-Este evento está patrocinado por: [Tecnilógica](http://tecnilogica.com/), [O'Reilly](http://www.oreilly.com), [Bitnami](http://bitnami.com), [La Virgulilla](https://twitter.com/lavirgulillaes/), [mememtum](http://mememtum.com), [Punto Nodal](http://www.linkedin.com/company/soloraf---punto-nodal-s.l./products?trk=top_nav_products), [CPITIA](http://www.cpitia.org), [Idiria](http://www.idiria.com) y [Kirau](http://kirau.com).
+[Tecnilógica](http://tecnilogica.com/), [O'Reilly](http://www.oreilly.com), [Bitnami](http://bitnami.com), [La Virgulilla](https://twitter.com/lavirgulillaes/), [mememtum](http://mememtum.com), [Punto Nodal](http://www.linkedin.com/company/soloraf---punto-nodal-s.l./products?trk=top_nav_products), [CPITIA](http://www.cpitia.org), [Idiria](http://www.idiria.com) y [Kirau](http://kirau.com).
