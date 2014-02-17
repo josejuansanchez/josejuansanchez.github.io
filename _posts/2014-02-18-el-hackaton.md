@@ -54,5 +54,4 @@ Con la colaboración de:
 - [vmedia](http://www.vmedia.es).
 
 
-Algo grande se está cociendo en Almería, ¿te lo vas a perder? Yo desde luego que no... Os espero a todos en el [&laquo;El Hackatón&raquo;](http://elhackaton.com).
-
+Algo grande se está cocinando en Almería, ¿te lo vas a perder? Yo desde luego que no... Os espero a todos en el [&laquo;El Hackatón&raquo;](http://elhackaton.com).
