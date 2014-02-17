@@ -21,7 +21,7 @@ Es un evento en el que podrás pasar **28 horas desarrollando proyectos para cam
 
 [&laquo;El Hackatón&raquo;](http://elhackaton.com) pretende reunir a 50 profesionales y estudiantes del mundo del diseño, la creación de contenidos y el desarrollo de software en un mismo espacio para crear proyectos verdaderamente transformadores.
 
-Tendrás la oportunidad de formar parte de un equipo con profesionales de varias disciplinas y con el objetivo de desarrollar un producto digital open source que sirva para mejorar la calidad de vida de las personas.
+Tendrás la oportunidad de formar parte de un equipo con profesionales de varias disciplinas y desarrollar un producto digital open source que sirva para mejorar la calidad de vida de las personas.
 
 También asistirás a conferencias de nivel, disfrutarás de unas tapas bien chulas y conocerás a gente tan maja como tú. ¿Te lo vas a perder?
 
