@@ -6,7 +6,7 @@ category: events
 ---
 
 <p align="center">
-  <img src="http://josejuansanchez.github.io/images/logo_elhackaton.png" />
+  [<img src="http://josejuansanchez.github.io/images/logo_elhackaton.png" />](http://elhackaton.com)
 </p>
 
 ### ¿Qué es un Hackatón?
