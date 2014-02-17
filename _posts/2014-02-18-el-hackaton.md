@@ -21,7 +21,7 @@ Es un evento en el que podrás pasar **28 horas desarrollando proyectos para cam
 
 Podrás formar parte de un equipo con profesionales de varias disciplinas y **desarrollar un producto digital open source que sirva para mejorar la calidad de vida de las personas**.
 
-También tendrás la oportunidad de asistirás a conferencias de nivel. El evento contará con cuatro ponentes de primer nivel que hablarán sobre **Experiencia de Usuario**, **Tecnología**, **Innovación y Negocio online**.
+También tendrás la oportunidad de asistir a conferencias de nivel. El evento contará con cuatro ponentes de primer nivel que hablarán sobre **Experiencia de Usuario**, **Tecnología**, **Innovación y Negocio online**.
 
 ### ¿A quién va dirigido?
 
