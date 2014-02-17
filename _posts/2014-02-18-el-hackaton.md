@@ -17,7 +17,9 @@ Fuente: [Wikipedia](http://es.wikipedia.org/wiki/Hackathon)
 
 ### ¿Qué es &laquo;El Hackatón&raquo;?
 
-Un evento que no debes perderte.
+Un evento que no debes perderte.  
+
+En &laquo;El Hackatón&raquo;, http://elhackaton.com, "28 horas desarrollando proyectos para cambiar el mundo". Queremos reunir a 50 profesionales y estudiantes del mundo del diseño, la creación de contenidos y el desarrollo de software en un mismo espacio para crear proyectos verdaderamente transformadores.
 
 ### Dónde y cuándo
 
