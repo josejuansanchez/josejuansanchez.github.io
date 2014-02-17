@@ -16,3 +16,9 @@ category: events, development
 Fuente: [Wikipedia](http://es.wikipedia.org/wiki/Hackathon)
 
 ### ¿Qué es &laquo;El Hackatón&raquo;?
+
+Un evento que no debes perderte.
+
+### Dónde y cuándo
+
+El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014**, en un lugar muy céntrico de la capital.
