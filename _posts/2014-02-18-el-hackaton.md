@@ -35,6 +35,10 @@ El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014
 
 Puedes consultar el programa completo en la web oficial del evento, [http://elhackaton.com](http://elhackaton.com).
 
+### Patrocinadores
+
+[Tecnilógica](http://tecnilogica.com/), [O'Reilly](http://www.oreilly.com), [Bitnami](http://bitnami.com), [La Virgulilla](https://twitter.com/lavirgulillaes/), [mememtum](http://mememtum.com), [Punto Nodal](http://www.linkedin.com/company/soloraf---punto-nodal-s.l./products?trk=top_nav_products), [CPITIA](http://www.cpitia.org), [Idiria](http://www.idiria.com) y [Kirau](http://kirau.com).
+
 ### Organiza
 
 El evento está siendo organizado por los siguientes colectivos locales: 
@@ -49,6 +53,3 @@ Con la colaboración de:
 - [La Oficina](http://laoficinacultural.org).
 - [vmedia](http://www.vmedia.es).
 
-### Patrocinadores
-
-[Tecnilógica](http://tecnilogica.com/), [O'Reilly](http://www.oreilly.com), [Bitnami](http://bitnami.com), [La Virgulilla](https://twitter.com/lavirgulillaes/), [mememtum](http://mememtum.com), [Punto Nodal](http://www.linkedin.com/company/soloraf---punto-nodal-s.l./products?trk=top_nav_products), [CPITIA](http://www.cpitia.org), [Idiria](http://www.idiria.com) y [Kirau](http://kirau.com).
