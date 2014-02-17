@@ -2,7 +2,7 @@
 layout: post
 title: El Hackatón
 date: February 17, 2014
-category: events, development
+category: events
 ---
 
 <p align="center">
