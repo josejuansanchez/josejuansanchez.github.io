@@ -29,7 +29,7 @@ El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014
 ### Organiza
 
 El evento está siendo organizado por los siguientes colectivos locales: 
-- [GDG de Almería](https://plus.google.com/100779332357161488372/posts).
+- [GDG Almería](https://plus.google.com/100779332357161488372/posts).
 - [Asociación UNIA](http://unia.ual.es).
 - [Betabeers Almería](http://betabeers.com/community/betabeers-almeria-25/).
 - [HackLab Almería](http://hacklabalmeria.net). 
