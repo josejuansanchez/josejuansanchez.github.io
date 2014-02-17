@@ -25,6 +25,9 @@ En [&laquo;El Hackatón&raquo;](http://elhackaton.com), queremos reunir a 50 pro
 
 El evento tendrá lugar en **Almería** los días **22** y **23 de Marzo de 2014**, en un lugar muy céntrico de la capital.
 
+
+### Organiza
+
 El evento está siendo organizado por los siguientes colectivos locales: 
 - [GDG de Almería](https://plus.google.com/100779332357161488372/posts).
 - [Asociación UNIA](http://unia.ual.es).
