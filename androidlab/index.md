@@ -50,6 +50,7 @@ title: Android Lab
   - [Tools](tools).
   - [Examples](examples).
   - [Libs](libs).  
+  - [Android and MJPEG](mjpeg).
 
 
 ### References
