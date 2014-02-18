@@ -23,3 +23,11 @@ title: Android
   * **Android Services**.  In [V Viernes Androides](http://unia.ual.es/moodle/course/view.php?id=2), organized by [UNIA](http://unia.ual.es), a University Student Association of Almería. 22 November 2013. The slides used in this talk can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/viernes-androides-android-services) and  the sample codes at [GitHub](https://github.com/josejuansanchez/GDG-DevFestSur-2013).
 
   * Presentation of the app **"culturAL"** in [XIII Betabeers Almería](http://betabeers.com/event/xiii-betabeers-almeria-1429/), 20 December 2013. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/cultural).
+
+### Android Lab
+
+Android Lab
+
+* http://josejuansanchez.org/androidlab
+
+Android Lab is a collection of Resources to learn Android Development, which you can find find courses, libraries, best practices, etc..
