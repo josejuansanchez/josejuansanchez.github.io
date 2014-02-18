@@ -26,8 +26,4 @@ title: Android
 
 ### Android Lab
 
-Android Lab
-
-* http://josejuansanchez.org/androidlab
-
-Android Lab is a collection of Resources to learn Android Development, which you can find find courses, libraries, best practices, etc..
+* [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development, which you can find find courses, libraries, best practices, etc..
