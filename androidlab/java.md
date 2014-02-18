@@ -5,6 +5,7 @@ title: Android Lab
 
 ### Java
 
+* [Java Fundamental Tutorials](https://thenewcircle.com/bookshelf/java_fundamentals_tutorial/index.html). NewCircle.
 * [Java Tutorial](http://www.tutorialspoint.com/java/index.htm).
 * [Introduction to Java Programming](http://www.vogella.com/articles/JavaIntroduction/article.html). Lars Vogel.
 * [Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm). MIT Course.
