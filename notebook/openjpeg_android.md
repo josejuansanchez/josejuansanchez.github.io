@@ -1,4 +1,7 @@
-### OpenJPEG for Android
+OpenJPEG for Android
+--------------------
+
+#### opj_config.h
 
 He tenido que crear la constante:
 
@@ -6,7 +9,7 @@ He tenido que crear la constante:
 #define OPJ_HAVE_STDINT_H 1
 `````
 
-El archivo ```opj_config.h```` ha quedado así:
+El archivo ```opj_config.h``` ha quedado así:
 
 ````
 #ifndef OPJ_CONFIG_H
