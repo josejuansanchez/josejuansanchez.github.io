@@ -52,6 +52,7 @@ title: Android Lab
   - [Examples](examples).
   - [Libs](libs).  
   - [Android and MJPEG](mjpeg).
+  - [NDK](ndk).
 
 
 ### References
