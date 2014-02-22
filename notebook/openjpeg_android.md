@@ -1,5 +1,13 @@
 ### OpenJPEG for Android
 
+He tenido que crear la constante:
+
+````
+#define OPJ_HAVE_STDINT_H 1
+`````
+
+El archivo ```opj_config.h```` ha quedado así:
+
 ````
 #ifndef OPJ_CONFIG_H
 #define OPJ_CONFIG_H
