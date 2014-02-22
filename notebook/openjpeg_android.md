@@ -1,9 +1,9 @@
 OpenJPEG for Android
 --------------------
 
-#### opj_config.h
+### opj_config.h
 
-He tenido que crear la constante:
+He tenido que crear la siguiente constante para evitar un error al compilar con ```ndk-build```:
 
 ````
 #define OPJ_HAVE_STDINT_H 1
