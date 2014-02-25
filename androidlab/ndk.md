@@ -13,6 +13,7 @@ title: Android Lab
 * Slides [Introduction to the Android NDK](https://speakerdeck.com/mauimauer/introduction-to-the-android-ndk). By [mauimauer](https://speakerdeck.com/mauimauer).
 * [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest).
 * Slides [Android and the x86 Platform](https://speakerdeck.com/mauimauer/android-and-the-x86-platform). By [mauimauer](https://speakerdeck.com/mauimauer).
-* [http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038](Making Augmented Reality Applications with Android NDK).
+* [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038).
+* [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web).
 
 [&laquo; Go back](./)
