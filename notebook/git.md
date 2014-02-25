@@ -10,6 +10,7 @@ Git
 * [git - the simple guide &raquo;](http://rogerdudler.github.io/git-guide/)
 * [PeepCode Git Internals &raquo;](https://github.com/pluralsight/git-internals-pdf/releases)
 * [Git Homepage &raquo;](http://git-scm.com/)
+* [What are other good resources for learning Git and GitHub?](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
