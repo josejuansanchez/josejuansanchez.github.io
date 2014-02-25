@@ -11,5 +11,6 @@ title: Android Lab
 * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). By Viacheslav Titov.
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). By Indigoo.
 * Slides [Introduction to the Android NDK](https://speakerdeck.com/mauimauer/introduction-to-the-android-ndk). By [mauimauer](https://speakerdeck.com/mauimauer).
+* Slides [Android and the x86 Platform](https://speakerdeck.com/mauimauer/android-and-the-x86-platform). By [mauimauer](https://speakerdeck.com/mauimauer).
 
 [&laquo; Go back](./)
