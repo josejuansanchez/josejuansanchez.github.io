@@ -15,5 +15,6 @@ title: Android Lab
 * Slides [Android and the x86 Platform](https://speakerdeck.com/mauimauer/android-and-the-x86-platform). By [mauimauer](https://speakerdeck.com/mauimauer).
 * [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038).
 * [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web).
+* [Advanced NDK topics](http://www.slideshare.net/seamaster29/advanced-ndk-topics).
 
 [&laquo; Go back](./)
