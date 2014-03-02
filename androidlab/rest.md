@@ -21,5 +21,6 @@ title: Android Lab
   * [Android SQLite Database and ContentProvider](http://www.vogella.com/articles/AndroidSQLite/article.html). [Vogella] 
   * [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/).
   * [Connecting Android Apps to REST APIs Services](http://xda-devcon.com/wp-content/uploads/2013/08/REST.pdf). [Jason Ostrander](http://www.twitter.com/jasonostrander)
+  * [Rest interaction in Android](http://mytechaddiction.blogspot.com.es/2014/02/rest-interaction-in-android.html). [Federico Paolinelli](http://www.twitter.com/fedepaol).
 
 [&laquo; Go back](./)
