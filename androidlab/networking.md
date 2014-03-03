@@ -13,6 +13,7 @@ title: Android Lab
   * [A Volley introduction – Part 2](http://njzk2.wordpress.com/2013/06/06/a-volley-introduction-part-2/).
   * [An extension to Volley](http://njzk2.wordpress.com/2013/06/17/an-extension-to-volley/).
   * [How to create volley.jar](http://stackoverflow.com/a/16721116/2090682).
+  * [Asynchronous HTTP Requests in Android Using Volley](http://arnab.ch/blog/2013/08/asynchronous-http-requests-in-android-using-volley/).
 
 ### Training
   * [Performing Network Operations](http://developer.android.com/training/basics/network-ops/index.html). [Android Developers]
