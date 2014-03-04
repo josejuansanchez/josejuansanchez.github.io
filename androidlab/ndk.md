@@ -25,6 +25,8 @@ title: Android Lab
 ---- 
 ### Advantages and Disadvantages
 
+#### Advantages 
+
 1. NDK may improve application performance. This is usually true for many processor-bound applications. Many multimedia applications and video games use native code for processor-intensive tasks.
 
 The performance improvements can come from three sources. 
@@ -39,8 +41,11 @@ data elements to be processed in parallel. One particular coding task example is
 
 2. The second advantage of NDK is that it allows the porting of existing C and C++ code to Android. This does not only speed up the development significantly, but also allows us to share code between Android and non-Android projects.
 
-Before we decide to use NDK for an Android app, it is good to know that NDK will not benefit most Android apps. It is not recommended to work in NDK simply because one prefers programming in C or C++ over Java. NDK cannot access lots of APIs available in the Android SDK directly, and developing in NDK will always introduce extra complexity into your application.
+#### Disadvantages 
 
 The advantages of using native code do not come free. Calling JNI methods introduces extra work for the Dalvik VM and since the code is compiled, no runtime optimization can be applied. In fact, developing in NDK doesn't guarantee a performance improvement and can actually harm performance at times. Therefore, we only stated that it may improve the app's performance.
+
+Before we decide to use NDK for an Android app, it is good to know that NDK will not benefit most Android apps. It is not recommended to work in NDK simply because one prefers programming in C or C++ over Java. NDK cannot access lots of APIs available in the Android SDK directly, and developing in NDK will always introduce extra complexity into your application.
+
 
 [&laquo; Go back](./)
