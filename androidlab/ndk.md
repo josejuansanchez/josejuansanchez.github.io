@@ -18,5 +18,7 @@ title: Android Lab
 * [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web).
 * [Advanced NDK topics](http://www.slideshare.net/seamaster29/advanced-ndk-topics).
 * [Google I/O 2011: Bringing C and C++ Games to Android](https://www.youtube.com/watch?v=5yorhsSPFG4&feature=youtube_gdata_player).
+* [Learn about Android Internals and NDK](https://www.youtube.com/watch?v=byFTAhXVF7k&feature=youtube_gdata_player).
+* [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 
 [&laquo; Go back](./)
