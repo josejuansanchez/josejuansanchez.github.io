@@ -27,7 +27,7 @@ title: Android Lab
 
 #### Advantages 
 
-NDK **may improve application performance**. This is usually true for many processor-bound applications. Many multimedia applications and video games use native code for processor-intensive tasks.
+* NDK **may improve application performance**. This is usually true for many processor-bound applications. Many multimedia applications and video games use native code for processor-intensive tasks.
 
 The performance improvements can come from three sources. 
 
