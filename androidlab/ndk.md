@@ -22,7 +22,7 @@ title: Android Lab
 * [Learn about Android Internals and NDK](https://www.youtube.com/watch?v=byFTAhXVF7k&feature=youtube_gdata_player).
 * [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 
-## JNI
+### JNI
 
 * [JNI Tips](https://developer.android.com/training/articles/perf-jni.html). Android Developers.
 * [Java Native Interface Specification](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html). Oracle, Java SE Documentation.
