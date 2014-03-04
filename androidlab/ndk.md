@@ -31,8 +31,7 @@ title: Android Lab
 
 The performance improvements can come from three sources. 
 
-  * Firstly, the native code is compiled to a binary code and run directly on OS, while Java code is translated into Java byte-code and interpreted by Dalvik Virtual Machine (VM). At Android 2.2 or higher, a Just-In-Time (JIT) compiler is added to Dalvik VM to analyze and optimize the Java byte-code while the program is running (for example, JIT can compile a part of the byte-code to binary code before its execution). But in many cases, native code still
-runs faster than Java code.
+    * Firstly, the native code is compiled to a binary code and run directly on OS, while Java code is translated into Java byte-code and interpreted by Dalvik Virtual Machine (VM). At Android 2.2 or higher, a Just-In-Time (JIT) compiler is added to Dalvik VM to analyze and optimize the Java byte-code while the program is running (for example, JIT can compile a part of the byte-code to binary code before its execution). But in many cases, native code still runs faster than Java code.
 
   * The second source for performance improvements at NDK is that native code allows developers to make use of some processor features that are not accessible at Android SDK, such as NEON, a Single Instruction Multiple Data (SIMD) technology, allowing multiple
 data elements to be processed in parallel. One particular coding task example is the color conversion for a video frame or a photo. Suppose we are to convert a photo of 1920x1280 pixels from the RGB color space to the YCbCr color space. The naive approach is to apply a conversion formula to every pixel (that is, over two million pixels). With NEON, we can process multiple pixels at one time to reduce the processing time.
