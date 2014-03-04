@@ -17,5 +17,6 @@ title: Android Lab
 * [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038).
 * [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web).
 * [Advanced NDK topics](http://www.slideshare.net/seamaster29/advanced-ndk-topics).
+* [Google I/O 2011: Bringing C and C++ Games to Android](https://www.youtube.com/watch?v=5yorhsSPFG4&feature=youtube_gdata_player).
 
 [&laquo; Go back](./)
