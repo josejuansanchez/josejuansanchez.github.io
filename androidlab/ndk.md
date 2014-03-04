@@ -6,8 +6,6 @@ title: Android Lab
 ### NDK (Native Development Kit)
 
 * [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html). Android Developers.
-* [JNI Tips](https://developer.android.com/training/articles/perf-jni.html). Android Developers.
-* [Java Native Interface Specification](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html). Oracle, Java SE Documentation.
 * [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
 * [Android StackBlur](https://github.com/kikoso/android-stackblur). Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
@@ -23,6 +21,12 @@ title: Android Lab
 * [Google I/O 2011: Bringing C and C++ Games to Android](https://www.youtube.com/watch?v=5yorhsSPFG4&feature=youtube_gdata_player).
 * [Learn about Android Internals and NDK](https://www.youtube.com/watch?v=byFTAhXVF7k&feature=youtube_gdata_player).
 * [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
+
+## JNI
+
+* [JNI Tips](https://developer.android.com/training/articles/perf-jni.html). Android Developers.
+* [Java Native Interface Specification](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html). Oracle, Java SE Documentation.
+
 
 ---- 
 ### Advantages and Disadvantages
