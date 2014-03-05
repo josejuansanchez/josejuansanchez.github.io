@@ -11,6 +11,9 @@ Git
 * [PeepCode Git Internals &raquo;](https://github.com/pluralsight/git-internals-pdf/releases)
 * [Git Homepage &raquo;](http://git-scm.com/)
 * [What are other good resources for learning Git and GitHub? &raquo;](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* [Git Tutorials &raquo;](https://www.atlassian.com/git/tutorial) Atlassian.
+* [Git Workflows &raquo;](https://www.atlassian.com/git/workflows). Atlassian.
+* [Git Resources &raquo;](https://www.atlassian.com/git/resources). Atlassian.
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
