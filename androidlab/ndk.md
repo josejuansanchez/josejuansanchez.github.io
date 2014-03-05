@@ -23,6 +23,7 @@ title: Android Lab
 * [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 * [Android Native Development Kit Cookbook](http://www.amazon.com/Android-Native-Development-Kit-Cookbook/dp/1849691509).
 * Example: [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
+* Example: [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
 
 ### JNI (Java Native Interface)
 
