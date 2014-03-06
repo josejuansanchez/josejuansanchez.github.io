@@ -7,7 +7,6 @@ title: Android Lab
 
 * [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html). Android Developers.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
-* [Getting Native with NDK at AnDevCon](Getting Native with NDK at AnDevCon). Marko Gargenta.
 * Slides: [Using the Android Native Development Kit (NDK)](http://www.slideshare.net/ph0b/using-the-android-native-development-kit-ndk). Intel.
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). Indigoo.
 * Slides: [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest). [Sebastian Maurer](https://speakerdeck.com/mauimauer).
