@@ -26,6 +26,7 @@ title: Android Lab
 * Example: [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
 * Example: [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
+* [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
 
 ### JNI (Java Native Interface)
 
