@@ -9,7 +9,6 @@ title: Android Lab
 * [Using the Android Native Development Kit (NDK)](http://www.slideshare.net/ph0b/using-the-android-native-development-kit-ndk). Intel.
 * [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
-* [Android StackBlur](https://github.com/kikoso/android-stackblur). Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
 * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). By Viacheslav Titov.
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). By Indigoo.
 * Slides [Introduction to the Android NDK](https://speakerdeck.com/mauimauer/introduction-to-the-android-ndk). By [mauimauer](https://speakerdeck.com/mauimauer).
@@ -23,8 +22,6 @@ title: Android Lab
 * [Android Internals](http://www.slideshare.net/marakana99/marakana-androidinternals). Marko Gargenta.
 * [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 * [Android Native Development Kit Cookbook](http://www.amazon.com/Android-Native-Development-Kit-Cookbook/dp/1849691509).
-* Example: [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
-* Example: [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
 * [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
 
@@ -32,6 +29,11 @@ title: Android Lab
 
 * [JNI Tips](https://developer.android.com/training/articles/perf-jni.html). Android Developers.
 * [Java Native Interface Specification](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html). Oracle, Java SE Documentation.
+
+#### Examples
+* [Android StackBlur](https://github.com/kikoso/android-stackblur). Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
+* Example: [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
+* Example: [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
 
 
 ---- 
