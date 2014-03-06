@@ -28,7 +28,6 @@ title: Android Lab
 
 * [JNI Tips](https://developer.android.com/training/articles/perf-jni.html). Android Developers.
 * [Java Native Interface Specification](http://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/jniTOC.html). Oracle, Java SE Documentation.
-* [JNI NDK topics](http://www.slideshare.net/seamaster29/advanced-ndk-topics).
 
 #### Examples
 * [Android StackBlur](https://github.com/kikoso/android-stackblur). Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
