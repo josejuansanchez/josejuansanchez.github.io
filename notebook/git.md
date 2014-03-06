@@ -17,6 +17,7 @@ Git
 * [A visual Git reference &raquo;](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Git Cheatsheet &raquo;](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [GitHub Training & Guides &raquo;](https://www.youtube.com/user/GitHubGuides)
+* [Git Internals](https://peepcode.com/products/git-internals-pdf) by PeepCode.
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
