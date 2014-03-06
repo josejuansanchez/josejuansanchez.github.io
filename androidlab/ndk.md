@@ -32,8 +32,8 @@ title: Android Lab
 
 #### Examples
 * [Android StackBlur](https://github.com/kikoso/android-stackblur). Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
-* Example: [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
-* Example: [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
+* [Porting Libav/FFMPEG on Android](http://libavandroid.wordpress.com/2013/12/31/porting-libavffmpeg-android/).
+* [Android FFMPEG Tutorial](https://github.com/roman10/android-ffmpeg-tutorial).
 
 
 ---- 
