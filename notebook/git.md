@@ -26,6 +26,7 @@ Git
 ### Git Worklows
 * [Git Workflows &raquo;](https://www.atlassian.com/git/workflows). Atlassian.
 * [Issues with git-flow &raquo;](http://scottchacon.com/2011/08/31/github-flow.html). By [Scott Chacon](http://scottchacon.com/), the author of the [Pro Git](http://git-scm.com/book) book.
+* [Git Workflows &raquo;](http://documentup.com/skwp/git-workflows-book) by [Yan Pritzker](http://yanpritzker.com).
 * [A successful Git branching model &raquo;](http://nvie.com/posts/a-successful-git-branching-model/)
 * [How to use a scalable Git branching model called Gitflow &raquo;](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow)
 * [A short introduction to Git Flow &raquo;](http://vimeo.com/16018419)
