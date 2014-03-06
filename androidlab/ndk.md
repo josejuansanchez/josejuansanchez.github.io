@@ -11,7 +11,7 @@ title: Android Lab
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). Indigoo.
 * Slides: [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest). [Sebastian Maurer](https://speakerdeck.com/mauimauer).
 * Slides [Android and the x86 Platform](https://speakerdeck.com/mauimauer/android-and-the-x86-platform). [Sebastian Maurer](https://speakerdeck.com/mauimauer).
-* Slides: [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038).
+* Slides: [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038). Evren Coskun.
 * Slides: [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web). Noritsuna Imamura.
 * Video: [Bringing C and C++ Games to Android](https://www.youtube.com/watch?v=5yorhsSPFG4&feature=youtube_gdata_player). Google I/O 2011.
 * Video: [Learn about Android Internals and NDK](https://www.youtube.com/watch?v=byFTAhXVF7k&feature=youtube_gdata_player). Marko Gargenta.
