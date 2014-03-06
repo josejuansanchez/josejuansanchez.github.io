@@ -28,3 +28,4 @@ Git
 * [A successful Git branching model &raquo;](http://nvie.com/posts/a-successful-git-branching-model/)
 * [How to use a scalable Git branching model called Gitflow &raquo;](http://buildamodule.com/video/change-management-and-version-control-deploying-releases-features-and-fixes-with-git-how-to-use-a-scalable-git-branching-model-called-gitflow)
 * [A short introduction to Git Flow &raquo;](http://vimeo.com/16018419)
+* [Understanding the GitHub Workflow &raquo;](http://guides.github.com/overviews/flow/) GitHub Guides.
