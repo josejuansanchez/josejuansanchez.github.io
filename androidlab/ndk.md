@@ -18,7 +18,7 @@ title: Android Lab
 * Slides: [Android Internals](http://www.slideshare.net/marakana99/marakana-androidinternals). Marko Gargenta.
 * Video: [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
-* [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
+* Slides: [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
 * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). Viacheslav Titov.
 * [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Android Native Development Kit Cookbook](http://www.amazon.com/Android-Native-Development-Kit-Cookbook/dp/1849691509).
