@@ -20,6 +20,7 @@ title: Android Lab
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
 * Slides: [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
 * [How to reduce binaries size](http://blog.algolia.com/android-ndk-how-to-reduce-libs-size/).
+* [Using 3rd party C++ libraries with Prebuilts and standalone toolchain](http://morgwai.pl/ndkTutorial/).
 * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). Viacheslav Titov.
 * [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Android Native Development Kit Cookbook](http://www.amazon.com/Android-Native-Development-Kit-Cookbook/dp/1849691509).
