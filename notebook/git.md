@@ -17,6 +17,7 @@ Git
 * [Think like a Git &raquo;](http://think-like-a-git.net)
 * [A visual Git reference &raquo;](http://marklodato.github.io/visual-git-guide/index-en.html)
 * [Git Cheatsheet &raquo;](http://www.ndpsoftware.com/git-cheatsheet.html)
+* [GitHub Training & Guides &raquo;](https://www.youtube.com/user/GitHubGuides)
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
