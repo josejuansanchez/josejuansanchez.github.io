@@ -14,6 +14,7 @@ Git
 * [Git Tutorials &raquo;](https://www.atlassian.com/git/tutorial) Atlassian.
 * [Git Workflows &raquo;](https://www.atlassian.com/git/workflows). Atlassian.
 * [Git Resources &raquo;](https://www.atlassian.com/git/resources). Atlassian.
+* [Think like a Git &raquo;](http://think-like-a-git.net)
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
