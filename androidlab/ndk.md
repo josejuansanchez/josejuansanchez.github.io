@@ -9,10 +9,10 @@ title: Android Lab
 * [Using the Android Native Development Kit (NDK)](http://www.slideshare.net/ph0b/using-the-android-native-development-kit-ndk). Intel.
 * [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
+* [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest). Sebastian Maurer.
 * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). By Viacheslav Titov.
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). By Indigoo.
 * Slides [Introduction to the Android NDK](https://speakerdeck.com/mauimauer/introduction-to-the-android-ndk). By [mauimauer](https://speakerdeck.com/mauimauer).
-* [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest).
 * Slides [Android and the x86 Platform](https://speakerdeck.com/mauimauer/android-and-the-x86-platform). By [mauimauer](https://speakerdeck.com/mauimauer).
 * [Making Augmented Reality Applications with Android NDK](http://www.slideshare.net/zilk/making-augmented-reality-applications-with-android-ndk-28065038).
 * [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web).
