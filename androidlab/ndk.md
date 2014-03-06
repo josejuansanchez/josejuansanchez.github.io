@@ -15,8 +15,8 @@ title: Android Lab
 * Slides: [How to Add Original Library to Android NDK](http://www.slideshare.net/noritsuna/lecture03-2-web). Noritsuna Imamura.
 * Video: [Bringing C and C++ Games to Android](https://www.youtube.com/watch?v=5yorhsSPFG4&feature=youtube_gdata_player). Google I/O 2011.
 * Video: [Learn about Android Internals and NDK](https://www.youtube.com/watch?v=byFTAhXVF7k&feature=youtube_gdata_player). Marko Gargenta.
-* [Android Internals](http://www.slideshare.net/marakana99/marakana-androidinternals). Marko Gargenta.
-* [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
+* Slides: [Android Internals](http://www.slideshare.net/marakana99/marakana-androidinternals). Marko Gargenta.
+* Video: [Introduction To Android NDK](https://thenewcircle.com/s/post/1153/introduction_to_ndk). Aleksandar Gargenta.
 * [Android Native Development Kit Cookbook](http://www.amazon.com/Android-Native-Development-Kit-Cookbook/dp/1849691509).
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
 * [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
