@@ -7,7 +7,6 @@ title: Android Lab
 
 * [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html). Android Developers.
 * Slides: [Using the Android Native Development Kit (NDK)](http://www.slideshare.net/ph0b/using-the-android-native-development-kit-ndk). Intel.
-* [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
 * Slides: [Introduction to the Android NDK](http://www.slideshare.net/bemyapp/introduction-to-the-ndk-code-fest). Sebastian Maurer.
 * Slides: [Android NDK – Native Development Kit ](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf). By Indigoo.
@@ -24,6 +23,7 @@ title: Android Lab
 * Podcast: [Programación a Bajo Nivel / Android NDK](https://plus.google.com/114098393732890092873/posts/LNQx5WWvXra). GDG Tenerife.
 * [Introducción Android NDK](http://www.slideshare.net/barcelonagtug/introduccin-android-ndk-7413380). Barcelona GTUG.
 * * [Introduction to Android NDK](http://www.elekslabs.com/2013/12/introduction-into-android-ndk.html). Viacheslav Titov.
+* [Creación y exportación de aplicaciones Android* basadas en NDK para AI](http://software.intel.com/es-es/android/articles/creating-and-porting-ndk-based-android-apps-for-ia). Intel Developer Zone.
 
 
 ### JNI (Java Native Interface)
