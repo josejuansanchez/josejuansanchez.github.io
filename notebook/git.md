@@ -36,4 +36,6 @@ Git
 ### Frequent Questions
 * [How to update GitHub forked repository? &raquo;](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository?answertab=active#tab-top)
 * [How to undo the las Git commit? &raquo;](http://stackoverflow.com/questions/927358/how-to-undo-the-last-git-commit?answertab=active#tab-top)
-* [Git team workflows: merge or rebase? &raquo;](https://blogs.atlassian.com/2013/10/git-team-workflows-merge-or-rebase/)
+* Git rebase vs merge
+  * [Git team workflows: merge or rebase? &raquo;](https://blogs.atlassian.com/2013/10/git-team-workflows-merge-or-rebase/)
+  * [What's the difference between 'git merge' and 'git rebase'? &raquo;](http://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase?answertab=active#tab-top)
