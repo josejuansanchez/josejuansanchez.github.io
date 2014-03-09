@@ -33,5 +33,6 @@ Git
 * [A short introduction to Git Flow &raquo;](http://vimeo.com/16018419)
 * [Understanding the GitHub Workflow &raquo;](http://guides.github.com/overviews/flow/) GitHub Guides.
 
-### GitHub
+### Frequent Questions
 * [How to update GitHub forked repository? &raquo;](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository?answertab=active#tab-top)
+* [How to undo the las Git commit? &raquo;](http://stackoverflow.com/questions/927358/how-to-undo-the-last-git-commit?answertab=active#tab-top)
