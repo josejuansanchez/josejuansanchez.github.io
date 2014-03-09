@@ -34,4 +34,4 @@ Git
 * [Understanding the GitHub Workflow &raquo;](http://guides.github.com/overviews/flow/) GitHub Guides.
 
 ### GitHub
-* [How to update GitHub forked repository?](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository?answertab=active#tab-top).
+* [How to update GitHub forked repository? &raquo;](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository?answertab=active#tab-top)
