@@ -7,7 +7,7 @@ Android Services and Background Tasks
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
 * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013.
 * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). Droidcon 2013.
-* Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do).
+* Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
 * [Asynchronous Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=pd_sim_sbs_b_5?ie=UTF8&refRID=0J62P0XKSJ9XXH8QW6XN).
  
 ### To Check
