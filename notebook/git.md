@@ -43,4 +43,6 @@ Git
   * [Merge or Rebase? &raquo;](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
 ### Images
-![Git Data Transport Commands](http://josejuansanchez.org/notebook/images/git-transport.png)
+<p align="center">
+  <img src="http://josejuansanchez.org/notebook/images/git-transport.png" /></a>
+</p>
