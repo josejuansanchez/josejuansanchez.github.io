@@ -41,3 +41,6 @@ Git
   * [What's the difference between 'git merge' and 'git rebase'? &raquo;](http://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase?answertab=active#tab-top)
   * [Git Branching - Basic Branching and Merging &raquo;](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
   * [Merge or Rebase? &raquo;](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
+
+### Images
+![Git Data Transport Commands](http://josejuansanchez.org/notebook/images/git-transport.png)
