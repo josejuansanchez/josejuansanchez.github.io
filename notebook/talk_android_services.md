@@ -29,4 +29,6 @@ Android Services and Background Tasks
 
 ### Images
 
-http://josejuansanchez.org/notebook/images/asynctask.png
+<p align="center">
+  <img src="http://josejuansanchez.org/notebook/images/asynctask.png" />
+</p>
