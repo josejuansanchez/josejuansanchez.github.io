@@ -26,3 +26,7 @@ Android Services and Background Tasks
  
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
+
+### Images
+
+http://josejuansanchez.org/notebook/images/asynctask.png
