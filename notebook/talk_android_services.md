@@ -22,6 +22,7 @@ Android Services and Background Tasks
 * [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html). Android Developers.
 * [Avoding Memory Leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html). Android Developers Blog.
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html). Alex Lockwood.
+* [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
  
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
