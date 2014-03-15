@@ -7,7 +7,7 @@ Android Services and Background Tasks
   * [Loading Data in the Background](http://developer.android.com/training/load-data-background/index.html).
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
 
-### Threading
+### Process and Threads
 * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
 * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). Droidcon 2013. Anders Göransson.
 * Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
