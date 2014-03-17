@@ -26,6 +26,10 @@ Android Services and Background Tasks
     * [Android Concurrency and Synchronization (Parts 1, 2, 3)](https://www.youtube.com/watch?v=aV2XfWwpiDU). Douglas Schimdt.
     * [Android Concurrency and Synchronization (Parts 4, 5)](https://www.youtube.com/watch?v=zpLzMetSJfQ). Douglas Schimdt.
     * [Android Concurrency and Synchronization (Parts 6, 7)](https://www.youtube.com/watch?v=4Vue_KuXfCk). Douglas Schimdt. 
+    * [Android Concurrency and Synchronization (Parts 8)](https://www.youtube.com/watch?v=GXgm9kb4iCo). Douglas Schimdt.
+    * [Android Concurrency and Synchronization (Parts 9)](http://youtu.be/TN36fPNsqhE). Douglas Schimdt.
+    * [Android Concurrency and Synchronization (Parts 10)](http://youtu.be/XZ29DAcmcLE). Douglas Schimdt.
+    
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
