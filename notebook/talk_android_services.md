@@ -43,6 +43,9 @@ Android Services and Background Tasks
  
 ### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
+* [Services](http://developer.android.com/guide/components/services.html). Android Developers.
+* [Bound Services](http://developer.android.com/guide/components/bound-services.html). Android Developers.
+* [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html). Android Developers.
 * Android Services and Local IPC (parts 1 and 2) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf)|[video](http://www.youtube.com/watch?v=gxj4sQX9m5g)). Douglas Schimdt.
 * Android Services and Local IPC (parts 3 and 4) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPCparts3-and-4.pdf)|[video](http://youtu.be/qK53aOtoxio)). Douglas Schimdt.
 * Android Services and Local IPC (parts 5 and 6) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts5-and-6.pdf)|[video](http://youtu.be/opkCYboumis)). Douglas Schimdt.
