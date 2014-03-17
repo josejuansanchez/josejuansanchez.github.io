@@ -24,7 +24,8 @@ Android Services and Background Tasks
     * [The dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
   * Android Concurrency & Synchronization
     * [Android Concurrency and Synchronization (Parts 1, 2, 3)](https://www.youtube.com/watch?v=aV2XfWwpiDU). Douglas Schimdt.
-    * [Android Concurrency and Synchronization (Parts 4 and 5)](https://www.youtube.com/watch?v=zpLzMetSJfQ). Douglas Schimdt. 
+    * [Android Concurrency and Synchronization (Parts 4, 5)](https://www.youtube.com/watch?v=zpLzMetSJfQ). Douglas Schimdt.
+    * [Android Concurrency and Synchronization (Parts 6, 7)](https://www.youtube.com/watch?v=4Vue_KuXfCk). Douglas Schimdt. 
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
