@@ -8,15 +8,19 @@ Android Services and Background Tasks
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
 
 ### Process and Threads
+* [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
+  * Threading
 * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
 * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). Droidcon 2013. Anders Göransson.
 * Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
 * Book: [Asynchronous Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=pd_sim_sbs_b_5?ie=UTF8&refRID=0J62P0XKSJ9XXH8QW6XN). Steve Liles.
+  * Scheduling
 * [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html). Alex Lockwood.
 * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
 * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top). StackOverflow.
-* [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
+  * AsyncTask
 * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
+* [Dealing with AsyncTask and Screen Orientation](http://androidresearch.wordpress.com/2013/05/10/dealing-with-asynctask-and-screen-orientation/).
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
