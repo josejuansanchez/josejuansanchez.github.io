@@ -84,6 +84,9 @@ In Honeycomb **Loaders** were introduced which offer yet another mechanism for b
 ### Mistakes
 A common mistake with background Services is to keep the Service in memory and use a Timer or TimerTask to periodically perform some task. This is a really good way to get your Service killed by either the OS or a Task Killer. Your Timer gets killed along with your Service, and so your periodic task is killed permanently. A much better solution is to use AlarmManager to create an alarm which will send an Intent at some time in the future using the PendingIntent mechanism. The PendingIntent will cause our Service to be started, it does its processing and then shuts down again. If a repeating alarm is used, then it doesn’t matter as much if the Service is killed during an individual Service invocation because the alarm remains active and will continue to start the Service at regular intervals. [Read more about this](http://blog.stylingandroid.com/archives/868).
 
+### Tips
+* [WakefulBroadcastReceiver](https://developer.android.com/reference/android/support/v4/content/WakefulBroadcastReceiver.html). Android Developers.
+
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
 * [Making Your App Location-Aware](http://developer.android.com/training/location/index.html). Android Developers.
