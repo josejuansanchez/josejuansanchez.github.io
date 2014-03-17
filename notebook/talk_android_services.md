@@ -64,6 +64,7 @@ Android Services and Background Tasks
 
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
+* [Making Your App Location-Aware](http://developer.android.com/training/location/index.html). Android Developers.
 
 ### Images
 
