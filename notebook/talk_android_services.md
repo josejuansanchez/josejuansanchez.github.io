@@ -16,6 +16,7 @@ Android Services and Background Tasks
 * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
 * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top). StackOverflow.
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
+* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html).
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
