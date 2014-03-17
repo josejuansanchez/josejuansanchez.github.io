@@ -48,7 +48,14 @@ Android Services and Background Tasks
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
  
 ### Asynchronous Techniques
-
+* Thread.
+* Executor.
+* Handler Thread.
+* AsyncTask.
+* *"Service"*.
+* IntentService.
+* AsyncQueryHandler.
+* Loader.
 
 ### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
