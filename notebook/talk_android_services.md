@@ -55,7 +55,7 @@ Android Services and Background Tasks
 * *"Service"*.
 * IntentService.
 * AsyncQueryHandler.
-* **Loader**.
+* **Loader**.  
 In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed.
 
 ### Android Services
