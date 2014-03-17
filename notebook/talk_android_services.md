@@ -87,11 +87,11 @@ Android Services and Background Tasks
 </p>
 
 <p align="center">
-  <img src="http://josejuansanchez.org/notebook/images/example_bounded_service.png" />
+  <img src="http://josejuansanchez.org/notebook/images/example_bounded_service.png" width="384" height="640" />
 </p>
 
 [Google Play In-app Billing](http://developer.android.com/google/play/billing/index.html).
 
 <p align="center">
-  <img src="http://josejuansanchez.org/notebook/images/example_started_service.png" />
+  <img src="http://josejuansanchez.org/notebook/images/example_started_service.png" width="384" height="640" />
 </p>
