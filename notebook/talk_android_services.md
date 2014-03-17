@@ -40,6 +40,15 @@ Android Services and Background Tasks
  
 ### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
+* Android Services and Local IPC (parts 1 and 2) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf)|[video](http://www.youtube.com/watch?v=gxj4sQX9m5g)).
+* Android Services and Local IPC (parts 3 and 4) (presentation|video)
+* Android Services and Local IPC (parts 5 and 6) (presentation|video)
+* Android Services and Local IPC (parts 7, 8, and 9) (presentation|video)
+* Android Services and Local IPC (parts 10, 11, 12, and 13) (presentation|video)
+* Android Services and Local IPC (parts 14, 15, and 16) (presentation|video)
+* Android Services and Local IPC (part 17) (presentation|video)
+* Android Services and Local IPC (parts 18, 19, 20, and 21) (presentation|video)
+* Android Services and Local IPC (parts 22, 23, and 24) (presentation|video)
 
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
