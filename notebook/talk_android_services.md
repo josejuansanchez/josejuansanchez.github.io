@@ -16,7 +16,7 @@ Android Services and Background Tasks
 * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
 * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top). StackOverflow.
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
-* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html).
+* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
@@ -25,6 +25,9 @@ Android Services and Background Tasks
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html). Alex Lockwood.
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
  
+### Android Services
+* [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
+
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
 
