@@ -55,7 +55,8 @@ Android Services and Background Tasks
 * *"Service"*.
 * IntentService.
 * AsyncQueryHandler.
-* Loader.
+* **Loader**.
+In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed.
 
 ### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
@@ -71,6 +72,14 @@ Android Services and Background Tasks
 * Android Services and Local IPC (part 17) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-part-17.pdf)|[video](http://youtu.be/QeR3Gfo8mhg)). Douglas Schimdt.
 * Android Services and Local IPC (parts 18, 19, 20, and 21) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-18-19-20-21.pdf)|[video](http://youtu.be/LJkta3aJlUE)). Douglas Schimdt.
 * Android Services and Local IPC (parts 22, 23, and 24) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-22-23-24.pdf)|[video](http://youtu.be/V6qDHwa9vwQ)). Douglas Schimdt.
+
+### Background Tasks
+* [Background Tasks – Part 1](http://blog.stylingandroid.com/archives/833). Mark Allison.
+* [Background Tasks – Part 2](http://blog.stylingandroid.com/archives/842). Mark Allison.
+* [Background Tasks – Part 3](http://blog.stylingandroid.com/archives/848). Mark Allison.
+* [Background Tasks – Part 4](). Mark Allison.
+* [Background Tasks – Part 5](). Mark Allison.
+
 
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
