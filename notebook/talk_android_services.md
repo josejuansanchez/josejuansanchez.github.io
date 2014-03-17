@@ -32,7 +32,12 @@ Android Services and Background Tasks
     * [Android Concurrency and Synchronization (Parts 8)](https://www.youtube.com/watch?v=GXgm9kb4iCo). Douglas Schimdt.
     * [Android Concurrency and Synchronization (Parts 9)](http://youtu.be/TN36fPNsqhE). Douglas Schimdt.
     * [Android Concurrency and Synchronization (Parts 10)](http://youtu.be/XZ29DAcmcLE). Douglas Schimdt.
-    
+  * Best practices
+    * [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
+      * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
+      * [Creating a Manager for Multiple Threads](http://developer.android.com/training/multiple-threads/create-threadpool.html). Android Developers.
+      * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). Android Developers.
+      * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html). Android Developers.
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
