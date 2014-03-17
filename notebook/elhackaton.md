@@ -9,10 +9,11 @@ El Hackatón
 * [Droidcon UK 2013 customised IOSched &raquo;](https://github.com/zasadnyy/iosched)
 * [GDG DevFest 2012 Berlin &raquo;](https://github.com/russenreaktor/gdgsched)
 
-### Ideas
+### Ideas & Resources
 
 * [How to find app ideas for hackathons](http://blog.mashape.com/post/53975325208/how-to-find-app-ideas-for-hackathons).
 * [API Randomizer](http://apirandomizer.com).
+* [Kimono](https://www.kimonolabs.com). Turn websites into structured APIs from your browser in seconds.
 * [Turbo-charge your API usage](https://www.mashape.com). Consume or provide cloud services with the Mashape API Platform & Marketplace.
 * [List of 40+ Machine Learning APIs](http://blog.mashape.com/post/48074869493/list-of-40-machine-learning-apis).
 * [List of 50+ Face Detection / Recognition APIs, libraries, and software](http://blog.mashape.com/post/53379410412/list-of-50-face-detection-recognition-apis).
