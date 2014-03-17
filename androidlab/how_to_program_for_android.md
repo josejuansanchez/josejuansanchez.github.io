@@ -21,6 +21,7 @@ title: Android Lab
   * [Android Fragments for  All](https://thenewcircle.com/s/post/1099/android_fragments_for_all). [Video] Android Open 2011.
   * [Android Content Provider Tutorial](https://thenewcircle.com/s/post/1375/android_content_provider_tutorial). NewCircle.
   * [Introduction to Android NDK Video Series](https://thenewcircle.com/s/post/1153/introduction_to_ndk). NewCircle.
+  * [Advanced Android](https://www.youtube.com/playlist?list=PL6kQim6ljTJuAfKz4i5-tIxD9U3Es07Vr). UPV.
 
 ### 3. Aditional Resources
   * [Taming the Android UI](https://thenewcircle.com/s/post/563/video_taming_android_ui_with_eric_burke_of_square). NewCircle.
