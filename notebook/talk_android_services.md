@@ -36,3 +36,7 @@ Android Services and Background Tasks
 <p align="center">
   <img src="http://josejuansanchez.org/notebook/images/asynctask.png" />
 </p>
+
+<p align="center">
+  <img src="http://cdn.howtogeek.com/wp-content/uploads/2013/06/android-running-processes.png" />
+</p>
