@@ -52,6 +52,8 @@ Android Services and Background Tasks
 * [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
  
 ### Asynchronous Techniques
+* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
+
 * Thread.
 * Executor.
 * Handler Thread.
