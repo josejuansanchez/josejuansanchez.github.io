@@ -46,6 +46,7 @@ Android Services and Background Tasks
 * [Avoding Memory Leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html). Android Developers Blog.
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html). Alex Lockwood.
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
+* [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
  
 ### Asynchronous Techniques
 * Thread.
