@@ -94,6 +94,7 @@ A common mistake with background Services is to keep the Service in memory and u
 
 ### Tips
 * [WakefulBroadcastReceiver](https://developer.android.com/reference/android/support/v4/content/WakefulBroadcastReceiver.html). Android Developers.
+*  You should set the thread priority to "background" priority by calling ```Process.setThreadPriority()``` and passing ```THREAD_PRIORITY_BACKGROUND```. If you don't set the thread to a lower priority this way, then the thread could still slow down your app because it operates at the same priority as the UI thread by default.
 
 ### To Check
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
