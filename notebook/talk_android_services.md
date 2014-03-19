@@ -9,6 +9,8 @@ Android Services and Background Tasks
 
 ### Process and Threads
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
+  * Lifyecycle
+    * [Process Lifecycle in Android](http://saurabhsharma123k.blogspot.com.es/2013/08/process-lifecycle-and-it-types-in.html). 
   * Threading
     * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
     * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). [[slides]](http://www.slideshare.net/andersgoransson/efficient-android-threading). Droidcon 2013. Anders Göransson.
@@ -96,6 +98,10 @@ A common mistake with background Services is to keep the Service in memory and u
 * [Making Your App Location-Aware](http://developer.android.com/training/location/index.html). Android Developers.
 
 ### Images
+
+<p align="center">
+  <img src="http://1.bp.blogspot.com/-cOoztKSQx10/UhGpp18HD6I/AAAAAAAAAQU/CSTj-NP6-Lo/s1600/Android_process_priorities.png" />
+</p>
 
 <p align="center">
   <img src="http://josejuansanchez.org/notebook/images/asynctask.png" />
