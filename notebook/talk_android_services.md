@@ -126,6 +126,8 @@ A common mistake with background Services is to keep the Service in memory and u
         Log.w(TAG, "setForeground: ignoring old API call on " + getClass().getName());
     }
 ````
+* Patch review. [IntentService: Fix to run with a lower priority flag](https://android-review.googlesource.com/#/c/41820/).
+
 
 ### Images
 
