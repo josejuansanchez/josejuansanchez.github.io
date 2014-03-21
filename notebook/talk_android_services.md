@@ -102,6 +102,7 @@ A common mistake with background Services is to keep the Service in memory and u
 * [Advanced Android app architectures + lifecycles](http://oredev.org/2013/wed-fri-conference/advanced-android-app-architectures--lifecycles). Bryan Costanich.
 * [Making Your App Location-Aware](http://developer.android.com/training/location/index.html). Android Developers.
 * [Performance Analysis of Android Platform](http://jawadmanzoor.files.wordpress.com/2012/01/android-report1.pdf).
+* [Looper Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/Looper.java).
 
 ### Images
 
