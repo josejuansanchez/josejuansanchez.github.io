@@ -106,6 +106,29 @@ A common mistake with background Services is to keep the Service in memory and u
 * [Performance Analysis of Android Platform](http://jawadmanzoor.files.wordpress.com/2012/01/android-report1.pdf).
 * [Looper Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/Looper.java).
 
+* Service:
+
+````
+ /**
+     * @deprecated This is a now a no-op, use
+     * {@link #startForeground(int, Notification)} instead.  This method
+     * has been turned into a no-op rather than simply being deprecated
+     * because analysis of numerous poorly behaving devices has shown that
+     * increasingly often the trouble is being caused in part by applications
+     * that are abusing it.  Thus, given a choice between introducing
+     * problems in existing applications using this API (by allowing them to
+     * be killed when they would like to avoid it), vs allowing the performance
+     * of the entire system to be decreased, this method was deemed less
+     * important.
+     * 
+     * @hide
+     */
+    @Deprecated
+    public final void setForeground(boolean isForeground) {
+        Log.w(TAG, "setForeground: ignoring old API call on " + getClass().getName());
+    }
+````
+
 ### Images
 
 <p align="center">
