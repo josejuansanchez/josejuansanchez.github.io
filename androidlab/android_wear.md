@@ -1,3 +1,10 @@
-Android Wear
+---
+layout: androidlab
+title: Android Lab
+---
 
-* [Android Wear](http://developer.android.com/wear/preview/start.html). Developer Preview.
+### Android Wear
+
+  * [Android Wear](http://developer.android.com/wear/preview/start.html). Developer Preview.
+
+[&laquo; Go back](./)
