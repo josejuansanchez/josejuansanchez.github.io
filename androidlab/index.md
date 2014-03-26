@@ -53,6 +53,7 @@ title: Android Lab
   - [Libs](libs).  
   - [Android and MJPEG](mjpeg).
   - [NDK](ndk).
+  - [Android Wear](android_wear).
 
 
 ### References
