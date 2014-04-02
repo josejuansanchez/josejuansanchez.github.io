@@ -51,7 +51,7 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
   *  [The UI Thread and the class AsyncTask in Android](http://www.youtube.com/watch?v=-xhLTvx-cq0&feature=youtu.be). 
   *  [Keeping Your App Responsive](http://developer.android.com/training/articles/perf-anr.html).
   *  [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html).
-* Android Concurrency & Synchronization. Douglas Schimdt.
+* Android Concurrency & Synchronization. [Douglas Schimdt](https://plus.google.com/109003286187954928606/posts).
   * Parts: [1, 2, 3](https://www.youtube.com/watch?v=aV2XfWwpiDU), [4, 5](https://www.youtube.com/watch?v=zpLzMetSJfQ), [6, 7](https://www.youtube.com/watch?v=4Vue_KuXfCk), [8](https://www.youtube.com/watch?v=GXgm9kb4iCo), [9](http://youtu.be/TN36fPNsqhE), [10](http://youtu.be/XZ29DAcmcLE).
 * Best practices: [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html).
   * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). 
@@ -87,7 +87,7 @@ In Honeycomb **Loaders** were introduced which offer yet another mechanism for b
 * [Services](http://developer.android.com/guide/components/services.html).
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
   * [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html).
-* Android Services and Local IPC. Douglas Schimdt.
+* Android Services and Local IPC. [Douglas Schimdt](https://plus.google.com/109003286187954928606/posts).
   * Parts: 1, 2. [presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf) -  [video](http://www.youtube.com/watch?v=gxj4sQX9m5g).
   * Parts: 3, 4. [presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPCparts3-and-4.pdf) - [video](http://youtu.be/qK53aOtoxio).
   * Parts: 5, 6. [presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts5-and-6.pdf) - [video](http://youtu.be/opkCYboumis).
