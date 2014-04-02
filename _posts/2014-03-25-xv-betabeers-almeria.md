@@ -56,11 +56,11 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 * Android Concurrency & Synchronization. Douglas Schimdt.
   * Parts: [1, 2, 3](https://www.youtube.com/watch?v=aV2XfWwpiDU), [4, 5](https://www.youtube.com/watch?v=zpLzMetSJfQ), [6, 7](https://www.youtube.com/watch?v=4Vue_KuXfCk), [8](https://www.youtube.com/watch?v=GXgm9kb4iCo), [9](http://youtu.be/TN36fPNsqhE), [10](http://youtu.be/XZ29DAcmcLE).
 * Best practices
-  * [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
-    * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
-    * [Creating a Manager for Multiple Threads](http://developer.android.com/training/multiple-threads/create-threadpool.html). Android Developers.
-    * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). Android Developers.
-    * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html). Android Developers.
+  * [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html).
+    * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). 
+    * [Creating a Manager for Multiple Threads](http://developer.android.com/training/multiple-threads/create-threadpool.html).
+    * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). 
+    * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html).
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
