@@ -26,19 +26,14 @@ En esta charla estuvimos hablando sobre los diferentes tipos de *Services* que e
   <img src="http://josejuansanchez.github.io/images/bbalm_jj.jpg" />
 </p>
 
-A continuación podéis encontrar los detalles y el material que he utilizado para la charla.
+A continuación podéis encontrar algunos recursos que he utilizado para la charla.
 
 ### Background Tasks
 * [Best Practices for Background Jobs](http://developer.android.com/training/best-background.html). Android Developers.
   * [Running in a Background Service](http://developer.android.com/training/run-background-service/index.html).
   * [Loading Data in the Background](http://developer.android.com/training/load-data-background/index.html).
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
-* [Background Tasks – Part 1](http://blog.stylingandroid.com/archives/833). Mark Allison.
-* [Background Tasks – Part 2](http://blog.stylingandroid.com/archives/842). Mark Allison.
-* [Background Tasks – Part 3](http://blog.stylingandroid.com/archives/848). Mark Allison.
-* [Background Tasks – Part 4](http://blog.stylingandroid.com/archives/853). Mark Allison.
-* [Background Tasks – Part 5](http://blog.stylingandroid.com/archives/868). Mark Allison.
-* [Background Tasks – Part 6](http://blog.stylingandroid.com/archives/871). Mark Allison.
+* Background Tasks by Mark Allison [Part 1](http://blog.stylingandroid.com/archives/833),[Part 2](http://blog.stylingandroid.com/archives/842), [Part 3](http://blog.stylingandroid.com/archives/848), [Part 4](http://blog.stylingandroid.com/archives/853), [Part 5](http://blog.stylingandroid.com/archives/868), [Part 6](http://blog.stylingandroid.com/archives/871).
 
 ### Process and Threads
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
