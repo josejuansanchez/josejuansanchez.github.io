@@ -75,14 +75,11 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
   * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html).
   * [Dealing with AsyncTask and Screen Orientation](http://androidresearch.wordpress.com/2013/05/10/dealing-with-asynctask-and-screen-orientation/).
   * [The dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
-* *"Service"*.
-  * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/Service.java). 
 * IntentService.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/IntentService.java). 
-* **Loader**.  
-In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed. [Read more about Loaders](http://blog.stylingandroid.com/archives/853).
 
 #### Android Services
+* Service. [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/Service.java). 
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html).
 * [Services](http://developer.android.com/guide/components/services.html).
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
