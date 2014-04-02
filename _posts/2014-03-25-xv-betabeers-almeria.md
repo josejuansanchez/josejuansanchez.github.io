@@ -72,7 +72,6 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 * [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
  
 ### Asynchronous Techniques
-* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
 * Handler Thread.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/HandlerThread.java). 
 * AsyncTask.
