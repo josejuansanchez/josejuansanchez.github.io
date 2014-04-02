@@ -5,7 +5,7 @@ date: March 25, 2014
 category: events
 ---
 
-El pasado 25 de Marzo se celebró el [XV Betabeers Almería](http://betabeers.com/event/xv-betabeers-almeria-1691/) con la colaboración del [IES Al-Ándalus](http://www.iesalandalus.org). En esta ocasión los temas que se trataron en las charlas del evento fueron: Diseño y Android.
+El pasado **25 de Marzo** se celebró el [XV Betabeers Almería](http://betabeers.com/event/xv-betabeers-almeria-1691/) con la colaboración del [IES Al-Ándalus](http://www.iesalandalus.org). En esta ocasión los temas que se trataron en las charlas del evento fueron: Diseño y Android.
 
 ### Hablando de diseño (y otras cosas de molar)
 
