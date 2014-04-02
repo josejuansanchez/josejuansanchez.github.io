@@ -47,10 +47,10 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
   * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
   * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top).
 * UI Thread
-  *  [Events and the UI Thread in Android](https://www.youtube.com/watch?v=fN3t5BmBOiE&index=7). UPV.
-  *  [The UI Thread and the class AsyncTask in Android](http://www.youtube.com/watch?v=-xhLTvx-cq0&feature=youtu.be). UPV.
-  *  [Keeping Your App Responsive](http://developer.android.com/training/articles/perf-anr.html). Android Developers.
-  *  [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html). The Corner. Square Engineering Blog.
+  *  [Events and the UI Thread in Android](https://www.youtube.com/watch?v=fN3t5BmBOiE&index=7).
+  *  [The UI Thread and the class AsyncTask in Android](http://www.youtube.com/watch?v=-xhLTvx-cq0&feature=youtu.be). 
+  *  [Keeping Your App Responsive](http://developer.android.com/training/articles/perf-anr.html).
+  *  [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html).
 * Android Concurrency & Synchronization. Douglas Schimdt.
   * Parts: [1, 2, 3](https://www.youtube.com/watch?v=aV2XfWwpiDU), [4, 5](https://www.youtube.com/watch?v=zpLzMetSJfQ), [6, 7](https://www.youtube.com/watch?v=4Vue_KuXfCk), [8](https://www.youtube.com/watch?v=GXgm9kb4iCo), [9](http://youtu.be/TN36fPNsqhE), [10](http://youtu.be/XZ29DAcmcLE).
 * Best practices: [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html).
@@ -60,19 +60,19 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
   * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html).
 
 #### Memory
-* [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
-* [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html). Android Developers.
-* [Avoding Memory Leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html). Android Developers Blog.
-* [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html). Alex Lockwood.
+* [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html).
+* [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html).
+* [Avoding Memory Leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html).
+* [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html).
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
-* [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
+* [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html).
  
 #### Asynchronous Techniques
 * Handler Thread.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/HandlerThread.java). 
 * AsyncTask.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/AsyncTask.java).
-  * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
+  * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html).
   * [Dealing with AsyncTask and Screen Orientation](http://androidresearch.wordpress.com/2013/05/10/dealing-with-asynctask-and-screen-orientation/).
   * [The dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
 * *"Service"*.
@@ -83,8 +83,8 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
 In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed. [Read more about Loaders](http://blog.stylingandroid.com/archives/853).
 
 #### Android Services
-* [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
-* [Services](http://developer.android.com/guide/components/services.html). Android Developers.
+* [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html).
+* [Services](http://developer.android.com/guide/components/services.html).
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
   * [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html).
 * Android Services and Local IPC. Douglas Schimdt.
