@@ -35,7 +35,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
 * Background Tasks by [Mark Allison](https://twitter.com/MarkIAllison). Parts: [1](http://blog.stylingandroid.com/archives/833), [2](http://blog.stylingandroid.com/archives/842), [3](http://blog.stylingandroid.com/archives/848), [4](http://blog.stylingandroid.com/archives/853), [5](http://blog.stylingandroid.com/archives/868), [6](http://blog.stylingandroid.com/archives/871).
 
-### Process and Threads
+#### Process and Threads
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
 * Lifyecycle
   * [Process Lifecycle in Android](http://saurabhsharma123k.blogspot.com.es/2013/08/process-lifecycle-and-it-types-in.html). 
@@ -61,7 +61,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
   * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). 
   * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html).
 
-### Memory
+#### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
 * [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html). Android Developers.
 * [Avoding Memory Leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html). Android Developers Blog.
@@ -69,7 +69,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html).
 * [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
  
-### Asynchronous Techniques
+#### Asynchronous Techniques
 * Handler Thread.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/HandlerThread.java). 
 * AsyncTask.
@@ -84,7 +84,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 * **Loader**.  
 In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed. [Read more about Loaders](http://blog.stylingandroid.com/archives/853).
 
-### Android Services
+#### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
 * [Services](http://developer.android.com/guide/components/services.html). Android Developers.
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
