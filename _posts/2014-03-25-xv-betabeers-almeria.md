@@ -36,12 +36,10 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
 * Background Tasks by [Mark Allison](https://twitter.com/MarkIAllison). Parts: [1](http://blog.stylingandroid.com/archives/833), [2](http://blog.stylingandroid.com/archives/842), [3](http://blog.stylingandroid.com/archives/848), [4](http://blog.stylingandroid.com/archives/853), [5](http://blog.stylingandroid.com/archives/868), [6](http://blog.stylingandroid.com/archives/871).
 
 #### Process and Threads
-* [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
-* Lifyecycle
-  * [Process Lifecycle in Android](http://saurabhsharma123k.blogspot.com.es/2013/08/process-lifecycle-and-it-types-in.html). 
+* [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html).
 * Threading
   * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
-  * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). [[slides]](http://www.slideshare.net/andersgoransson/efficient-android-threading). Droidcon 2013. Anders Göransson.
+  * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). [slides](http://www.slideshare.net/andersgoransson/efficient-android-threading). Droidcon 2013. Anders Göransson.
   * Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
   * Book: [Asynchronous Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=pd_sim_sbs_b_5?ie=UTF8&refRID=0J62P0XKSJ9XXH8QW6XN). Steve Liles.
 * Scheduling
