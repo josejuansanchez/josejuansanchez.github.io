@@ -80,6 +80,7 @@ A continuación podéis encontrar algunos de los recursos que he utilizado para 
 
 #### Android Services
 * Service. [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/Service.java). 
+* IntentService. [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/IntentService.java).
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html).
 * [Services](http://developer.android.com/guide/components/services.html).
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
