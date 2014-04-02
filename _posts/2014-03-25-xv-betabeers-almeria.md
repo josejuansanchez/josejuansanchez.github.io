@@ -43,39 +43,39 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 
 ### Process and Threads
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
-  * Lifyecycle
-    * [Process Lifecycle in Android](http://saurabhsharma123k.blogspot.com.es/2013/08/process-lifecycle-and-it-types-in.html). 
-  * Threading
-    * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
-    * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). [[slides]](http://www.slideshare.net/andersgoransson/efficient-android-threading). Droidcon 2013. Anders Göransson.
-    * Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
-    * Book: [Asynchronous Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=pd_sim_sbs_b_5?ie=UTF8&refRID=0J62P0XKSJ9XXH8QW6XN). Steve Liles.
-  * Scheduling
-    * [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html). Alex Lockwood.
-    * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
-    * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top). StackOverflow.
-  * UI Thread
-    *  [Events and the UI Thread in Android](https://www.youtube.com/watch?v=fN3t5BmBOiE&index=7). UPV.
-    *  [The UI Thread and the class AsyncTask in Android](http://www.youtube.com/watch?v=-xhLTvx-cq0&feature=youtu.be). UPV.
-    *  [Keeping Your App Responsive](http://developer.android.com/training/articles/perf-anr.html). Android Developers.
-    *  [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html). The Corner. Square Engineering Blog.
-  * AsyncTask
-    * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
-    * [Dealing with AsyncTask and Screen Orientation](http://androidresearch.wordpress.com/2013/05/10/dealing-with-asynctask-and-screen-orientation/).
-    * [The dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
-  * Android Concurrency & Synchronization
-    * [Android Concurrency and Synchronization (Parts 1, 2, 3)](https://www.youtube.com/watch?v=aV2XfWwpiDU). Douglas Schimdt.
-    * [Android Concurrency and Synchronization (Parts 4, 5)](https://www.youtube.com/watch?v=zpLzMetSJfQ). Douglas Schimdt.
-    * [Android Concurrency and Synchronization (Parts 6, 7)](https://www.youtube.com/watch?v=4Vue_KuXfCk). Douglas Schimdt. 
-    * [Android Concurrency and Synchronization (Parts 8)](https://www.youtube.com/watch?v=GXgm9kb4iCo). Douglas Schimdt.
-    * [Android Concurrency and Synchronization (Parts 9)](http://youtu.be/TN36fPNsqhE). Douglas Schimdt.
-    * [Android Concurrency and Synchronization (Parts 10)](http://youtu.be/XZ29DAcmcLE). Douglas Schimdt.
-  * Best practices
-    * [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
-      * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
-      * [Creating a Manager for Multiple Threads](http://developer.android.com/training/multiple-threads/create-threadpool.html). Android Developers.
-      * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). Android Developers.
-      * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html). Android Developers.
+* Lifyecycle
+  * [Process Lifecycle in Android](http://saurabhsharma123k.blogspot.com.es/2013/08/process-lifecycle-and-it-types-in.html). 
+* Threading
+  * [Efficient Android Threading](http://vimeo.com/78912113). Øredev Conference 2013. Anders Göransson.
+  * [Efficient Android Threading](https://www.youtube.com/watch?v=_q12gb7OwsA). [[slides]](http://www.slideshare.net/andersgoransson/efficient-android-threading). Droidcon 2013. Anders Göransson.
+  * Book: [Efficient Android Threading](http://shop.oreilly.com/product/mobile/0636920029397.do). Anders Göransson.
+  * Book: [Asynchronous Android](http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=pd_sim_sbs_b_5?ie=UTF8&refRID=0J62P0XKSJ9XXH8QW6XN). Steve Liles.
+* Scheduling
+  * [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html). Alex Lockwood.
+  * [Wiki about Android Internals](https://github.com/keesj/gomo/wiki).
+  * [Android Process Scheduling](http://stackoverflow.com/questions/7931032/android-process-scheduling?answertab=active#tab-top). StackOverflow.
+* UI Thread
+  *  [Events and the UI Thread in Android](https://www.youtube.com/watch?v=fN3t5BmBOiE&index=7). UPV.
+  *  [The UI Thread and the class AsyncTask in Android](http://www.youtube.com/watch?v=-xhLTvx-cq0&feature=youtu.be). UPV.
+  *  [Keeping Your App Responsive](http://developer.android.com/training/articles/perf-anr.html). Android Developers.
+  *  [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html). The Corner. Square Engineering Blog.
+* AsyncTask
+  * [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
+  * [Dealing with AsyncTask and Screen Orientation](http://androidresearch.wordpress.com/2013/05/10/dealing-with-asynctask-and-screen-orientation/).
+  * [The dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
+* Android Concurrency & Synchronization
+  * [Android Concurrency and Synchronization (Parts 1, 2, 3)](https://www.youtube.com/watch?v=aV2XfWwpiDU). Douglas Schimdt.
+  * [Android Concurrency and Synchronization (Parts 4, 5)](https://www.youtube.com/watch?v=zpLzMetSJfQ). Douglas Schimdt.
+  * [Android Concurrency and Synchronization (Parts 6, 7)](https://www.youtube.com/watch?v=4Vue_KuXfCk). Douglas Schimdt. 
+  * [Android Concurrency and Synchronization (Parts 8)](https://www.youtube.com/watch?v=GXgm9kb4iCo). Douglas Schimdt.
+  * [Android Concurrency and Synchronization (Parts 9)](http://youtu.be/TN36fPNsqhE). Douglas Schimdt.
+  * [Android Concurrency and Synchronization (Parts 10)](http://youtu.be/XZ29DAcmcLE). Douglas Schimdt.
+* Best practices
+  * [Sending Operations to Multiple Threads](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
+    * [Specifying the Code to Run on a Thread](http://developer.android.com/training/multiple-threads/index.html). Android Developers.
+    * [Creating a Manager for Multiple Threads](http://developer.android.com/training/multiple-threads/create-threadpool.html). Android Developers.
+    * [Running Code on a Thread Pool Thread](http://developer.android.com/training/multiple-threads/run-code.html). Android Developers.
+    * [Communicating with the UI Thread](http://developer.android.com/training/multiple-threads/communicate-ui.html). Android Developers.
 
 ### Memory
 * [Investigating Your RAM Usage](https://developer.android.com/tools/debugging/debugging-memory.html). Android Developers.
@@ -86,9 +86,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
 * [Process Stats: Understanding How Your App Uses RAM](http://android-developers.blogspot.com.es/2014/01/process-stats-understanding-how-your.html). Android Developers Blog.
  
 ### Asynchronous Techniques
-* Check: [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
-* Thread.
-* Executor.
+* [Android Background Processing with Handlers and AsyncTask and Loaders](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html). Vogella.
 * Handler Thread.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/HandlerThread.java). 
 * AsyncTask.
@@ -97,7 +95,6 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/Service.java). 
 * IntentService.
   * [Source Code](https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/IntentService.java). 
-* AsyncQueryHandler.
 * **Loader**.  
 In Honeycomb **Loaders** were introduced which offer yet another mechanism for background processing which creates a much cleaner divide between what is executed on the UI thread and what is executed on the background thread. Also, it does not require us to hold Context references in order to do anything meaningful after execution has completed. [Read more about Loaders](http://blog.stylingandroid.com/archives/853).
 
