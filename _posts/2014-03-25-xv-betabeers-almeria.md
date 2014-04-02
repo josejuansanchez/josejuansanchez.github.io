@@ -26,7 +26,7 @@ En esta charla estuvimos hablando sobre los diferentes tipos de *Services* que e
   <img src="http://josejuansanchez.github.io/images/bbalm_jj.jpg" />
 </p>
 
-A continuación podéis encontrar algunos recursos que he utilizado para la charla.
+A continuación podéis encontrar algunos de los recursos que he utilizado para la charla.
 
 #### Background Tasks
 * [Best Practices for Background Jobs](http://developer.android.com/training/best-background.html).
