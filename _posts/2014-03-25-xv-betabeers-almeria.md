@@ -93,7 +93,7 @@ In Honeycomb **Loaders** were introduced which offer yet another mechanism for b
   * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
   * [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html).
 * Android Services and Local IPC. Douglas Schimdt.
-  * Parts: 1, 2 [presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf)|[video](http://www.youtube.com/watch?v=gxj4sQX9m5g).
+  * Parts: 1, 2 [presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf). [video](http://www.youtube.com/watch?v=gxj4sQX9m5g).
   * Parts: 3, 4 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPCparts3-and-4.pdf)|[video](http://youtu.be/qK53aOtoxio)).
   * Parts: 5, 6 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts5-and-6.pdf)|[video](http://youtu.be/opkCYboumis)).
   * Parts: 7, 8, 9 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-7-8-and-9.pdf)|[video](http://youtu.be/IidALPTFs7Q)).
