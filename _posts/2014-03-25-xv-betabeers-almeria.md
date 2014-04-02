@@ -90,15 +90,15 @@ In Honeycomb **Loaders** were introduced which offer yet another mechanism for b
 ### Android Services
 * [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html). Vogella.
 * [Services](http://developer.android.com/guide/components/services.html). Android Developers.
-  * [Bound Services](http://developer.android.com/guide/components/bound-services.html). Android Developers.
-  * [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html). Android Developers.
-* Android Services and Local IPC (parts 1 and 2) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf)|[video](http://www.youtube.com/watch?v=gxj4sQX9m5g)). Douglas Schimdt.
-* Android Services and Local IPC (parts 3 and 4) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPCparts3-and-4.pdf)|[video](http://youtu.be/qK53aOtoxio)). Douglas Schimdt.
-* Android Services and Local IPC (parts 5 and 6) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts5-and-6.pdf)|[video](http://youtu.be/opkCYboumis)). Douglas Schimdt.
-* Android Services and Local IPC (parts 7, 8, and 9) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-7-8-and-9.pdf)|[video](http://youtu.be/IidALPTFs7Q)). Douglas Schimdt.
-* Android Services and Local IPC (parts 10, 11, 12, and 13) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-10-11-12-and-13.pdf)|[video](http://youtu.be/PvRTTvLOzag)). Douglas Schimdt.
-* Android Services and Local IPC (parts 14, 15, and 16) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-14-15-and-16.pdf)|[video](http://youtu.be/N3bZWje8KQc)). Douglas Schimdt.
-* Android Services and Local IPC (part 17) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-part-17.pdf)|[video](http://youtu.be/QeR3Gfo8mhg)). Douglas Schimdt.
-* Android Services and Local IPC (parts 18, 19, 20, and 21) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-18-19-20-21.pdf)|[video](http://youtu.be/LJkta3aJlUE)). Douglas Schimdt.
-* Android Services and Local IPC (parts 22, 23, and 24) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-22-23-24.pdf)|[video](http://youtu.be/V6qDHwa9vwQ)). Douglas Schimdt.
-
+  * [Bound Services](http://developer.android.com/guide/components/bound-services.html).
+  * [Android Interface Definition Language (AIDL)](http://developer.android.com/guide/components/aidl.html).
+* Android Services and Local IPC. Douglas Schimdt.
+  * Parts: 1 and 2 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/Services-oct9.pdf)|[video](http://www.youtube.com/watch?v=gxj4sQX9m5g)).
+  * Parts: 3 and 4 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPCparts3-and-4.pdf)|[video](http://youtu.be/qK53aOtoxio)).
+  * Parts: 5 and 6 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts5-and-6.pdf)|[video](http://youtu.be/opkCYboumis)).
+  * Parts: 7, 8, and 9 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-7-8-and-9.pdf)|[video](http://youtu.be/IidALPTFs7Q)).
+  * Parts: 10, 11, 12, and 13 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-10-11-12-and-13.pdf)|[video](http://youtu.be/PvRTTvLOzag)).
+  * Parts: 14, 15, and 16 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-14-15-and-16.pdf)|[video](http://youtu.be/N3bZWje8KQc)).
+  * Part: 17 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-part-17.pdf)|[video](http://youtu.be/QeR3Gfo8mhg)).
+  * Parts: 18, 19, 20, and 21 ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-18-19-20-21.pdf)|[video](http://youtu.be/LJkta3aJlUE)).
+  * Parts: 22, 23, and 24) ([presentation](http://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/8-Services-and-IPC-parts-22-23-24.pdf)|[video](http://youtu.be/V6qDHwa9vwQ)).
