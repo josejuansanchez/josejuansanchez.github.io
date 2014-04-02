@@ -34,12 +34,7 @@ A continuación podéis encontrar algunos recursos que he utilizado para la char
   * [Loading Data in the Background](http://developer.android.com/training/load-data-background/index.html).
   * [Managing Device Awake State](http://developer.android.com/training/scheduling/index.html).
 * Background Tasks by Mark Allison:
-  * [Part 1](http://blog.stylingandroid.com/archives/833)
-  * [Part 2](http://blog.stylingandroid.com/archives/842)
-  * [Part 3](http://blog.stylingandroid.com/archives/848)
-  * [Part 4](http://blog.stylingandroid.com/archives/853)
-  * [Part 5](http://blog.stylingandroid.com/archives/868)
-  * [Part 6](http://blog.stylingandroid.com/archives/871).
+  * Parts: [1](http://blog.stylingandroid.com/archives/833), [2](http://blog.stylingandroid.com/archives/842), [3](http://blog.stylingandroid.com/archives/848), [4](http://blog.stylingandroid.com/archives/853), [5](http://blog.stylingandroid.com/archives/868), [6](http://blog.stylingandroid.com/archives/871).
 
 ### Process and Threads
 * [Process and Threads](http://developer.android.com/guide/components/processes-and-threads.html). Android Developers.
