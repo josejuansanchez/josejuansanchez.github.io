@@ -18,7 +18,7 @@ El pasado **25 de Marzo** se celebró el [XV Betabeers Almería](http://betabeer
 
 ### Android Services and Background Tasks
 
-En esta charla hablamos sobre los diferentes tipos de *Services* que existen en Android y cómo podemos utilizarlos en nuestras aplicaciones para realizar operaciones en background.
+En esta charla estuvimos hablando sobre los diferentes tipos de *Services* que existen en Android y cómo podemos utilizarlos en nuestras aplicaciones para realizar operaciones en background.
 
 [Transparencias](https://speakerdeck.com/josejuansanchez/android-services-and-background-tasks) / [Ejemplos](https://github.com/josejuansanchez/GDG-DevFestSur-2013)
 
