@@ -6,7 +6,7 @@ category: events
 ---
 
 <p align="center">
-  <img src="http://josejuansanchez.github.io/images/gdgdevfest.png" />
+  <img src="http://josejuansanchez.github.io/images/betabeers_logo.png" />
 </p>
 
 El pasado 25 de Marzo se celebró el **XV Betabeers Almería** con la colaboración del [IES Al-Ándalus](http://www.iesalandalus.org).
