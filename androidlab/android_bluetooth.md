@@ -13,5 +13,7 @@ title: Android Lab
 
 #### Android and Arduino
   * [How to Develop Simple Bluetooth Android Application To Control A Robot Remote](http://www.intorobotics.com/how-to-develop-simple-bluetooth-android-application-to-control-a-robot-remote).
+  * [Blueberry](https://play.google.com/store/apps/details?id=com.bluetooth&hl=en). Google Play.
+  * [Android-Bluetooth-Remote-Control](https://github.com/Nurgak/Android-Bluetooth-Remote-Control).
 
 [&laquo; Go back](./)
