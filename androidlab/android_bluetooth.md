@@ -1,3 +1,10 @@
-Bluetooth
+---
+layout: androidlab
+title: Android Lab
+---
 
-* [Bluetooth](http://developer.android.com/guide/topics/connectivity/bluetooth.html).
+### Bluetooth
+
+  * [Bluetooth](http://developer.android.com/guide/topics/connectivity/bluetooth.html).
+
+[&laquo; Go back](./)
