@@ -54,6 +54,7 @@ title: Android Lab
   - [Android and MJPEG](mjpeg).
   - [NDK](ndk).
   - [Android Wear](android_wear).
+  - [Bluetooth](android_bluetooth).
 
 
 ### References
