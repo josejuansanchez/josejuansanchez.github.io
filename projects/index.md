@@ -16,7 +16,7 @@ title: Personal Projects
 ----
 
 <a name="idiria"/>
-### Idiria
+### Idiria  
 [http://www.idiria.com](http://www.idiria.com)
 
 **Idiria** es una empresa de consultoría especializada en la implantación de soluciones computacionales en la “nube” para empresas, centros educativos y usuarios particulares.
