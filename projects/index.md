@@ -10,7 +10,6 @@ title: Personal Projects
 - [Almería en tu mano](#almeriaentumano)
 - [Almería Aumentada](#almeriaaumentada)
 - [Semana Santa de Úbeda](#semanasantadeubeda)
-- [Noche en Blanco](#nocheenblanco)
 - [Android Lab](#androidlab)
 - [La lista de la compra](#lalistadelacompra)
 
@@ -18,7 +17,7 @@ title: Personal Projects
 
 <a name="idiria"/>
 ### Idiria
-> [http://www.idiria.com](http://www.idiria.com)
+[http://www.idiria.com](http://www.idiria.com)
 
 **Idiria** es una empresa de consultoría especializada en la implantación de soluciones computacionales en la “nube” para empresas, centros educativos y usuarios particulares.
 
@@ -97,14 +96,6 @@ Para este proyecto se diseño una aplicación que recogía la información detal
 ##### Referencias
   * [Ideal Úbeda](http://ubeda.ideal.es/mundo-cofrade/2851-seguir-la-posicion-de-las-procesiones-a-tiempo-real-a-traves-de-una-web-y-una-aplicacion-ubeda.html).
   * [Ideal Úbeda](http://ubeda.ideal.es/mundo-cofrade/1212-este-ano-podra-seguirse-el-recorrido-de-las-procesiones-a-traves-de-movil-y-tablets.html).
-
-----
-
-<a name="nocheenblanco"/>
-### Noche en Blanco de Almería
-> [http://nocheenblanco.idiria.com](http://nocheenblanco.idiria.com)
-
-Proyecto realizado en Junio de **2012**, en el que se desarrolló una guía para dispositivos móviles con todas las actividades programadas para la **Noche en Blanco de Almería**.
 
 ----
 
