@@ -5,11 +5,6 @@ date: April 24, 2014
 category: android
 ---
 
-<p align="center">
-  <a href="http://hacklabalmeria.net"><img src="http://josejuansanchez.github.io/images/logo_hacklab.png" /></a>
-  <a href="https://plus.google.com/u/0/communities/105420979515011141876"><img src="http://josejuansanchez.github.io/images/logo_android.png" /></a>
-</p>
-
 [HackLab Almería](http://hacklabalmeria.net) y la [Comunidad Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), organizan un encuentro de desarrolladores Android de Almería el próximo **24 de Abril**.
 
 ### Día y Hora
@@ -37,3 +32,8 @@ Salón de Actos del [IES Al-Ándalus](http://www.iesalandalus.org).
 
 
 Puedes encontrar más información en la [web del evento en G+](https://plus.google.com/u/0/events/cubsahdlmf0hi88ko8493bv2hmc).
+
+<p align="center">
+  <a href="http://hacklabalmeria.net"><img src="http://josejuansanchez.github.io/images/logo_hacklab.png" /></a>
+  <a href="https://plus.google.com/u/0/communities/105420979515011141876"><img src="http://josejuansanchez.github.io/images/logo_android.png" /></a>
+</p>
