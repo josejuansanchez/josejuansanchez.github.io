@@ -6,7 +6,7 @@ title: About me
 ## About me
 
 <p align="center">
-  <img src="http://josejuansanchez.github.io/images/josejuan_blue.png" />
+  <img src="http://josejuansanchez.github.io/images/about_jj.png" />
 </p>
 
 I received the M.Sc. degree in computer science from the [University of 
