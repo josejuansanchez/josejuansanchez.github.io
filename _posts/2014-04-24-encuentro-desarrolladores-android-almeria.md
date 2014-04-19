@@ -6,8 +6,8 @@ category: android
 ---
 
 <p align="center">
-  <img src="http://josejuansanchez.github.io/images/hacklab-almeria.png" />	
-  <img src="http://josejuansanchez.github.io/images/betabeers_android_logo.png" />
+  <img src="http://josejuansanchez.github.io/images/logo_hacklab.png" />	
+  <img src="http://josejuansanchez.github.io/images/logo_android.png" />
 </p>
 
 [HackLab Almería](http://hacklabalmeria.net) y la [Comunidad Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), organizan un encuentro de desarrolaldores Android de Almería el próximo **24 de Abril**.
