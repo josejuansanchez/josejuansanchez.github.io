@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Encuentro de desarrolladores Android de Almería
-date: April 24, 2014
+date: April 23, 2014
 category: android
 ---
 
