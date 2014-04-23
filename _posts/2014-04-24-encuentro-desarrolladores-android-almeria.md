@@ -17,7 +17,7 @@ Salón de Actos del [IES Al-Ándalus](http://www.iesalandalus.org).
 
 ### Programa
 
-19:00. Bienvenida.
+- 19:00. Bienvenida.
 
 - 19:05 - 19:30. Android Studio: ventajas y desventajas.  
 Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
