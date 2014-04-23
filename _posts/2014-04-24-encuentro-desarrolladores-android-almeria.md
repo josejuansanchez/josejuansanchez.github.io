@@ -17,10 +17,21 @@ Salón de Actos del [IES Al-Ándalus](http://www.iesalandalus.org).
 
 ### Programa
 
-- Android Studio: ventajas y desventajas. Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
-- @AndroidAnnotations, simplifica tu código y tu vida. Por [Miguel Ángel López Vicente](https://twitter.com/MiguelAngel_LV).
-- Qpedimos. Por [Gerardo Parra Juan de la Cruz](https://plus.google.com/u/0/107579737416167533257) y [Javier Orellana Zubieta](https://plus.google.com/101706559422071136068/posts), de [MobyteStudio](http://www.mobitstudio.com).
-- WFSpain. Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
+19:00. Bienvenida.
+
+- 19:05 - 19:30. Android Studio: ventajas y desventajas.  
+Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
+
+- 19:30 - 20:00. @AndroidAnnotations, simplifica tu código y tu vida.  
+Por [Miguel Ángel López Vicente](https://twitter.com/MiguelAngel_LV).
+
+- 20:00 - 20:30. Qpedimos.   
+Por [Gerardo Parra Juan de la Cruz](https://plus.google.com/u/0/107579737416167533257) y [Javier Orellana Zubieta](https://plus.google.com/101706559422071136068/posts), de [MobyteStudio](http://www.mobitstudio.com).
+
+- 20:30 - 21:00. WFSpain.  
+Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
+
+- 21:00. Networking.
 
 ### Organiza
 
