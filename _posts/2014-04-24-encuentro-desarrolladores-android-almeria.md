@@ -17,7 +17,8 @@ Salón de Actos del [IES Al-Ándalus](http://www.iesalandalus.org).
 
 ### Programa
 
-- Android Studio: ventajas y desventajas. Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
+- Android Studio: ventajas y desventajas. 
+  Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
 - @AndroidAnnotations, simplifica tu código y tu vida. Por [Miguel Ángel López Vicente](https://twitter.com/MiguelAngel_LV).
 - Qpedimos. Por [Gerardo Parra Juan de la Cruz](https://plus.google.com/u/0/107579737416167533257) y [Javier Orellana Zubieta](http://es.linkedin.com/pub/javier-orellana/9/206/196), de [MobyteStudio](http://www.mobitstudio.com).
 - WFSpain. Por [Jorge Martín Espinosa](https://twitter.com/arasthel92).
