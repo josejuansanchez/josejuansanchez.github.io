@@ -43,6 +43,10 @@ Git
   * [Git Branching - Basic Branching and Merging &raquo;](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
   * [Merge or Rebase? &raquo;](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
+### Git Cheat Sheet
+* [git-cheatsheet-v1.png](https://dl.dropboxusercontent.com/u/38416098/cheatsheets/git-cheatsheet-v1.png)
+* [git-cheatsheet-v2.png](https://dl.dropboxusercontent.com/u/38416098/cheatsheets/git-cheatsheet-v2.png)
+
 ### Images
 <p align="center">
   <img src="http://josejuansanchez.org/notebook/images/git-transport.png" /></a>
