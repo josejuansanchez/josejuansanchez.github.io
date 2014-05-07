@@ -33,6 +33,7 @@ Git
 * [A short introduction to Git Flow &raquo;](http://vimeo.com/16018419)
 * [Understanding the GitHub Workflow &raquo;](http://guides.github.com/overviews/flow/) GitHub Guides.
 * [Real World Git Workflows](http://www.slideshare.net/jazoon13/jazoon-2013-stefan-saasen-real-world-git-workflows)
+* [Git Branching for Agile Teams](https://www.youtube.com/watch?v=9SZ7kSQ2424). Atlassian.
 
 ### Frequent Questions
 * [How to update GitHub forked repository? &raquo;](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository?answertab=active#tab-top)
