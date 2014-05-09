@@ -5,7 +5,7 @@ date: May 13, 2014
 category: events
 ---
 
-El martes, 13 de Mayo, contaremos con la presencia de [Javier Gutiérrez](https://twitter.com/iwt2_javier﻿), profesor de la [ETSII](https://www.informatica.us.es) en la Universidad de Sevilla, que impartirá una sesión doble de mañana y tarde de Test-Driven Development en la Universidad de Almería.
+El martes, 13 de Mayo, contaremos con la presencia de [Javier Gutiérrez](https://twitter.com/iwt2_javier), profesor de la [ETSII](https://www.informatica.us.es) en la Universidad de Sevilla, que impartirá una sesión doble de mañana y tarde de Test-Driven Development en la Universidad de Almería.
 
 Muchos habéis preguntado en qué van a consistir estas sesiones así que os voy a dejar la información que Javier nos ha preparado para que no tengamos ninguna duda.
 
