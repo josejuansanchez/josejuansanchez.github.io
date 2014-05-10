@@ -9,9 +9,7 @@ El martes, 13 de Mayo, contaremos con la presencia de [Javier Gutiérrez](https:
 
 Muchos habéis preguntado en qué van a consistir estas sesiones así que os voy a dejar la información que Javier nos ha preparado para que no tengamos ninguna duda.
 
-## 1) Sesión de mañana: Charla
-
-**"Cómo aplicar TDD"**.
+## 1) Sesión de mañana: Charla "Cómo aplicar TDD"
 
 ### Hora y lugar
 
