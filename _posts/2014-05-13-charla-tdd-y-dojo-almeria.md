@@ -68,6 +68,8 @@ Los asistentes pueden usar el lenguaje y herramienta que quieran. el facilitador
 
 ### Breve currículum de Javier Gutiérrez
 
+<img src="https://pbs.twimg.com/profile_images/1769137581/YoTwitter.jpg" width="204" height="222" />
+
 [Javier Gutiérrez](https://twitter.com/iwt2_javier﻿) es profesor en la [ETSII](https://www.informatica.us.es) en la Universidad de Sevilla y TDD infected e infector. Colabora con varios blogs como [AprendiendoTDD](http://aprendiendotdd.com), [Pybonacci](http://pybonacci.wordpress.com), [IndieORama](http://www.indieorama.com), etc. con artículos sobre pruebas, participa en congresos como la Conferencia [Agile Spain](http://agile-spain.org), [codemotion](http://codemotion.es), etc. también con artículos de prueba y cuando tiene oportunidad de colarse en alguna empresa dónde aún no le conocen enseguida organiza una tarde de pruebas TDD, café y pasteles.
 
 Además de las prueba,s también es un gran aficionado a ayudar  los demás en sus proyectos. Ha colaborado y colabora en distintos proyectos de software libre y anima todo el que quiera hacer videojuegos a que se ponga a ello con el [club GameUS](http://www.gameus.es) y distintas visitas a las [Betabeers](http://betabeers.com) de Andalucía.
