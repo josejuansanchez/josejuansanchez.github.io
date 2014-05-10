@@ -9,9 +9,9 @@ El martes, 13 de Mayo, contaremos con la presencia de [Javier Gutiérrez](https:
 
 Muchos habéis preguntado en qué van a consistir estas sesiones así que os voy a dejar la información que Javier nos ha preparado para que no tengamos ninguna duda.
 
-## 1) Sesión de mañana
+## 1) Sesión de mañana: Charla
 
-Charla **"Cómo aplicar TDD"**.
+**"Cómo aplicar TDD"**.
 
 ### Hora y lugar
 
@@ -31,9 +31,7 @@ Charla **"Cómo aplicar TDD"**.
 
 Una de las técnicas ágiles que más difusión ha alcanzado es el desarrollo dirigido por pruebas o TDD en sus siglas en inglés. Esta técnica propone el diseño del código de manera interactiva, planteando el desarrollo desde la perspectiva de cuál es la manera más adecuada de utilizar el código en lugar de qué elementos debe tener, y creando un conjunto de pruebas que nos avisen inmediatamente hemos introducido algún cambio que modifique su funcionamiento.
 
-## 2) Sesión de tarde
-
-**TDD Dojo**
+## 2) Sesión de tarde: TDD Dojo
 
 ### Duración y lugar
 
@@ -72,6 +70,6 @@ Los asistentes pueden usar el lenguaje y herramienta que quieran. el facilitador
 
 ### Breve currículum de Javier Gutiérrez
 
-[Javier Gutiérrez](https://twitter.com/iwt2_javier﻿) es profesor en la [ETSII](https://www.informatica.us.es) en la Universidad de Sevilla y TDD infected e infector. Colabora con varios blogs como [AprendiendoTDD](http://aprendiendotdd.com), [Pybonacci](http://pybonacci.wordpress.com), [IndieORama](http://www.indieorama.com), etc. con artículos sobre pruebas, participa en congresos como la Conferencia [Agile Spain](http://agile-spain.org), [codemotion](http://codemotion.es), etc. también con artículos de prueba y cuando tiene oportunidad de colarse en alguna empresa dónde aún no le conoce enseguida organiza un atarde de pruebas TDD, café y pasteles.
+[Javier Gutiérrez](https://twitter.com/iwt2_javier﻿) es profesor en la [ETSII](https://www.informatica.us.es) en la Universidad de Sevilla y TDD infected e infector. Colabora con varios blogs como [AprendiendoTDD](http://aprendiendotdd.com), [Pybonacci](http://pybonacci.wordpress.com), [IndieORama](http://www.indieorama.com), etc. con artículos sobre pruebas, participa en congresos como la Conferencia [Agile Spain](http://agile-spain.org), [codemotion](http://codemotion.es), etc. también con artículos de prueba y cuando tiene oportunidad de colarse en alguna empresa dónde aún no le conocen enseguida organiza una tarde de pruebas TDD, café y pasteles.
 
 Además de las prueba,s también es un gran aficionado a ayudar  los demás en sus proyectos. Ha colaborado y colabora en distintos proyectos de software libre y anima todo el que quiera hacer videojuegos a que se ponga a ello con el [club GameUS](http://www.gameus.es) y distintas visitas a las [Betabeers](http://betabeers.com) de Andalucía.
