@@ -14,7 +14,7 @@ Muchos habéis preguntado en qué van a consistir estas sesiones así que os voy
 ### Hora y lugar
 
 *Hora*: 12:00h.  
-*Lugar*: Sala de grados EPS de la Universidad de Almería
+*Lugar*: Sala de grados EPS de la Universidad de Almería.
 
 ### Objetivos
 
@@ -34,7 +34,7 @@ Una de las técnicas ágiles que más difusión ha alcanzado es el desarrollo di
 ### Duración y lugar
 
 *Hora*: 16:00h.  
-*Lugar*: El aula está solicitada pero aún no nos han asignado ninguna. Os avisaremos cuando tengamos más información sobre el lugar definitivo.
+*Lugar*: Aula 11 del Edificio de Informática.
 
 ### Objetivo
 
