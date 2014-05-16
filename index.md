@@ -16,7 +16,7 @@ M.Sc. in Advanced Computing Techniques at the [University of Almería](http://ww
 B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 
 ### Research group
-[High Performance Computing - Algorithms Research Group (TIC-146 (PAI 7069))](http://www.hpca.ual.es).  
+[High Performance Computing - Algorithms Research Group (TIC-146)](http://www.hpca.ual.es).  
 [University of Almería](http://www.ual.es).
 
 ### Research interests
