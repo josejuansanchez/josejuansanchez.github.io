@@ -56,6 +56,7 @@ title: Android Lab
   - [Android Wear](android_wear).
   - [Bluetooth](android_bluetooth).
   - [adb](adb).
+  - [RxJava on Android](rxjava_on_android).
 
 
 ### References
