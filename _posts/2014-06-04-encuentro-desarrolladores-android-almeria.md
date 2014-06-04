@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Taller] Encuentro de desarrolladores Android de Almería
+title: Taller-Encuentro de desarrolladores Android de Almería
 date: June 4, 2014
 category: android
 ---
