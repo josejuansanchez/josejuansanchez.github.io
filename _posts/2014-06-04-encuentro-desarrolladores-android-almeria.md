@@ -22,7 +22,7 @@ El programa del encuentro es el siguiente:
 - _Sensors Overview_.  
   Por [Miguel Ángel López Vicente](https://twitter.com/MiguelAngel_LV) y [José Juan Sánchez Hernández](http://twitter.com/josejuansanchez)
 - _Bluetooth & Bluetooth Low Energy_.  
-  Por [Jorge Martín Espinosa](https://twitter.com/arasthel92) y [Víctor Suárez](http://twitter.com/zerasul).
+  Por [Jorge Martín Espinosa](https://twitter.com/arasthel92) y [Víctor Suárez García](http://twitter.com/zerasul).
 
 ### Nota
 El taller es totalmente gratuito, pero debido a las nuevas normas de La Oficina será necesario hacer un donativo de 1€ (los socios están exentos).
