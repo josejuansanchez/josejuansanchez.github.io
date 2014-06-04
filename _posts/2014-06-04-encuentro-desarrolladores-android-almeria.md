@@ -5,6 +5,8 @@ date: June 4, 2014
 category: android
 ---
 
+[HackLab Almería](http://hacklabalmeria.net) y la [Comunidad Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), organizan un encuentro de desarrolladores Android de Almería el próximo **19 de Junio**.
+
 ### ¿Cuándo?
 El próximo jueves *19 de Junio* a las *17:00*. 
 
