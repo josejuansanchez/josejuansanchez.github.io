@@ -25,7 +25,7 @@ El programa del encuentro es el siguiente:
   Por [Jorge Martín Espinosa](https://twitter.com/arasthel92) y [Víctor Suárez García](http://twitter.com/zerasul).
 
 ### Nota
-El taller es totalmente gratuito, pero debido a las nuevas normas de La Oficina será necesario hacer un donativo de 1€ (los socios están exentos).
+El taller es totalmente gratuito, pero debido a las nuevas normas de [La Oficina](http://laoficinacultural.org) será necesario hacer un donativo de 1€ (los socios están exentos).
 
 ### Organiza 
 [HackLab Almería](http://hacklabalmeria.net) y la [Comunidad Android Almería](https://plus.google.com/u/0/communities/105420979515011141876).
