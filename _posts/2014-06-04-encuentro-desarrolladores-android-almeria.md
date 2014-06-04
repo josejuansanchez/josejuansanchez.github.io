@@ -11,7 +11,7 @@ category: android
 El próximo jueves **19 de Junio** a las **17:00**. 
 
 ### ¿Dónde?
-En el nuevo local de La Oficina, situado en la Calle Las Tiendas, 26.
+En el nuevo local de [La Oficina](http://laoficinacultural.org), situado en la **Calle Las Tiendas, 26**.
 
 ### ¿Qué vamos a hacer?
 En esta ocasión nos gustaría hacer algo más práctico y **vamos a programar** algo de **Sensores** y **Bluetooth** para Android.
