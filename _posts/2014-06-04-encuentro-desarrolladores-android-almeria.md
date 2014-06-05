@@ -32,3 +32,10 @@ El taller es totalmente gratuito, pero debido a las nuevas normas de [La Oficina
 
 ### Colabora 
 [La Oficina](http://laoficinacultural.org)
+
+Puedes encontrar más información en la [web del evento en G+](https://plus.google.com/u/0/events/c413kli326rdrf6ufgro4jecjm8).
+
+<p align="center">
+  <a href="http://hacklabalmeria.net"><img src="http://josejuansanchez.github.io/images/logo_hacklab.png" /></a>
+  <a href="https://plus.google.com/u/0/communities/105420979515011141876"><img src="http://josejuansanchez.github.io/images/logo_android.png" /></a>
+</p>
