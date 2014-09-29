@@ -14,6 +14,8 @@ title: Android
   - [Semana Santa de Úbeda](https://play.google.com/store/apps/details?id=org.josejuansanchez.semanasantadeubeda).
 
 ### Talks
+  * **Android Sensors Overview** in the [June monthly meeting](https://plus.google.com/u/0/events/c413kli326rdrf6ufgro4jecjm8) of the [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), 19 June 2014. This event was organized by [HackLab Almería](http://hacklabalmeria.net) and [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), in collaboration with [La Oficina](http://laoficinacultural.org). The slides can be found at [GitHub](http://josejuansanchez.org/android-sensors-overview/).
+
   * **Android Services & Background Tasks** in [XV Betabeers Almería](http://betabeers.com/event/xv-betabeers-almeria-1691/), 25 March 2014. This event was organized by [Betabeers Almería](https://twitter.com/betabeersALM) in collaboration with [IES Al-Ándalus](http://www.iesalandalus.org). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/android-services-and-background-tasks).  
 
   * Presentation of the app **"culturAL"** in [XIII Betabeers Almería](http://betabeers.com/event/xiii-betabeers-almeria-1429/), 20 December 2013. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/cultural).
