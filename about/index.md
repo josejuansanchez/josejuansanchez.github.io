@@ -28,3 +28,4 @@ I am member and collaborator of the following groups: [Google+ Community Android
 * [Stack Overflow](http://stackoverflow.com/users/2090682/jose-juan-sanchez).
 * [Speaker Deck](https://speakerdeck.com/josejuansanchez).
 * [Pinterest](http://pinterest.com/josejuansanchez).
+* [YouTube](https://www.youtube.com/user/lajauladefaraday).
