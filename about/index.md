@@ -16,6 +16,8 @@ working toward a PhD in the area of image coding and transmission.
 
 In my spare time I enjoy designing and developing native mobile apps for Android.
 
+I am member and collaborator of the following groups: [Google+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876) and [HackLab Almería](http://hacklabalmeria.net).
+
 ### Social Web
 * [Twitter](https://twitter.com/josejuansanchez).
 * [Google+](http://gplus.to/josejuansanchez).
