@@ -11,7 +11,7 @@ title: Android
 ### Apps in Google Play
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
-  - [Semana Santa de Úbeda](https://play.google.com/store/apps/details?id=org.josejuansanchez.semanasantadeubeda).
+  - [MiMoVida](https://play.google.com/store/apps/details?id=com.idiria.games.mimovida).
 
 ### Talks
   * **Android Sensors Overview** in the [June monthly meeting](https://plus.google.com/u/0/events/c413kli326rdrf6ufgro4jecjm8) of the [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), 19 June 2014. This event was organized by [HackLab Almería](http://hacklabalmeria.net) and [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), in collaboration with [La Oficina](http://laoficinacultural.org). The slides can be found at [GitHub](http://josejuansanchez.org/android-sensors-overview/).
