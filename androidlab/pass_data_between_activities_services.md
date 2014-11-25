@@ -7,5 +7,6 @@ title: Android Lab
   * [How do I pass data between Activities/Services within a single application?](http://developer.android.com/guide/faq/framework.html).
   * [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/).
   * [Don’t Store Data in the Application Object](http://www.developerphil.com/dont-store-data-in-the-application-object/).
+  * [What's the best way to share data between activities?](http://stackoverflow.com/a/4878259/2090682)
 
 [&laquo; Go back](./)
