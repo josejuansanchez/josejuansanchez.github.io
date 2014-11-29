@@ -11,7 +11,7 @@ Room 1.13, CITIC building. University of Almería.
 Telephone number: +34 950 214394
 
 ### Education
-Phd. Student in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
+PhD. Student in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 M.Sc. in Advanced Computing Techniques at the [University of Almería](http://www.ual.es), Spain.  
 B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 
