@@ -18,7 +18,7 @@ Git
 * [Git Cheatsheet &raquo;](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [GitHub Training & Guides &raquo;](https://www.youtube.com/user/GitHubGuides)
 * [Git Internals](https://peepcode.com/products/git-internals-pdf) by PeepCode.
-* [GitHub Training Kit $raquo;](https://training.github.com/kit/)
+* [GitHub Training Kit &raquo;](https://training.github.com/kit/)
 
 ### Git for Computer Scientists
 * [Git for Computer Scienctist &raquo;](http://eagain.net/articles/git-for-computer-scientists/)
