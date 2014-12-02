@@ -32,7 +32,7 @@ title: Android
 
 ### Android Instructor
   * [
-Desarrollo de Aplicaciones Android para la familia profesional de Informática](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=145506). November - December 2014. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería).
+Desarrollo de Aplicaciones Android para la familia profesional de Informática](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=145506). November - December 2014. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería). Duration: 30 hours.
 
 ### Android Lab
 
