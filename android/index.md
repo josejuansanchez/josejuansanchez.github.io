@@ -30,6 +30,10 @@ title: Android
 
   * Introducing the app **"Almería en tu mano"** in [X Betabeers Almería](http://betabeers.com/event/x-betabeers-almeria-1061/), 27 June 2013. This event was organized by [Betabeers Almería](https://twitter.com/betabeersALM) in collaboration with [UNIA](http://unia.ual.es). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/almeria-en-tu-mano).
 
+### Android Instructor
+  * [
+Desarrollo de Aplicaciones Android para la familia profesional de Informática](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=145506). November - December 2014. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería).
+
 ### Android Lab
 
 * [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development.
