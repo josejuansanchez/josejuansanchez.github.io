@@ -48,6 +48,7 @@ Git
 ### Git Cheat Sheet
 * [git-cheatsheet-v1.png](https://dl.dropboxusercontent.com/u/38416098/cheatsheets/git-cheatsheet-v1.png)
 * [git-cheatsheet-v2.png](https://dl.dropboxusercontent.com/u/38416098/cheatsheets/git-cheatsheet-v2.png)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet). A list of cool features of Git and GitHub.
 
 ### Images
 <p align="center">
