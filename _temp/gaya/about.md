@@ -34,7 +34,6 @@ You can find me on
 
 ---
 
-{% include social.html %}
 
 [1]: http://www.ual.es
 [2]: http://www.hpca.ual.es

@@ -1,3 +1,7 @@
 name: José Juan Sánchez Hernández
-pygments: true
+domain: josejuansanchez.org
+email: contact@josejuansanchez.org
+
+# Conversion
+highlighter: pygments
 markdown: kramdown
