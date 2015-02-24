@@ -11,7 +11,6 @@ title: Android
 ### Apps in Google Play
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
-  - [MiMoVida](https://play.google.com/store/apps/details?id=com.idiria.games.mimovida).
 
 ### Talks
   * **Android Sensors** in [XI Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/evento/20141119/), 19 November 2014, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org), [CEP Almería](http://www.cepalmeria.org) and [HackLab Almería](http://hacklabalmeria.net). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/android-sensors). 

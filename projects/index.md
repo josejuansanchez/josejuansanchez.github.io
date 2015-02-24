@@ -9,7 +9,6 @@ title: Personal Projects
 - [SocialJuke](#socialjuke)
 - [Almería en tu mano](#almeriaentumano)
 - [Almería Aumentada](#almeriaaumentada)
-- [Semana Santa de Úbeda](#semanasantadeubeda)
 - [Android Lab](#androidlab)
 - [La lista de la compra](#lalistadelacompra)
 
@@ -31,7 +30,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 <a name="socialjuke"/>
 
 ### SocialJuke  
-> [http://www.socialjuke.com](http://socialjuke.com)
+> [http://www.socialjuke.com](http://socialjuke.com) (Offline)
 
 **SocialJuke** es uno de los proyectos seleccionados para formar parte de la edición de [Minerva 2012](http://www.proyectominerva.org). 
 
@@ -84,26 +83,6 @@ En este proyecto se desarrollaron varias capas de Realidad Aumentada para el nav
 
 ----
 
-<a name="semanasantadeubeda"/>
-
-### Semana Santa de Úbeda  
-> [http://www.semanasantadeubeda.es](http://www.semanasantadeubeda.es)
-
-Proyecto realizado para la **Semana Santa de Úbeda** de **2012**, **2013** y **2014**, que permitía seguir en tiempo real la posición de las procesiones a través de cualquier dispositivo móvil.
-
-Para este proyecto se diseño una aplicación que recogía la información detallada de todas las cofradías que procesionan en la localidad, itinerarios y horarios de paso por los principales puntos de interés.
-
-##### Equipo
-  * Daniel Pérez Ruiz del Moral.
-  * Juan Jesús Portillo del Valle.
-  * [José Juan Sánchez Hernández](https://twitter.com/josejuansanchez).
-
-##### Referencias
-  * [Ideal Úbeda](http://ubeda.ideal.es/mundo-cofrade/2851-seguir-la-posicion-de-las-procesiones-a-tiempo-real-a-traves-de-una-web-y-una-aplicacion-ubeda.html).
-  * [Ideal Úbeda](http://ubeda.ideal.es/mundo-cofrade/1212-este-ano-podra-seguirse-el-recorrido-de-las-procesiones-a-traves-de-movil-y-tablets.html).
-
-----
-
 <a name="androidlab"/>
 
 ### Android Lab  
@@ -116,7 +95,7 @@ Para este proyecto se diseño una aplicación que recogía la información detal
 <a name="lalistadelacompra"/>
 
 ### La lista de la compra  
-> [http://lalistadelacompra.almeriaaumentada.es](http://lalistadelacompra.almeriaaumentada.es)
+> [http://josejuansanchez.org/lalistadelacompra/](http://josejuansanchez.org/lalistadelacompra/)
 
 Proyecto finalista del **Desafío AbreDatos 2011**, organizado por la [Asociación Pro Bono Público](http://www.probp.org), para promover la apertura de datos públicos en España.
 

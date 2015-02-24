@@ -54,6 +54,12 @@ Founding organization: Ministerio de Ciencia e Innovación. Plan Nacional de Inv
 Main researcher: Inmaculada García Fernández.  
 Number of researchers: 27.  
 
+* **Aplicaciones científicas con alta demanda computacional (TIN2012-37483-C03-03)**.  
+Founding organization: Ministerio de Ciencia e Innovación. Programa Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011.  
+Main researchers: Inmaculada García Fernández / José Jesús Fernandez Rodríguez / Leocadio González Casado.  
+From 2013/01/01 until 2016/12/31.  
+Number of researchers: 23.  
+
 ### Final projects supervision
 
 José Antonio García Góngora. [Visualización de Imágenes Remotas JPEG 2000 en Dispositivos Android](http://www.ace.ual.es/~vruiz/proyectos/ofertados/J2KViewer/html/index.html). Ing. en Informática. Vicente González Ruiz, Juan Pablo García Ortiz y José Juan Sánchez Hernández. 2012.
