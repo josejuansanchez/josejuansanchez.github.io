@@ -25,7 +25,7 @@ La plantilla de **Idiria** está formada por Doctores e Ingenieros en Informáti
 
 **Idiria** ofrece un desarrollo personalizado de aplicaciones para dispositivos móviles para su empresa y las integra con su entorno laboral para que estos dispositivos complementen y faciliten su actividad diaria.
 
-----
+---
 
 <a name="socialjuke"/>
 

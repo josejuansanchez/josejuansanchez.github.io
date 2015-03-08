@@ -18,7 +18,7 @@ In my spare time I enjoy designing and developing native mobile apps for
 [Android][4], experimenting and making stuff with [Arduino][5] and [Raspberry Pi][6],
 and learning new things.
 
-I am member and collaborator of [Android Almería Developers Group][7] and
+Also, I am member and collaborator of [Android Almería Developers Group][7] and
 [HackLab Almería][8].
 
 ### Contact me
