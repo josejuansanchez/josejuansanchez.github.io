@@ -5,8 +5,8 @@ title: Android
 
 ## Android
 
-### Google+ Communities
-* Currently, I am collaborating with the [Google+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
+### Developers Group
+* I am member and collaborator of [Android Almería Developers Group](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
 
 ### Apps in Google Play
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
