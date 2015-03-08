@@ -15,10 +15,11 @@ Research Group][2] of the [University of Almería][3] and currently I am
 working toward a PhD in the area of image coding and transmission.
 
 In my spare time I enjoy designing and developing native mobile apps for
-`Android` and making stuff with `Arduino`, `Raspberry Pi`, etc.
+[Android][4], experimenting and making stuff with [Arduino][5] and [Raspberry Pi][6],
+and learning new things.
 
-I am member and collaborator of the following groups: [Google+ Community
-Android Almería][4] and [HackLab Almería][5].
+I am member and collaborator of [Android Almería Developers Group][7] and
+[HackLab Almería][8].
 
 ### Contact me
 
@@ -38,5 +39,8 @@ You can find me on
 [1]: http://www.ual.es
 [2]: http://www.hpca.ual.es
 [3]: http://www.ual.es
-[4]: https://plus.google.com/u/0/communities/105420979515011141876
-[5]: http://hacklabalmeria.net
+[4]: http://www.android.com
+[5]: http://www.arduino.cc
+[6]: http://www.raspberrypi.org
+[7]: https://plus.google.com/u/0/communities/105420979515011141876
+[8]: http://hacklabalmeria.net
