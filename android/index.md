@@ -13,6 +13,8 @@ title: Android
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
 
 ### Talks
+  * **Android Wear Workshop** in the [March monthly meeting](https://plus.google.com/u/0/events/ck6ofq23ktvmeu5hiuch561rq94?authkey=CLznvYq-uOD8tQE) of the [Android Almería Developer Group](https://plus.google.com/u/0/communities/105420979515011141876), 17 March 2015, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org) and [HackLab Almería](http://hacklabalmeria.net). The resources and the example codes used in the workshop can be found at [GitHub](https://github.com/josejuansanchez/android-wear-workshop). 
+
   * **Android Sensors** in [XI Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/evento/20141119/), 19 November 2014, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org), [CEP Almería](http://www.cepalmeria.org) and [HackLab Almería](http://hacklabalmeria.net). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/android-sensors). 
 
   * **Android Sensors Overview** in the [June monthly meeting](https://plus.google.com/u/0/events/c413kli326rdrf6ufgro4jecjm8) of the [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), 19 June 2014. This event was organized by [HackLab Almería](http://hacklabalmeria.net) and [G+ Community Android Almería](https://plus.google.com/u/0/communities/105420979515011141876), in collaboration with [La Oficina](http://laoficinacultural.org). The slides can be found at [GitHub](http://josejuansanchez.org/android-sensors-overview/).
