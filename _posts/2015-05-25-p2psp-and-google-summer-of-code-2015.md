@@ -13,7 +13,7 @@ I am proud to say that this year I will participate as a mentor in one of the
 [three projects][projects-accepted] of the [P2PSP organization][1] that have been selected in 
 [Google Summer of Code 2015][2].
 
-I would like to thank the [P2PSP][1] team for giving me the opportunity to work
+I would like to **thank** the [P2PSP][1] team for giving me the opportunity to work
 with them in this project. I am sure this will be an amazing experience. Thanks guys!
 
 ### What is Google Summer of Code (GSoC)?
@@ -40,7 +40,7 @@ more scalable than those based on the client/server architecture.
 You can know all details of the protocol in [P2PSP protocol][5].
 
 
-## P2PSP-GUI Project
+### P2PSP-GUI Project
 
 There already is a working implementation in **Python** but it does not have any 
 integrated GUI, so the user must run a player separately. The purpose of this 
@@ -52,7 +52,6 @@ information about the project you can check out [his proposal][9] and keep updat
 where he will be publishing his progress during the **Google Summer of Code**.
 
 The project mentors of this project are:
-
 * [Cristóbal Medina López][11]  
 * [José Juan Sánchez][12]  
 
