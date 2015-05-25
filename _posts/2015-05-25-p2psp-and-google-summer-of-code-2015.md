@@ -52,6 +52,7 @@ information about the project you can check out [his proposal][9] and keep updat
 where he will be publishing his progress during the **Google Summer of Code**.
 
 The project mentors of this project are:
+
 * [Cristóbal Medina López][11]  
 * [José Juan Sánchez][12]  
 
