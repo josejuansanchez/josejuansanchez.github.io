@@ -6,7 +6,7 @@ category: projects
 ---
 
 <p align="center">
-  <a href="http://elhackaton.com"><img src="http://josejuansanchez.github.io/images/google-summer-of-code-2015.jpg" /></a>
+  <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2015"><img src="http://josejuansanchez.github.io/images/google-summer-of-code-2015.jpg" /></a>
 </p>
 
 I am proud to say that this year I will participate as a mentor in one of the 
