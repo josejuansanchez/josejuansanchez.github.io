@@ -10,7 +10,7 @@ category: projects
 </p>
 
 I am proud to say that this year I will participate as a mentor in one of the 
-three projects of the [P2PSP organization][1] that have been selected in 
+[three projects][projects-accepted] of the [P2PSP organization][1] that have been selected in 
 [Google Summer of Code 2015][2].
 
 I would like to thank the [P2PSP][1] team for giving me the opportunity to work
@@ -52,8 +52,9 @@ information about the project you can check out [his proposal][9] and keep updat
 where he will be publishing his progress during the **Google Summer of Code**.
 
 The project mentors of this project are:
-* [Cristóbal Medina López][11]
-* [José Juan Sánchez][12]
+
+* [Cristóbal Medina López][11]  
+* [José Juan Sánchez][12]  
 
 [1]: http://p2psp.org/en/
 [2]: http://www.google-melange.com/gsoc/homepage/google/gsoc2015
@@ -67,3 +68,4 @@ The project mentors of this project are:
 [10]: http://maniotrix.github.io
 [11]: http://www.hpca.ual.es/~cmedina/
 [12]: http://www.hpca.ual.es/~jjsanchez/
+[projects-accepted]: http://www.google-melange.com/gsoc/org2/google/gsoc2015/p2psp
