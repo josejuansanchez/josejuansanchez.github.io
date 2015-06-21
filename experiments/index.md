@@ -48,6 +48,21 @@ This is my first experiment with [Unity][5], [Arduino][6] and an **Ultrasonic Se
 
 This experiment try to show how to control a GameObject of a 2D Unity Game using [Arduino][6].
 
+### #7. Toy Hacking with Arduino 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YxQ4TBid01g" frameborder="0" allowfullscreen></iframe>
+
+This is the result of an afternoon with my nieces and nephews experimenting
+with an **old toy**, an [Arduino Micro][6] and a **roll of tape**.
+
+### #8. Simple DIY line following robot 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1veEikxIMhM" frameborder="0" allowfullscreen></iframe>
+
+This is the result of an afternoon with my nieces and nephews learning how to
+create a simple DIY line following robot using **servo motors**, **infrared
+sensors**, [Arduino UNO][6] compatible board and a **roll of tape**.
+
 [1]: http://makeymakey.com
 [2]: http://protocoder.org
 [3]: http://www.iearobotics.com/wiki/index.php?title=Miniskybot_2
