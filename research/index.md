@@ -60,6 +60,14 @@ Main researchers: Inmaculada García Fernández / José Jesús Fernandez Rodríg
 From 2013/01/01 until 2016/12/31.  
 Number of researchers: 23.  
 
+* **Participation as mentor in Google Summer of Code 2015 (GSoC 2015)**.  
+Project: [Integration of GUI, player and peer for the P2PSP python implementation](https://www.google-melange.com/gsoc/project/details/google/gsoc2015/maniotrix/5649050225344512).  
+Source code: [GitHub](https://github.com/P2PSP/p2psp).  
+Organization: [P2PSP.org](http://p2psp.org).  
+Assigned mentors: Cristóbal Medina López, José Juan Sánchez Hernández.  
+From 25/05/15 until 31/08/15.  
+
+
 ### Final projects supervision
 
 José Antonio García Góngora. [Visualización de Imágenes Remotas JPEG 2000 en Dispositivos Android](http://www.ace.ual.es/~vruiz/proyectos/ofertados/J2KViewer/html/index.html). Ing. en Informática. Vicente González Ruiz, Juan Pablo García Ortiz y José Juan Sánchez Hernández. 2012.
