@@ -19,7 +19,7 @@ In my spare time I enjoy designing and developing native mobile apps for
 and learning new things.
 
 Also, I am co-founder of [Android Almería Developers Group][7] and an active member
-of [HackLab Almería][8], where he collaborates organizing programming talks and
+of [HackLab Almería][8], where I collaborate organizing programming talks and
 [Hackathons][9].
 
 I am proud to collaborate in the development of open source projects
