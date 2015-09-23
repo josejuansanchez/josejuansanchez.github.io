@@ -18,11 +18,13 @@ In my spare time I enjoy designing and developing native mobile apps for
 [Android][4], experimenting and making stuff with [Arduino][5] and [Raspberry Pi][6],
 and learning new things.
 
-Also, I am co-founder of [Android Almería Developers Group][7] and member and
-collaborator of [HackLab Almería][8].
+Also, I am co-founder of [Android Almería Developers Group][7] and an active member
+of [HackLab Almería][8], where he collaborates organizing programming talks and
+[Hackathons][9].
 
-Finally, I am proud to collaborate in the development of open source
-projects like [Protocoder][9] and [P2PSP][10].
+I am proud to collaborate in the development of open source projects
+like [Protocoder][10]. Moreover, I have participated as a mentor in 
+[Google Summer of Code 2015][11] with the [P2PSP][12] organization.
 
 ### Contact me
 
@@ -47,5 +49,7 @@ You can find me on
 [6]: http://www.raspberrypi.org
 [7]: https://plus.google.com/u/0/communities/105420979515011141876
 [8]: http://hacklabalmeria.net
-[9]: http://protocoder.org
-[10]: http://p2psp.org
+[9]: http://elhackaton.com
+[10]: http://protocoder.org
+[11]: https://www.google-melange.com/gsoc/homepage/google/gsoc2015
+[12]: http://p2psp.org
