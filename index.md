@@ -22,11 +22,19 @@ B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Sp
 ### Research interests
 Image Coding and Transmission, JPEG2000.
 
-### Conference papers
+### Publications
+
+#### Journal papers
+
+* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz and D. Müller. [Interactive Streaming of Sequences of High Resolution JPEG2000 Images](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7214293). In IEEE Transactions on Multimedia, pages 1829 - 1838, August 2015 (Volume:17, Issue: 10). DOI: [10.1109/TMM.2015.2470595](http://dx.doi.org/10.1109/TMM.2015.2470595).
+
+#### International Conference papers
  
 * J.P. García-Ortiz, C. Martín, V. González-Ruiz, J.J. Sánchez-Hernández, I. García, and D Müeller. [Efficient and scalable open-source JPIP server for streaming of large volumes of image data](http://www.hpca.ual.es/~jjsanchez/publications/icce2011/paper.pdf). In IEEE International Conference on Consumer Electronics, pages 380–384, September 2011. Berlin. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/ORTIZ11.bib). DOI: [http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879](http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879)
 
 * J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz, I. García, and D. Müller. [Transmission of low-motion JPEG2000 image sequences using client-driven conditional replenishment](http://www.hpca.ual.es/~jjsanchez/publications/sigmap2011/paper.pdf). In Alejandro Linares Barranco and George Tsihrintzis, editors, Proceedings of the International Conference on Signal Processing and Multimedia Applications (SIGMAP), pages 11 – 16, July 2011. Sevilla, Spain. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/HERNANDEZ11.bib).
+
+#### National Conference papers
 
 * J.J. Sánchez-Hernández, J.P. García-Ortiz, C. Martín, Carmelo Maturana-Espinosa, V. González-Ruiz and D. Müller. [Improved JPIP-compatible architecture for video streaming of JPEG 2000 image sequences](http://www.hpca.ual.es/~jjsanchez/publications/wmdct2012/paper.pdf). In Otoniel Mario López Granado et al., editor, Proceedings of the II Workshop on Multimedia Data Coding and Transmission (WMDCT), pages 33–37, September 2012. Elche, Alicante, Spain. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/HERNANDEZ12.bib).
 
