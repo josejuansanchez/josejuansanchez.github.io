@@ -13,6 +13,10 @@ title: Android
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
 
 ### Talks
+  * **«Gente que hace cosas con cacharros»** in [Codemotion Madrid 2015](http://2015.codemotion.es/agenda.html#5699289732874240/43004009), 28 November 2015, Madrid. The slides can be found at [Speaker Deck](https://github.com/josejuansanchez/codemotion-2015).  
+
+  * **Open Source Android Libraries** in [XII Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/actividades/2015/10/28/xii-jornadas-slcent.html), 28 October 2015, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org), [CEP Almería](http://www.cepalmeria.org) and [HackLab Almería](http://hacklabalmeria.net). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/open-source-android-libraries).  
+
   * **Android Wear Workshop** in the [March monthly meeting](https://plus.google.com/u/0/events/ck6ofq23ktvmeu5hiuch561rq94?authkey=CLznvYq-uOD8tQE) of the [Android Almería Developer Group](https://plus.google.com/u/0/communities/105420979515011141876), 17 March 2015, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org) and [HackLab Almería](http://hacklabalmeria.net). The resources and the example codes used in the workshop can be found at [GitHub](https://github.com/josejuansanchez/android-wear-workshop). 
 
   * **Android Sensors** in [XI Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/evento/20141119/), 19 November 2014, Almería. This event was organized by [IES Al-Ándalus](http://www.iesalandalus.org), [CEP Almería](http://www.cepalmeria.org) and [HackLab Almería](http://hacklabalmeria.net). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/android-sensors). 
@@ -32,6 +36,9 @@ title: Android
   * Introducing the app **"Almería en tu mano"** in [X Betabeers Almería](http://betabeers.com/event/x-betabeers-almeria-1061/), 27 June 2013. This event was organized by [Betabeers Almería](https://twitter.com/betabeersALM) in collaboration with [UNIA](http://unia.ual.es). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/almeria-en-tu-mano).
 
 ### Android Instructor
+  * [
+Desarrollo de Aplicaciones Android](http://www.cepejido.es/moodle/enrol/index.php?id=104). November - December 2015. This course was organized by [CEP de El Ejido](http://www.cepejido.es) (Centro del Profesorado de El Ejido). Duration: 30 hours.
+
   * [
 Desarrollo de Aplicaciones Android para la familia profesional de Informática](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=145506). November - December 2014. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería). Duration: 30 hours.
 
