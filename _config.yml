@@ -3,5 +3,5 @@ domain: josejuansanchez.org
 email: contact@josejuansanchez.org
 
 # Conversion
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
