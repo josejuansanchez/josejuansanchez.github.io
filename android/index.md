@@ -45,3 +45,7 @@ Desarrollo de Aplicaciones Android para la familia profesional de Informática](
 ### Android Lab
 
 * [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development.
+
+### Book Reviewer
+
+* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
