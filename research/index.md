@@ -5,11 +5,6 @@ title: Research Page
 
 ## Research
 
-### Address
-Room 1.13, CITIC building. University of Almería.  
-04120 La Cañada de San Urbano, SN. Almería, Spain.  
-Telephone number: +34 950 214394
-
 ### Education
 PhD. Student in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 M.Sc. in Advanced Computing Techniques at the [University of Almería](http://www.ual.es), Spain.  
@@ -75,6 +70,11 @@ Organization: [P2PSP.org](http://p2psp.org).
 Assigned mentors: Cristóbal Medina López, José Juan Sánchez Hernández.  
 From 25/05/15 until 31/08/15.  
 
+* **Participation as mentor in Google Summer of Code 2016 (GSoC 2016)**.  
+Project: [Implementation of a P2PSP client as an Android application](https://summerofcode.withgoogle.com/projects/#4560829164814336).  
+Organization: [P2PSP.org](http://p2psp.org).  
+Assigned mentors: Juan Pablo García Ortiz, José Juan Sánchez Hernández.  
+From 23/05/16 until 30/08/16.  
 
 ### Final projects supervision
 
