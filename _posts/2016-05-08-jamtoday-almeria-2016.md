@@ -5,7 +5,7 @@ date: May 8, 2016
 category: events
 ---
 
-[![JamToday Almería]({{ site.url }}/resources/2016-05-08/jamtody_almeria.png)][7]{: .center}
+[![JamToday Almería]({{ site.url }}/resources/2016-05-08/jamtoday_almeria.png)][7]{: .center}
 
 En [HackLab Almería][1] estamos co-organizando una [Game Jam][0] con los amigos de [Conecta13][2] y el [Consorcio Fernando de los Ríos][3]. 
 
@@ -31,7 +31,7 @@ El [plazo de inscripción ya está abierto][8] y **sólo hay 70 plazas**, así q
 
 Esperamos que el evento te parezca interesante y te animes a participar :)
 
-[![JamToday Almería]({{ site.url }}/resources/2016-05-08/jamtody_promo.jpg)][7]{: .center}
+[![JamToday Almería]({{ site.url }}/resources/2016-05-08/jamtoday_promo.jpg)][7]{: .center}
 
 
 [0]: https://es.wikipedia.org/wiki/Game_jam
