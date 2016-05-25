@@ -5,6 +5,8 @@ title: Android Lab
 
 ### NDK (Native Development Kit)
 
+* Codelab: [Create Hello-JNI with Android Studio](https://codelabs.developers.google.com/codelabs/android-studio-jni/index.html).
+* [Android NDK samples provided by Google](https://github.com/googlesamples/android-ndk).
 * [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html). Android Developers.
 * [Porting and Using the Existing Libraries with Android NDK](http://www.packtpub.com/sites/default/files/9781849691505_Chapter_08.pdf). Android Native Development Kit Cookbook.
 * [Getting Native with NDK at AnDevCon](https://thenewcircle.com/s/post/1342/getting_native_with_ndk). Marko Gargenta.
