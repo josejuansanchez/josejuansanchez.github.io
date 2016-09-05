@@ -12,6 +12,9 @@ title: Android
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
 
+### Book Reviewer
+* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
+
 ### Talks
   * **«Gente que hace cosas con cacharros»** in [Codemotion Madrid 2015](http://2015.codemotion.es/agenda.html#5699289732874240/43004009), 28 November 2015, Madrid. The slides can be found at [Speaker Deck](https://github.com/josejuansanchez/codemotion-2015).  
 
@@ -45,7 +48,3 @@ Desarrollo de Aplicaciones Android para la familia profesional de Informática](
 ### Android Lab
 
 * [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development.
-
-### Book Reviewer
-
-* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
