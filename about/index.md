@@ -19,12 +19,12 @@ In my spare time I enjoy designing and developing native mobile apps for
 and learning new things.
 
 Also, I am co-founder of [Android Almería Developers Group][7] and an active member
-of [HackLab Almería][8], where I collaborate organizing programming talks and
-[Hackathons][9].
+of [HackLab Almería][8], where I collaborate organizing programming talks,
+[Hackathons][9] and [Game Jams][13].
 
 I am proud to collaborate in the development of open source projects
 like [Protocoder][10]. Moreover, I have participated as a mentor in 
-[Google Summer of Code 2015][11] with the [P2PSP][12] organization.
+[Google Summer of Code 2015][11] and [GSOC 2016][14] with the [P2PSP][12] organization.
 
 ### Contact me
 
@@ -53,3 +53,5 @@ You can find me on
 [10]: http://protocoder.org
 [11]: https://www.google-melange.com/gsoc/homepage/google/gsoc2015
 [12]: http://p2psp.org
+[13]: http://www.jamtodayalmeria.com
+[14]: https://summerofcode.withgoogle.com
