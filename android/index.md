@@ -8,12 +8,12 @@ title: Android
 ### Developers Group
 * I am member and collaborator of [Android Almería Developers Group](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
 
+### Book Reviewer
+* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
+
 ### Apps in Google Play
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
   - [Almería en tu mano](https://play.google.com/store/apps/details?id=es.almeriaentumano.android).
-
-### Book Reviewer
-* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
 
 ### Talks
   * **«Gente que hace cosas con cacharros»** in [Codemotion Madrid 2015](http://2015.codemotion.es/agenda.html#5699289732874240/43004009), 28 November 2015, Madrid. The slides can be found at [Speaker Deck](https://github.com/josejuansanchez/codemotion-2015).  
