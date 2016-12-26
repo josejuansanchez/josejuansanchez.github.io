@@ -11,7 +11,7 @@ title: About me
 
 I received the M.Sc. degree in computer science from the [University of 
 Almería][1] in 2008. I am a member of the [Supercomputing-Algorithms 
-Research Group][2] of the [University of Almería][3] and currently I am
+Research Group][2] at the [University of Almería][3] and currently I am
 working toward a PhD in the area of image coding and transmission.
 
 In my spare time I enjoy designing and developing native mobile apps for
@@ -23,7 +23,7 @@ of [HackLab Almería][8], where I collaborate organizing programming talks,
 [Hackathons][9] and [Game Jams][13].
 
 I am proud to collaborate in the development of open source projects
-like [Protocoder][10]. Moreover, I have participated as a mentor in 
+like [NanoPlayBoard][15] and [Protocoder][10]. Moreover, I have participated as a mentor in 
 [Google Summer of Code 2015][11] and [GSOC 2016][14] with the [P2PSP][12] organization.
 
 ### Contact me
@@ -55,3 +55,4 @@ You can find me on
 [12]: http://p2psp.org
 [13]: http://www.jamtodayalmeria.com
 [14]: https://summerofcode.withgoogle.com
+[15]: http://nanoplayboard.org
