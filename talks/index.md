@@ -7,13 +7,13 @@ title: Talks
 
 ### 2016
 
-  * **«Experimenta y aprende programando con NanoPlayBoard»** in [III Jornadas HackLab 2016](http://hacklabalmeria.net/2016/12/10/iii-jornadas-hacklab.html), 10 December 2016, Almería. The resources used in the talk are available at [GitHub](https://github.com/josejuansanchez/jornadas-hacklab-2016).
+  * **«Experimenta y aprende programando con NanoPlayBoard»** in [III Jornadas HackLab 2016](http://hacklabalmeria.net/2016/12/10/iii-jornadas-hacklab.html), 10 December 2016, Almería. The resources used in the talk are available at [GitHub](https://github.com/josejuansanchez/jornadas-hacklab-2016). [[Photos]](https://goo.gl/photos/Ut4zxLuLw9DxbRCY6).
 
-  * **«Experimentando con chismes y cacharros»** in [Codemotion Madrid 2016](https://2016.codemotion.es/agenda.html#5716304078045184/84674010), 19 November 2016, Madrid. The repository used in the workshop can be found at [GitHub](https://github.com/MiguelAngelLV/codemotion2016).
+  * **«Experimentando con chismes y cacharros»** in [Codemotion Madrid 2016](https://2016.codemotion.es/agenda.html#5716304078045184/84674010), 19 November 2016, Madrid. The repository used in the workshop can be found at [GitHub](https://github.com/MiguelAngelLV/codemotion2016). [[Photos]](https://goo.gl/photos/t2YNy1f8etCYd8mM6).
 
-  * **«NanoPlayBoard: Un proyecto educativo Open Source Hardware»** in [XIII Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html), 17 November 2016, Almería. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/nanoplayboard-un-proyecto-educativo-open-source-hardware).
+  * **«NanoPlayBoard: Un proyecto educativo Open Source Hardware»** in [XIII Jornadas SLCENT de Actualización Informática y Electrónica](http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html), 17 November 2016, Almería. The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/nanoplayboard-un-proyecto-educativo-open-source-hardware). [[Photos]](https://goo.gl/photos/FSuAmmQqaFLerqd1A).
 
-  * **«Gente que hace cosas con cacharros»** in [Genuino Day 2016](http://hacklabalmeria.net/actividades/2016/04/02/genuino-day.html), 2 April 2016, Almería. The slides are availabe at [Speaker Deck](https://speakerdeck.com/josejuansanchez/gente-que-hace-cosas-con-cacharros) and the repository with the examples can be found at [GitHub](https://github.com/josejuansanchez/codemotion-2015).
+  * **«Gente que hace cosas con cacharros»** in [Genuino Day 2016](http://hacklabalmeria.net/actividades/2016/04/02/genuino-day.html), 2 April 2016, Almería. The slides are availabe at [Speaker Deck](https://speakerdeck.com/josejuansanchez/gente-que-hace-cosas-con-cacharros) and the repository with the examples can be found at [GitHub](https://github.com/josejuansanchez/codemotion-2015). [[Photos]](https://goo.gl/photos/x5gDkNyY5BKktzYDA).
 
 ### 2015
 
