@@ -31,15 +31,17 @@ like [NanoPlayBoard][15] and [Protocoder][10]. Moreover, I have participated as 
 You can find me on
 
 * [Twitter](https://twitter.com/josejuansanchez).
-* [Google+](http://gplus.to/josejuansanchez).
+* [Google+](https://plus.google.com/+JoséJuanSánchezHernández).
 * [LinkedIn](http://www.linkedin.com/pub/jos%C3%A9-juan-s%C3%A1nchez-hern%C3%A1ndez/6a/858/830).
 * [GitHub](https://github.com/josejuansanchez).
+* [YouTube](https://www.youtube.com/user/lajauladefaraday).
+* [Wikipedia](https://es.wikipedia.org/wiki/Usuario:JJsanchez).
+* [Speaker Deck](https://speakerdeck.com/josejuansanchez).
+* [Stack Overflow](http://stackoverflow.com/users/2090682/jose-juan-sanchez).
 * [Bitbucket](https://bitbucket.org/josejuansanchez).
 * [Launchpad](https://launchpad.net/~josejuan-sanchez).
-* [Stack Overflow](http://stackoverflow.com/users/2090682/jose-juan-sanchez).
-* [Speaker Deck](https://speakerdeck.com/josejuansanchez).
 * [Pinterest](http://pinterest.com/josejuansanchez).
-* [YouTube](https://www.youtube.com/user/lajauladefaraday).
+
 
 [1]: http://www.ual.es
 [2]: http://www.hpca.ual.es
