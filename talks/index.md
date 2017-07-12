@@ -5,6 +5,12 @@ title: Talks
 
 ## Talks & Workshops
 
+### 2017
+
+  * **«EABE 2017 - NanoPlayBoard como recurso educativo»** in [EABE 2017](http://hacklabalmeria.net/actividades/2017/04/01/EABE-taller-nanoplayboard.html), 1 April 2017, Almería. [Storify](https://storify.com/josejuansanchez/eabe-2017). [[Photos]](https://goo.gl/photos/qTjx5g9AicXwimq1A).
+
+  * **«Programa tu primer videojuego con Scratch»** in the provincial meeting of volunteers of [Andalucía Compromiso Digital](https://www.andaluciacompromisodigital.org), 10 March 2017, Almería. The resources used in the workshop are available at [GitHub](https://github.com/josejuansanchez/scratch_workshop). [[Storify]](https://storify.com/josejuansanchez/taller-de-scratch).
+
 ### 2016
 
   * **«Experimenta y aprende programando con NanoPlayBoard»** in [III Jornadas HackLab 2016](http://hacklabalmeria.net/2016/12/10/iii-jornadas-hacklab.html), 10 December 2016, Almería. The resources used in the talk are available at [GitHub](https://github.com/josejuansanchez/jornadas-hacklab-2016). [[Photos]](https://goo.gl/photos/Ut4zxLuLw9DxbRCY6).
