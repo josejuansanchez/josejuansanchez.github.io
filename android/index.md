@@ -9,7 +9,7 @@ title: Android
 * I am member and collaborator of [Android Almería Developers Group](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
 
 ### Book Reviewer
-* I have collaborated with [Packt Publishing](https://www.packtpub.com) as book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example).
+* I have collaborated with [Packt Publishing](https://www.packtpub.com) as a book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example) (2016).
 
 ### Apps in Google Play
   - [culturAL](https://play.google.com/store/apps/details?id=org.josejuansanchez.agendaculturaldealmeria).
