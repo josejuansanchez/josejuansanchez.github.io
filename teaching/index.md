@@ -11,7 +11,7 @@ title: Teaching
     Ciclo: CFGS Administración de Sistemas Informáticos en Red
 
   * **Módulo:** [Bases de Datos (BD)][2].  
-    Ciclo: CFGS Administración de Sistemas Informáticos en Red
+    Ciclo: CFGS Desarrollo de Aplicaciones Web
 
   * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
     Ciclo: CFGS Administración de Sistemas Informáticos en Red  
