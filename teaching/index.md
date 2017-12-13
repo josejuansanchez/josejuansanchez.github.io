@@ -16,5 +16,11 @@ title: Teaching
   * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
     Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
+### Workshops
+
+  * [Taller de introducción a `git` y GitHub][3].  
+
+
 [1]: http://josejuansanchez.org/IAW/ 
 [2]: http://josejuansanchez.org/BD/
+[3]: https://github.com/josejuansanchez/taller-git-github
