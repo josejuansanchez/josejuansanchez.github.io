@@ -19,8 +19,9 @@ title: Teaching
 ### Workshops
 
   * [Taller de introducción a `git` y GitHub][3].  
-
+  * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
 
 [1]: http://josejuansanchez.org/IAW/ 
 [2]: http://josejuansanchez.org/BD/
 [3]: https://github.com/josejuansanchez/taller-git-github
+[4]: https://github.com/josejuansanchez/iot-demo
