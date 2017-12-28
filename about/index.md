@@ -23,7 +23,7 @@ of [HackLab Almería][8], where I collaborate organizing programming talks,
 [Hackathons][9] and [Game Jams][13].
 
 I am proud to collaborate in the development of open source projects
-like [NanoPlayBoard][15] and [Protocoder][10]. Moreover, I have participated as a mentor in 
+like [NanoPlayBoard][15]. Moreover, I have participated as a mentor in 
 [Google Summer of Code 2015][11] and [GSOC 2016][14] with the [P2PSP][12] organization.
 
 ### Contact me
@@ -52,7 +52,6 @@ You can find me on
 [7]: https://plus.google.com/u/0/communities/105420979515011141876
 [8]: http://hacklabalmeria.net
 [9]: http://elhackaton.com
-[10]: http://protocoder.org
 [11]: https://www.google-melange.com/gsoc/homepage/google/gsoc2015
 [12]: http://p2psp.org
 [13]: http://www.jamtodayalmeria.com
