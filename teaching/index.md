@@ -18,7 +18,7 @@ title: Teaching
 
 ### Workshops 2017
 
-  * [Taller de introducción a `git` y GitHub][3].
+  * [Taller de introducción a git y GitHub][3].
   * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
   * [Taller de Scratch][5].
 
