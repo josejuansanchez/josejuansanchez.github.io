@@ -22,8 +22,14 @@ title: Teaching
   * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
   * [Taller de Scratch][5].
 
+### Work in progress
+
+  * [Processing playground][6]. The resources are available at [GitHub][7].
+
 [1]: http://josejuansanchez.org/iaw/ 
 [2]: http://josejuansanchez.org/bd/
 [3]: https://github.com/josejuansanchez/taller-git-github
 [4]: https://github.com/josejuansanchez/iot-demo
 [5]: https://github.com/josejuansanchez/scratch_workshop
+[6]: http://josejuansanchez.org/processing-playground/
+[7]: https://github.com/josejuansanchez/processing-playground
