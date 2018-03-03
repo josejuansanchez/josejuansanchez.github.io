@@ -33,7 +33,7 @@ The `IntentService` is triggered using an Intent, it spawns a new worker thread 
 
 The `Service` and `IntentService` may be triggered from any thread, activity or other application component.
 
-### Runs On
+### Runs On
 
 The `Service` runs in background but it runs on the Main Thread of the application.
 
