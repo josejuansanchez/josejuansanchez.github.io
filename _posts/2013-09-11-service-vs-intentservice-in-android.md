@@ -51,11 +51,26 @@ If you implement a `Service`, it is your responsibility to stop the service when
 
 The `IntentService` stops the service after all start requests have been handled, so you never have to call `stopSelf()`.
 
+## Slides
+
+<script async class="speakerdeck-embed" data-id="7209dbe095f00131f0353e762bb67ced" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+Slides available on [Speaker Deck][7].
+
 ## References
 
-1. [Service. Android API](http://developer.android.com/reference/android/app/Service.html).
-2. [IntentService. Android API](http://developer.android.com/reference/android/app/IntentService.html).
-3. [Services. API Guide](http://developer.android.com/guide/components/services.html).
-4. [Tejas Lagvankar](https://plus.google.com/113624528637645978412/posts) wrote a [nice post](http://techtej.blogspot.com.es/2011/03/android-thread-constructspart-4.html) about this subject.
-5. [StackOverflow](https://stackoverflow.com/questions/15524280/service-vs-intentservice?answertab=active#tab-top).
-6. [Android Services and Background Tasks](https://speakerdeck.com/josejuansanchez/android-services-and-background-tasks).
+1. [Service. Android API][1].
+2. [IntentService. Android API][2].
+3. [Services. API Guide][3].
+4. [Tejas Lagvankar][4] wrote a [nice post][5] about this subject.
+5. [StackOverflow][6].
+6. [Android Services and Background Tasks][7].
+
+
+[1]: http://developer.android.com/reference/android/app/Service.html
+[2]: http://developer.android.com/reference/android/app/IntentService.html
+[3]: http://developer.android.com/guide/components/services.html
+[4]: https://plus.google.com/113624528637645978412/posts
+[5]: http://techtej.blogspot.com.es/2011/03/android-thread-constructspart-4.html
+[6]: https://stackoverflow.com/questions/15524280/service-vs-intentservice?answertab=active#tab-top
+[7]: https://speakerdeck.com/josejuansanchez/android-services-and-background-tasks

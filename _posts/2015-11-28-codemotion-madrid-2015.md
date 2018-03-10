@@ -28,7 +28,7 @@ Si alguna vez hablando con tu madre has usado en una frase al menos 6 de estas p
 
 [![Slides]({{ site.url }}/resources/2015-11-28/codemotion_slides.png){: .center}][6]  
 
-Slides disponibles en [Speaker Deck][11].
+Slides disponibles en [Speaker Deck][6].
 
 ## Vídeos usados en la charla: 
 * [Makey Makey + Protocoder][7]
