@@ -11,7 +11,7 @@ category: projects
 
 ## Description
 
-This project allows you to configure your [micro:bit][4] to work as [Bluetooth Low Energy (BLE)][0] remote control to control an instance of [Spotify][1] running on **macOS** with [Node.js][2] and [AppleScript][3]. Users can use [micro:bit][4] to perform several actions like play or pause tracks, turn volume up or down and go to next or previous track. To carry out this actions, a custom event with a specific value for each action is raised over [BLE][0] when the [micro:bit][4] buttons are pressed by the user. The events raised by the [micro:bit][4] are catched by a [Node.js][2] script that is running on a computer with **macOS**.
+This project allows you to configure your [micro:bit][4] to work as a [Bluetooth Low Energy (BLE)][0] remote control to control an instance of [Spotify][1] running on **macOS** with [Node.js][2] and [AppleScript][3]. Users can use [micro:bit][4] to perform several actions like play or pause tracks, turn volume up or down and go to next or previous track. To carry out this actions, a custom event with a specific value for each action is raised over [BLE][0] when the [micro:bit][4] buttons are pressed by the user. The events raised by the [micro:bit][4] are catched by a [Node.js][2] script that is running on a computer with **macOS**.
 
 The project is composed by two pieces of software: 
 
@@ -117,15 +117,15 @@ Although this script is using [BLE][0] there is no need to pair your [micro:bit]
 
 ## How to build and deploy the *remote control*
 
-1. Install [node.js][2].
+* Install [node.js][2].
 
-2. Install the PXT [(Microsoft Programming Experience Toolkit)][6] command line tool with `npm`.
+* Install the PXT [(Microsoft Programming Experience Toolkit)][6] command line tool with `npm`.
 
 ```
 npm install -g pxt
 ```
 
-3. Clone this repository to your computer.
+* Clone this repository to your computer.
 
 ```
 git clone https://github.com/josejuansanchez/microbit-ble-spotify.git
@@ -133,21 +133,21 @@ cd microbit-ble-spotify
 cd ble-remote-control
 ```
 
-4. Install the [micro:bit][4] target for PXT. This target allows you to program a [micro:bit][4] using PXT.
+* Install the [micro:bit][4] target for PXT. This target allows you to program a [micro:bit][4] using PXT.
 
 ```
 pxt target microbit
 ```
 
-5. Install the required PXT packages for this project (`core` and `bluetooth`). The dependencies of the project are defined in `pxt.json`.
+* Install the required PXT packages for this project (`core` and `bluetooth`). The dependencies of the project are defined in `pxt.json`.
 
 ```
 pxt install
 ```
 
-6. Connect the [micro:bit][4] to your computer via USB.
+* Connect the [micro:bit][4] to your computer via USB.
 
-7. To build and deploy the project, execute `pxt` with no arguments or run `make`. Doing this, PXT will compile and link the code into an `.hex` file and will deploy it into your connected [micro:bit][4].
+* To build and deploy the project, execute `pxt` with no arguments or run `make`. Doing this, PXT will compile and link the code into an `.hex` file and will deploy it into your connected [micro:bit][4].
 
 ```
 pxt
@@ -173,13 +173,13 @@ The compiled firmware is available in the `resources/firmware` folder of the pro
 
 ## How to run the *event listener*
 
-1. Go to `ble-event-listener` directory.
+* Go to `ble-event-listener` directory.
 
 ```
 cd ble-event-listener
 ```
 
-2. Run the [Node.js][2] script:
+* Run the [Node.js][2] script:
 
 ```
 node index.js
