@@ -5,6 +5,8 @@ title: Phd Thesis
 
 ## Phd Thesis
 
+*Work in progres*
+
 ### GitHub repositories
 
 * [Conditional Replenishment and Motion Compensation based on JPEG2000][1].
