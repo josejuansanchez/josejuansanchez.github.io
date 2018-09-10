@@ -25,6 +25,13 @@ title: Teaching
 ### Work in progress
 
   * [Processing playground][6]. The resources are available at [GitHub][7].
+  * [JavaScript playground][8].
+
+### GitHub repositories
+
+  * [Teaching][9].
+  * [Aprender en red][10].
+  * [Personal notebook][11].
 
 [1]: http://josejuansanchez.org/iaw/ 
 [2]: http://josejuansanchez.org/bd/
@@ -33,3 +40,7 @@ title: Teaching
 [5]: https://github.com/josejuansanchez/scratch_workshop
 [6]: http://josejuansanchez.org/processing-playground/
 [7]: https://github.com/josejuansanchez/processing-playground
+[8]: https://github.com/josejuansanchez/javascript-playground
+[9]: https://github.com/josejuansanchez/teaching
+[10]: https://github.com/josejuansanchez/aprender-en-red/wiki
+[11]: https://github.com/josejuansanchez/personal-notebook
