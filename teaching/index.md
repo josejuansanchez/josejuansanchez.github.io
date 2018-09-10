@@ -26,6 +26,7 @@ title: Teaching
 
   * [Processing playground][6]. The resources are available at [GitHub][7].
   * [JavaScript playground][8].
+  * [PHP playground][12].
 
 ### GitHub repositories
 
@@ -44,3 +45,4 @@ title: Teaching
 [9]: https://github.com/josejuansanchez/teaching
 [10]: https://github.com/josejuansanchez/aprender-en-red/wiki
 [11]: https://github.com/josejuansanchez/personal-notebook
+[12]: https://github.com/josejuansanchez/php-playground
