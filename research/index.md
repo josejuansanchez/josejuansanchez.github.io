@@ -23,6 +23,10 @@ Image Coding and Transmission, JPEG2000.
 
 * J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz and D. Müller. [Interactive Streaming of Sequences of High Resolution JPEG2000 Images](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7214293). In IEEE Transactions on Multimedia, pages 1829 - 1838, August 2015 (Volume:17, Issue: 10). DOI: [10.1109/TMM.2015.2470595](http://dx.doi.org/10.1109/TMM.2015.2470595).
 
+#### International Conference posters
+
+* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz and D. Müller. [Client-Driven Transmission of JPEG2000 Image Sequences Using Motion Compensated Conditional Replenishment](http://josejuansanchez.org/publications/dcc2019/poster.pdf). In A. Bilgin, M.W. Marcellin, J. Serra-Sagrista, and J.A. Storer, editors, Proceedings of Data Compression Conference (DCC), page 602, march 2019. Snowbird, Utah, USA.
+
 #### International Conference papers
  
 * J.P. García-Ortiz, C. Martín, V. González-Ruiz, J.J. Sánchez-Hernández, I. García, and D Müeller. [Efficient and scalable open-source JPIP server for streaming of large volumes of image data](http://www.hpca.ual.es/~jjsanchez/publications/icce2011/paper.pdf). In IEEE International Conference on Consumer Electronics, pages 380–384, September 2011. Berlin. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/ORTIZ11.bib). DOI: [http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879](http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879)
