@@ -16,7 +16,7 @@ title: Phd Thesis
 * [Old subversion repository][5].
 * [Kakadu Software][6].
 * [Kakadu Software Documentation][7].
-
+* [Notes, scripts and other stuff related with the JHelioviewer project][11].
 * [Data Compression][8].
 * [Omnidirectional images/videos (360 image/video)][9].
 * [JPEG2000 Playground][10].
@@ -31,3 +31,4 @@ title: Phd Thesis
 [8]: https://github.com/josejuansanchez/data-compression
 [9]: https://github.com/josejuansanchez/360-video
 [10]: https://github.com/josejuansanchez/jpeg2000-playground
+[11]: https://github.com/josejuansanchez/JHelioviewer-Notes
