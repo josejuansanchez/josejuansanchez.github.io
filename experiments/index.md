@@ -13,6 +13,8 @@ title: Experiments
 - [#6. Unity + Arduino + Ultrasonic Sensor](#unity-arduino-ultrasonic)
 - [#7. Toy Hacking with Arduino](#toy-hacking)
 - [#8. Simple DIY line following robot ](#simple-diy-robot)
+- [#9. Hard Disk speaker](#hard-disk-speaker)
+- [#10.Bluetooth Low Energy remote control for Spotify](#bluetooth-low-energy-remote-control-for-spotify)
 
 ----
 
@@ -134,6 +136,32 @@ sensors**, [Arduino UNO][8] compatible board and a **roll of tape**.
 * **Date**: May 2015.
 * **Used technologies**: [Arduino][8], Servo motors, Infrared sensors, Roll of tape.
 
+----
+
+<a name="hard-disk-speaker"/>
+
+### #9. Hard Disk speaker
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxinG3Yg_B0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This experiment uses an old hard disk as a speaker.
+
+* **Date**: March 2018.
+* **Used technologies**: [Arduino][8] and [NanoPlayBoard][11].
+
+----
+
+<a name="bluetooth-low-energy-remote-control-for-spotify"/>
+
+### #10.Bluetooth Low Energy remote control for Spotify
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jZdrvi8mveU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This project allows you to configure your **micro:bit** to work as a **Bluetooth Low Energy** remote control to control an instance of **Spotify** running on **macOS** with **Node.js** and **AppleScript**.
+
+* **Date**: August 2018.
+* **Used technologies**: Micro:bit, Bluetooth Low Energy, Node.js and AppleScript.
+
 
 [1]: https://www.qualcomm.com/products/vuforia
 [2]: http://android.com
@@ -145,3 +173,4 @@ sensors**, [Arduino UNO][8] compatible board and a **roll of tape**.
 [8]: http://www.arduino.cc
 [9]: https://puredata.info
 [10]: http://www.bluetooth.com
+[11]: http://nanoplayboard.org
