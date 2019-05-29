@@ -24,6 +24,7 @@ title: Teaching
 
 ### Work in progress
 
+  * [Taller de introducción al diseño 3D con OpenSCAD][13].
   * [Processing playground][6]. The resources are available at [GitHub][7].
   * [JavaScript playground][8].
   * [PHP playground][12].
@@ -46,3 +47,4 @@ title: Teaching
 [10]: https://github.com/josejuansanchez/aprender-en-red/wiki
 [11]: https://github.com/josejuansanchez/personal-notebook
 [12]: https://github.com/josejuansanchez/php-playground
+[13]: https://github.com/josejuansanchez/taller-openscad
