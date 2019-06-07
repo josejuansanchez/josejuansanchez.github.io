@@ -25,7 +25,7 @@ Image Coding and Transmission, JPEG2000.
 
 #### International Conference posters
 
-* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz and D. Müller. [Client-Driven Transmission of JPEG2000 Image Sequences Using Motion Compensated Conditional Replenishment](http://josejuansanchez.org/publications/dcc2019/poster.pdf). In A. Bilgin, M.W. Marcellin, J. Serra-Sagrista, and J.A. Storer, editors, Proceedings of Data Compression Conference (DCC), page 602, march 2019. Snowbird, Utah, USA. DOI 10.1109/DCC.2019.00114.
+* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz and D. Müller. [Client-Driven Transmission of JPEG2000 Image Sequences Using Motion Compensated Conditional Replenishment](http://josejuansanchez.org/publications/dcc2019/poster.pdf). In A. Bilgin, M.W. Marcellin, J. Serra-Sagrista, and J.A. Storer, editors, Proceedings of Data Compression Conference (DCC), page 602, march 2019. Snowbird, Utah, USA. DOI [10.1109/DCC.2019.00114](https://ieeexplore.ieee.org/document/8712654).
 
 #### International Conference papers
  
