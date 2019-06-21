@@ -16,6 +16,11 @@ title: Teaching
   * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
     Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
+### Workshops 2019
+
+  * [Taller de introducción al diseño 3D con OpenSCAD][13]. [html][13] | [pdf][14]
+  * [Primeros pasos con Ansible y AWS][15]. [html][15] | [pdf][16]
+
 ### Workshops 2017
 
   * [Taller de introducción a git y GitHub][3].
@@ -24,7 +29,6 @@ title: Teaching
 
 ### Work in progress
 
-  * [Taller de introducción al diseño 3D con OpenSCAD][13].
   * [Processing playground][6]. The resources are available at [GitHub][7].
   * [JavaScript playground][8].
   * [PHP playground][12].
@@ -48,3 +52,6 @@ title: Teaching
 [11]: https://github.com/josejuansanchez/personal-notebook
 [12]: https://github.com/josejuansanchez/php-playground
 [13]: https://github.com/josejuansanchez/taller-openscad
+[14]: https://josejuansanchez.org/taller-openscad/index.pdf
+[15]: https://josejuansanchez.org/taller-ansible-aws/
+[16]: https://josejuansanchez.org/taller-ansible-aws/index.pdf
