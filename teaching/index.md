@@ -51,7 +51,7 @@ title: Teaching
 [10]: https://github.com/josejuansanchez/aprender-en-red/wiki
 [11]: https://github.com/josejuansanchez/personal-notebook
 [12]: https://github.com/josejuansanchez/php-playground
-[13]: https://github.com/josejuansanchez/taller-openscad
+[13]: https://josejuansanchez.org/taller-openscad/
 [14]: https://josejuansanchez.org/taller-openscad/index.pdf
 [15]: https://josejuansanchez.org/taller-ansible-aws/
 [16]: https://josejuansanchez.org/taller-ansible-aws/index.pdf
