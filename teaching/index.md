@@ -18,8 +18,8 @@ title: Teaching
 
 ### Workshops 2019
 
-  * [Taller de introducción al diseño 3D con OpenSCAD][13]. [html][13] | [pdf][14]
-  * [Primeros pasos con Ansible y AWS][15]. [html][15] | [pdf][16]
+  * [Taller de introducción al diseño 3D con OpenSCAD][13]. [html][13] [pdf][14]
+  * [Primeros pasos con Ansible y AWS][15]. [html][15] [pdf][16]
 
 ### Workshops 2017
 
