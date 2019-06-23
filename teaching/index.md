@@ -18,8 +18,8 @@ title: Teaching
 
 ### Workshops 2019
 
-  * [Taller de introducción al diseño 3D con OpenSCAD][13]. [html][13] [pdf][14]
-  * [Primeros pasos con Ansible y AWS][15]. [html][15] [pdf][16]
+  * [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>
+  * [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>
 
 ### Workshops 2017
 
@@ -29,7 +29,7 @@ title: Teaching
 
 ### Work in progress
 
-  * [Processing playground][6]. The resources are available at [GitHub][7].
+  * [Processing playground][6].
   * [JavaScript playground][8].
   * [PHP playground][12].
 
