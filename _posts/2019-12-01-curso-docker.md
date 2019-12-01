@@ -11,8 +11,8 @@ category: workshops
 
 Durante el mes de noviembre he participado como ponente junto a [Manuel
 Torres][2] y [José Antonio Martínez][3], en un curso organizado por el [CEP de
-Almería][4] titulado **Despliegue de aplicaciones y servicios con Docker y
-Kubernetes**.
+Almería][4] titulado [Despliegue de aplicaciones y servicios con Docker y
+Kubernetes][8].
 
 Desde aquí me gustaría agradecer públicamente a [Manuel Torres][2] y [José
 Antonio Martínez][3] por haberme apoyado con su participación en este curso. Ha
@@ -56,3 +56,4 @@ El material que hemos utilizado en el curso está disponible en:
 [5]: https://josejuansanchez.org/curso-docker/
 [6]: https://josejuansanchez.org/curso-docker/index.pdf
 [7]: https://ualmtorres.github.io/SeminarioKubernetes/
+[8]: https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/20401GE035/
