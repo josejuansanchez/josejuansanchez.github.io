@@ -18,6 +18,7 @@ title: Teaching
 
 ### Workshops 2019
 
+  * [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>
   * [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>
   * [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>
 
@@ -55,3 +56,5 @@ title: Teaching
 [14]: https://josejuansanchez.org/taller-openscad/index.pdf
 [15]: https://josejuansanchez.org/taller-ansible-aws/
 [16]: https://josejuansanchez.org/taller-ansible-aws/index.pdf
+[17]: https://josejuansanchez.org/curso-docker/
+[18]: https://josejuansanchez.org/curso-docker/index.pdf
