@@ -5,6 +5,10 @@ title: Talks
 
 ## Talks & Workshops
 
+### 2019
+
+  * [Despliegue de aplicaciones y servicios con Docker y Kubernetes](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/20401GE035/). November - December 2019. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería). Duration: 20 hours.
+
 ### 2017
 
   * **«EABE 2017 - NanoPlayBoard como recurso educativo»** in [EABE 2017](http://hacklabalmeria.net/actividades/2017/04/01/EABE-taller-nanoplayboard.html), 1 April 2017, Almería. [Storify](https://storify.com/josejuansanchez/eabe-2017). [[Photos]](https://goo.gl/photos/qTjx5g9AicXwimq1A).
