@@ -6,15 +6,18 @@ title: Research Page
 ## Research
 
 ### Education
+
 PhD. Student in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 M.Sc. in Advanced Computing Techniques at the [University of Almería](http://www.ual.es), Spain.  
 B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
 
 ### Research group
+
 [High Performance Computing - Algorithms Research Group (TIC-146)](http://www.hpca.ual.es).  
 [University of Almería](http://www.ual.es).
 
 ### Research interests
+
 Image Coding and Transmission, JPEG2000.
 
 ### Publications
@@ -29,9 +32,9 @@ Image Coding and Transmission, JPEG2000.
 
 #### International Conference papers
  
-* J.P. García-Ortiz, C. Martín, V. González-Ruiz, J.J. Sánchez-Hernández, I. García, and D Müeller. [Efficient and scalable open-source JPIP server for streaming of large volumes of image data](http://www.hpca.ual.es/~jjsanchez/publications/icce2011/paper.pdf). In IEEE International Conference on Consumer Electronics, pages 380–384, September 2011. Berlin. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/ORTIZ11.bib). DOI: [http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879](http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879)
+* J.P. García-Ortiz, C. Martín, V. González-Ruiz, J.J. Sánchez-Hernández, I. García, and D Müeller. [Efficient and scalable open-source JPIP server for streaming of large volumes of image data](http://www.hpca.ual.es/~jjsanchez/publications/icce2011/paper.pdf). In IEEE International Conference on Consumer Electronics, pages 380–384, September 2011. Berlin. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/ORTIZ11.bib). DOI: [http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879](http://dx.doi.org/10.1109/ICCE-Berlin.2011.6031879).
 
-* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz, I. García, and D. Müller. [Transmission of low-motion JPEG2000 image sequences using client-driven conditional replenishment](http://www.hpca.ual.es/~jjsanchez/publications/sigmap2011/paper.pdf). In Alejandro Linares Barranco and George Tsihrintzis, editors, Proceedings of the International Conference on Signal Processing and Multimedia Applications (SIGMAP), pages 11 – 16, July 2011. Sevilla, Spain. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/HERNANDEZ11.bib).
+* J.J. Sánchez-Hernández, J.P. García-Ortiz, V. González-Ruiz, I. García, and D. Müller. [Transmission of low-motion JPEG2000 image sequences using client-driven conditional replenishment](http://www.hpca.ual.es/~jjsanchez/publications/sigmap2011/paper.pdf). In Alejandro Linares Barranco and George Tsihrintzis, editors, Proceedings of the International Conference on Signal Processing and Multimedia Applications (SIGMAP), pages 11 – 16, July 2011. Sevilla, Spain. [Bibtex entry](http://www.hpca.ual.es/~vruiz/papers/HERNANDEZ11.bib). Electronic ISBN: [978-989-8425-72-0](https://ieeexplore.ieee.org/abstract/document/6731257).
 
 #### National Conference papers
 
