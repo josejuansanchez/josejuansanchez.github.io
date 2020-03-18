@@ -5,7 +5,7 @@ date: March 18, 2020
 category: teaching
 ---
 
-![Diagram]({{ site.url }}/resources/2020-03-18/img/processing_book_cover.jpg){: .center}
+[![Diagram]({{ site.url }}/resources/2020-03-18/img/processing_book_cover.jpg)][12]{: .center}
 
 *Imagen. "[Processing book cover][9]" de [Abstract Machine][10] bajo licencia [CC BY-NC-SA 2.0][11].*{: .center}
 
@@ -36,3 +36,4 @@ La guía didáctica está disponible en [https://josejuansanchez.org/processing-
 [9]: https://www.flickr.com/photos/40778055@N00/726955140
 [10]: https://www.flickr.com/photos/40778055@N00
 [11]: https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich
+[12]: https://josejuansanchez.org/processing-python/
