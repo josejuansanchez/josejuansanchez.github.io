@@ -17,14 +17,14 @@ title: Phd Thesis
 ### The JPEG2000 Standard
 
 * [The JPEG2000 standard (ISO/IEC 15444-1)][26].
-* [JPEG 2000 image coding system: Core coding system (ISO/IEC IS 15444-1 | ITU-T T.800)][30].
+* [JPEG 2000 image coding system: Core coding system (ISO/IEC IS 15444-1. ITU-T T.800)][30].
 * [JPEG2000 Playground][10].
 * [Kakadu Software][6].
 * [Kakadu Software Documentation][7].
 
 ### The JPIP Protocol
 
-* [JPEG 2000 image coding system: Interactivity tools, APIs and protocols (ISO/IEC IS 15444-9 | ITU-T T.808)][29].
+* [JPEG 2000 image coding system: Interactivity tools, APIs and protocols (ISO/IEC IS 15444-9. ITU-T T.808)][29].
 
 ### Helioviewer Project
 
