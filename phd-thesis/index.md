@@ -10,19 +10,21 @@ title: Phd Thesis
 ### Compression Fundamentals
 
 * [Data Compression][8].
+* [Image compression][28].
 * [Video compression fundamentals][25].
 * [Motion Compensated Discrete Wavelet Transform (MCDWT)][27].
 
 ### The JPEG2000 Standard
 
 * [The JPEG2000 standard (ISO/IEC 15444-1)][26].
+* [JPEG 2000 image coding system: Core coding system (ISO/IEC IS 15444-1 | ITU-T T.800)][30].
 * [JPEG2000 Playground][10].
 * [Kakadu Software][6].
 * [Kakadu Software Documentation][7].
 
 ### The JPIP Protocol
 
-
+* [JPEG 2000 image coding system: Interactivity tools, APIs and protocols (ISO/IEC IS 15444-9 | ITU-T T.808)][29].
 
 ### Helioviewer Project
 
@@ -92,3 +94,6 @@ title: Phd Thesis
 [25]: https://vicente-gonzalez-ruiz.github.io/video_compression/
 [26]: https://vicente-gonzalez-ruiz.github.io/JPEG2000/
 [27]: https://sistemas-multimedia.github.io/MCDWT/
+[28]: https://vicente-gonzalez-ruiz.github.io/image_compression/
+[29]: https://www.itu.int/rec/T-REC-T.808/en
+[30]: https://www.itu.int/rec/T-REC-T.800/en
