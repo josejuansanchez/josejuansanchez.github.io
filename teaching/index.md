@@ -34,6 +34,7 @@ title: Teaching
 
 ### Work in progress
 
+  * [Kubernetes][23].
   * [Introducción a Python][20].
   * [Proyecto CO2 Celia][21].
   * [Processing playground][6].
@@ -69,3 +70,4 @@ title: Teaching
 [20]: https://github.com/josejuansanchez/python
 [21]: https://github.com/josejuansanchez/co2-celia
 [22]: https://github.com/josejuansanchez/android-playground
+[23]: https://github.com/josejuansanchez/kubernetes
