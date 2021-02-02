@@ -35,9 +35,11 @@ title: Teaching
 ### Work in progress
 
   * [Introducción a Python][20].
+  * [Proyecto CO2 Celia][21].
   * [Processing playground][6].
   * [JavaScript playground][8].
   * [PHP playground][12].
+  * [Android playtround][22].
 
 ### GitHub repositories
 
@@ -65,3 +67,5 @@ title: Teaching
 [18]: https://josejuansanchez.org/curso-docker/index.pdf
 [19]: https://josejuansanchez.org/processing-python/
 [20]: https://github.com/josejuansanchez/python
+[21]: https://github.com/josejuansanchez/co2-celia
+[22]: https://github.com/josejuansanchez/android-playground
