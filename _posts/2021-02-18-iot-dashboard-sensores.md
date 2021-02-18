@@ -37,13 +37,13 @@ utilizado [Docker Compose](https://docs.docker.com/compose/) y contenedores
 
 ## Arquitectura del sistema
 
-![Diagrama]({{ site.url }}/resources/2021-02-18/img/diagram.jpg){: .center}
+![Diagrama]({{ site.url }}/resources/2021-02-18/img/diagram.png){: .center}
 
 *Imagen. Arquitectura del sistema utilizado.*{: .center}
 
 ## Dashboard
 
-![Diagrama]({{ site.url }}/resources/2021-02-18/img/grafana.jpg){: .center}
+![Diagrama]({{ site.url }}/resources/2021-02-18/img/grafana.png){: .center}
 
 *Imagen. Ejemplo de un dashboard de Grafana mostrando valores de CO2 y TVOC.*{: .center}
 
