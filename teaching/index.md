@@ -18,7 +18,7 @@ title: Teaching
 
 ### Workshops 2021
 
-  * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][24]</small>
+  * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>
 
 ### Workshops 2020
 
@@ -76,3 +76,4 @@ title: Teaching
 [22]: https://github.com/josejuansanchez/android-playground
 [23]: https://github.com/josejuansanchez/kubernetes
 [24]: http://josejuansanchez.org/iot-dashboard/
+[25]: http://josejuansanchez.org/iot-dashboard/index.pdf
