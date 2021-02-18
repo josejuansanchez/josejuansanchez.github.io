@@ -16,6 +16,10 @@ title: Teaching
   * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
     Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
+### Workshops 2021
+
+  * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][24]</small>
+
 ### Workshops 2020
 
   * [Processing.py (Processing + Python)][19].
@@ -71,3 +75,4 @@ title: Teaching
 [21]: https://github.com/josejuansanchez/co2-celia
 [22]: https://github.com/josejuansanchez/android-playground
 [23]: https://github.com/josejuansanchez/kubernetes
+[24]: http://josejuansanchez.org/iot-dashboard/

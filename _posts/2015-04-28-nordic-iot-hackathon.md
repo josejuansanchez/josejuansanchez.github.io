@@ -21,8 +21,8 @@ A continuación os dejo un listado de recursos relacionados con esta aventura:
 Noticias relacionadas:
 
 * [Tres días para un maratón tecnológico][9].
-* [Un equipo de HackLab Almería gana en Suecia un hackaton internacional dedicado al Internet de las cosas][10].
-* [Cultureta: Hackatón][11].
+* [HackLab Almería gana en Suecia un maratón tecnológico dedicado al internet de las cosas][12].
+* [Un equipo liderado por la UAL gana en Suecia un hackaton internacional dedicado al Internet de las cosas][13].
 
 [1]: http://nordiciothackathon.com
 [2]: http://hacklabalmeria.net
@@ -35,3 +35,5 @@ Noticias relacionadas:
 [9]: https://github.com/josejuansanchez/josejuansanchez.github.io/blob/master/resources/2015-04-28/laVozdeAlmeria-20150812.pdf?raw=true
 [10]: http://cms.ual.es/UAL/universidad/organosgobierno/gabcomunicacion/noticias/15ABR2015_INFORMATICOSUALHACKETONSUECIA
 [11]: http://cultureta.info/2015/06/hackaton/
+[12]: http://almeria.fape.es/hacklab-almeria-gana-en-suecia-un-maraton-tecnologico-dedicado-al-internet-de-las-cosas/
+[13]: https://www.noticiasdealmeria.com/noticia/103868/almeria/un-equipo-liderado-por-la-ual-gana-en-suecia-un-hackaton-internacional-dedicado-al-internet-de-las-cosas.html
