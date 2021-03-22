@@ -36,6 +36,23 @@ title: Teaching
   * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
   * [Taller de Scratch][5].
 
+### Workshops 2015
+
+  * [Open Source Android Libraries][31].
+
+### Workshops 2014
+
+  * [Android Services & Background Tasks][27].
+  * [Android Sensors Overview][29].
+  * [Androis Sensors][30.
+
+### Workshops 2013
+
+  * [Android Services][26].
+  * [Android Services & Background Tasks][27].
+  * [Anroid Services. Viernes Androides][28].
+
+
 ### Work in progress
 
   * [Kubernetes][23].
@@ -77,3 +94,9 @@ title: Teaching
 [23]: https://github.com/josejuansanchez/kubernetes
 [24]: http://josejuansanchez.org/iot-dashboard/
 [25]: http://josejuansanchez.org/iot-dashboard/index.pdf
+[26]: https://speakerdeck.com/josejuansanchez/android-services
+[27]: https://speakerdeck.com/josejuansanchez/android-services-and-background-tasks
+[28]: https://speakerdeck.com/josejuansanchez/viernes-androides-android-services
+[29]: http://josejuansanchez.org/android-sensors-overview/
+[30]: https://speakerdeck.com/josejuansanchez/android-sensors
+[31]: https://speakerdeck.com/josejuansanchez/open-source-android-libraries
