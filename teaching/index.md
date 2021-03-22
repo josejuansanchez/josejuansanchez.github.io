@@ -44,7 +44,7 @@ title: Teaching
 
   * [Android Services & Background Tasks][27].
   * [Android Sensors Overview][29].
-  * [Androis Sensors][30.
+  * [Androis Sensors][30].
 
 ### Workshops 2013
 
