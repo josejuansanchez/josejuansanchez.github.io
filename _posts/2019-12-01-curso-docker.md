@@ -43,17 +43,8 @@ Los contenidos del curso los hemos dividido en dos bloques:
 - Ciclo de desarrollo
 - Service mesh
 
-El material que hemos utilizado en el curso está disponible en:
-
-- [Curso de introducción a Docker][5]. <small>[html][5] | [pdf][6]</small>
-- [Kubernetes. Un orquestador de contenedores que debes poner en tu vida][7]. <small>[html][7]</small>
-
-
 [1]: https://twitter.com/fjharo/status/1196843166156120064
 [2]: https://twitter.com/ualmtorres
 [3]: https://twitter.com/hpcjmart
 [4]: http://www.juntadeandalucia.es/educacion/portals/web/cep-almeria
-[5]: https://josejuansanchez.org/curso-docker/
-[6]: https://josejuansanchez.org/curso-docker/index.pdf
-[7]: https://ualmtorres.github.io/SeminarioKubernetes/
 [8]: https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/20401GE035/
