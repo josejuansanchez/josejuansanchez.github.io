@@ -42,6 +42,7 @@ You can find me on
 * [Wikipedia](https://es.wikipedia.org/wiki/Usuario:JJsanchez).
 * [Speaker Deck](https://speakerdeck.com/josejuansanchez).
 * [Stack Overflow](http://stackoverflow.com/users/2090682/jose-juan-sanchez).
+* [Google Scholar](https://scholar.google.com/citations?user=P3IOrFEAAAAJ).
 
 <!--
 * [Bitbucket](https://bitbucket.org/josejuansanchez).
