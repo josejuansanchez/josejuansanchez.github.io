@@ -60,7 +60,7 @@ You can find me on
 [8]: http://hacklabalmeria.net
 [9]: https://hacklabalmeria.net/actividades/2015/10/01/elhackaton.html
 [11]: https://www.google-melange.com/gsoc/homepage/google/gsoc2015
-[12]: http://p2psp.org
+[12]: https://github.com/P2PSP
 [13]: http://www.jamtodayalmeria.com
 [14]: https://summerofcode.withgoogle.com
 [15]: https://nanoplayboard.github.io
