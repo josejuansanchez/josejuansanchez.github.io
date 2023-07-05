@@ -33,6 +33,12 @@ Esperamos que el evento te parezca interesante y te animes a participar :)
 
 [![JamToday Almería]({{ site.url }}/resources/2016-05-08/jamtoday_promo.jpg)][7]{: .center}
 
+*Imagen 1. Cartel del evento*.
+
+![]({{ site.url }}/resources/2016-05-08/almeria_2016.jpg){: .center}
+
+*Imagen 2. Foto de grupo*.
+
 
 [0]: https://es.wikipedia.org/wiki/Game_jam
 [1]: http://hacklabalmeria.net
