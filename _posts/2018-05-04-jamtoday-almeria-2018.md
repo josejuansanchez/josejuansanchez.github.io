@@ -17,8 +17,6 @@ Puedes encontrar todos los detalles en la web oficial del evento:
 
 *Imagen 1. Foto de grupo*.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q1rvLmD-p7o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 [1]: http://hacklabalmeria.net
 [2]: https://www.jamtodayandalucia.com/almeria-2018/
 [3]: http://conecta13.com
