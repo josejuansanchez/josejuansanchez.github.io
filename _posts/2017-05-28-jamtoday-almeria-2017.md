@@ -13,25 +13,29 @@ Puedes encontrar todos los detalles en la web oficial del evento:
 
 * [http://www.jamtodayalmeria.com][2]
 
-![]({{ site.url }}/resources/2017-05-28/img-00.jpg){: .center}
+![]({{ site.url }}/resources/2017-05-28/almeria_2017.jpg){: .center}
 
 *Imagen 1. Foto de grupo*.
 
+![]({{ site.url }}/resources/2017-05-28/img-00.jpg){: .center}
+
+*Imagen 2. Foto de grupo*.
+
 ![]({{ site.url }}/resources/2017-05-28/img-01.jpg){: .center}
 
-*Imagen 2. Equipo de la categoría Unity*.
+*Imagen 3. Equipo de la categoría Unity*.
 
 ![]({{ site.url }}/resources/2017-05-28/img-02.jpg){: .center}
 
-*Imagen 3. Desarrollador de la categoría Scratch*.
+*Imagen 4. Desarrollador de la categoría Scratch*.
 
 ![]({{ site.url }}/resources/2017-05-28/img-03.jpg){: .center}
 
-*Imagen 4. Juego de mesa desarrollado durante el evento*.
+*Imagen 5. Juego de mesa desarrollado durante el evento*.
 
 ![]({{ site.url }}/resources/2017-05-28/img-04.jpg){: .center}
 
-*Imagen 5. Impresoras 3D usadas por los equipos de la categoría de juegos de mesa*.
+*Imagen 6. Impresoras 3D usadas por los equipos de la categoría de juegos de mesa*.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q1rvLmD-p7o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
