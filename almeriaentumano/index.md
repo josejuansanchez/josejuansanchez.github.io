@@ -9,7 +9,14 @@ title: Almería en tu mano
 fue diseñada en junio de 2013 con el objetivo hacer una gymkhana urbana que
 permitiese conocer algunos lugares de interés de la ciudad de Almería.
 
-### Política de Privacidad para la aplicación "Almería en tu mano""
+Puede consultar [las transparencias de la
+presentación](https://speakerdeck.com/josejuansanchez/almeria-en-tu-mano) que se
+hizo en el evento [X Betabeers
+Almería](http://betabeers.com/event/x-betabeers-almeria-1061/), 27 June 2013. Un
+evento organizado por [Betabeers Almería](https://twitter.com/betabeersALM) con
+la colaboración de [UNIA](http://unia.ual.es).
+
+### Política de Privacidad para la aplicación "Almería en tu mano""
 
 Esta Política de Privacidad describe cómo la aplicación "Almería en tu mano" (en
 adelante, "la aplicación") no recopila, ni utiliza, ni comparte ningún tipo de
@@ -49,6 +56,3 @@ su información.
 Al utilizar esta aplicación, aceptas la recopilación y el uso de información
 según lo establecido en esta política de privacidad.
 
-## Talks
-
-* Introducing the app **"Almería en tu mano"** in [X Betabeers Almería](http://betabeers.com/event/x-betabeers-almeria-1061/), 27 June 2013. This event was organized by [Betabeers Almería](https://twitter.com/betabeersALM) in collaboration with [UNIA](http://unia.ual.es). The slides can be found at [Speaker Deck](https://speakerdeck.com/josejuansanchez/almeria-en-tu-mano).
