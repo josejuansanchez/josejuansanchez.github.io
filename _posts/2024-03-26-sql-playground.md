@@ -7,7 +7,7 @@ category: teaching
 
 ![SQL Playground]({{ site.url }}/resources/2024-03-26/img/00.png){: .center}
 
-*Imagen. Página principal de SQL Playground.*{: .center}
+*Imagen. Página principal de [SQL Playground][1].*{: .center}
 
 En este artículo me gustaría hablar un proyecto educativo que desarrollé durante
 el curso **2017/2018** para el alumnado de los módulos [Gestión de Bases de
@@ -27,7 +27,7 @@ resolverlas en clase.
 
 Actualmente, la aplicación cuenta con **4 bases de datos** y un total de **312
 consultas** con diferentes niveles de complejidad. A continuación, se muestra una tabla con los
-diferentes tipos de consultas se pueden realizar en la aplicación web.
+diferentes tipos de consultas que se pueden realizar en la aplicación web.
 
 | Tipo de consultas     | Cantidad |
 |-----------------------|----------|
