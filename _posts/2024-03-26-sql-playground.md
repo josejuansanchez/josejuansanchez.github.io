@@ -9,10 +9,10 @@ category: teaching
 
 *Imagen. Página principal de [SQL Playground][1].*{: .center}
 
-En este artículo me gustaría hablar un proyecto educativo que desarrollé durante
-el curso **2017/2018** para el alumnado de los módulos [Gestión de Bases de
-Datos][2] y [Bases de Datos][2] de los CFGS de ASIR y DAW del [IES Celia Viñas
-(Almería)][3].
+En este artículo me gustaría hablar de un proyecto educativo que desarrollé
+durante el curso **2017/2018** para el alumnado de los módulos [Gestión de Bases
+de Datos][2] y [Bases de Datos][2] de los CFGS de ASIR y DAW del [IES Celia
+Viñas (Almería)][3].
 
 Se trata de **[SQL Playground][1]**, un recurso educativo diseñado para aprender
 a realizar consultas SQL. Básicamente, es una aplicación web de tipo [SPA
