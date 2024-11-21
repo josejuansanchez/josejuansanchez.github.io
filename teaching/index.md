@@ -7,9 +7,9 @@ title: Teaching
 
 ### Course 2024/2025
 
-  * **Módulo:** [Implantación de Aplicaciones Web (IAW)][1]. CFGS ASIR.
-  * **Módulo:** [Bases de Datos (BD)][2]. CFGS DAW.
-  * **Módulo:** [Despliegue de Aplicaciones Web][32]. CFGS DAW.
+  * [Implantación de Aplicaciones Web (IAW)][1]. CFGS ASIR.
+  * [Bases de Datos (BD)][2]. CFGS DAW.
+  * [Despliegue de Aplicaciones Web][32]. CFGS DAW.
 
 ### Workshops
 
