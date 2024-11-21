@@ -5,8 +5,6 @@ title: Phd Thesis
 
 ## Phd Thesis
 
-*Work in progres*
-
 ### Compression Fundamentals
 
 * [Data Compression][8].

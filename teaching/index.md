@@ -16,42 +16,23 @@ title: Teaching
   * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
     Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
-### Workshops 2021
+### Workshops
 
-  * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>
-
-### Workshops 2020
-
-  * [Processing.py (Processing + Python)][19].
-
-### Workshops 2019
-
-  * [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>
-  * [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>
-  * [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>
-
-### Workshops 2017
-
-  * [Taller de introducción a git y GitHub][3].
-  * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
-  * [Taller de Scratch][5].
-
-### Workshops 2015
-
-  * [Open Source Android Libraries][31].
-
-### Workshops 2014
-
-  * [Android Services & Background Tasks][27].
-  * [Android Sensors Overview][29].
-  * [Androis Sensors][30].
-
-### Workshops 2013
-
-  * [Android Services][26].
-  * [Android Services & Background Tasks][27].
-  * [Anroid Services. Viernes Androides][28].
-
+  * 2021. [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>
+  * 2020. [Processing.py (Processing + Python)][19].
+  * 2019. [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>
+  * 2019. [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>
+  * 2019. [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>
+  * 2017. [Taller de introducción a git y GitHub][3].
+  * 2017. [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
+  * 2017. [Taller de Scratch][5].
+  * 2015. [Open Source Android Libraries][31].
+  * 2014. [Android Services & Background Tasks][27].
+  * 2014. [Android Sensors Overview][29].
+  * 2014. [Androis Sensors][30].
+  * 2013. [Android Services][26].
+  * 2013. [Android Services & Background Tasks][27].
+  * 2013. [Anroid Services. Viernes Androides][28].
 
 ### Work in progress
 
@@ -62,9 +43,6 @@ title: Teaching
   * [JavaScript playground][8].
   * [PHP playground][12].
   * [Android playtround][22].
-
-### GitHub repositories
-
   * [Teaching][9].
   * [Aprender en red][10].
   * [Personal notebook][11].

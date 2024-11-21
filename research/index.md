@@ -7,9 +7,9 @@ title: Research Page
 
 ### Education
 
-PhD. Student in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
-M.Sc. in Advanced Computing Techniques at the [University of Almería](http://www.ual.es), Spain.  
-B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Spain.  
+PhD in Computer Science from the [University of Almería](http://www.ual.es), Spain.  
+MSc in Advanced Computing Techniques from the [University of Almería](http://www.ual.es), Spain.  
+BSc in Computer Science from the [University of Almería](http://www.ual.es), Spain.  
 
 ### Research group
 
@@ -19,6 +19,12 @@ B.Sc. in Computer Science at the [University of Almería](http://www.ual.es), Sp
 ### Research interests
 
 Image Coding and Transmission, JPEG2000.
+
+### PhD Thesis
+
+J.J. Sánchez Hernández. **Streaming interactivo de secuencias de imágenes de
+alta resolución JPEG2000**. Advisor: V. González-Ruiz. University of Almería.
+2025.
 
 ### Publications
 
