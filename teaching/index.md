@@ -5,16 +5,11 @@ title: Teaching
 
 ## Teaching
 
-### Course 2020/2021
+### Course 2024/2025
 
-  * **Módulo:** [Implantación de Aplicaciones Web (IAW)][1].  
-    Ciclo: CFGS Administración de Sistemas Informáticos en Red
-
-  * **Módulo:** [Bases de Datos (BD)][2].  
-    Ciclo: CFGS Desarrollo de Aplicaciones Web
-
-  * **Módulo:** [Gestión de Bases de Datos (GBD)][2].  
-    Ciclo: CFGS Administración de Sistemas Informáticos en Red  
+  * **Módulo:** [Implantación de Aplicaciones Web (IAW)][1]. CFGS ASIR.
+  * **Módulo:** [Bases de Datos (BD)][2]. CFGS DAW.
+  * **Módulo:** [Despliegue de Aplicaciones Web][32]. CFGS DAW.
 
 ### Workshops
 
@@ -78,3 +73,4 @@ title: Teaching
 [29]: http://josejuansanchez.org/android-sensors-overview/
 [30]: https://speakerdeck.com/josejuansanchez/android-sensors
 [31]: https://speakerdeck.com/josejuansanchez/open-source-android-libraries
+[32]: https://josejuansanchez.org/daw/
