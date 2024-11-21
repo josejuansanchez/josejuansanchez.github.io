@@ -18,21 +18,21 @@ title: Teaching
 
 ### Workshops
 
-  * 2021. [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>
-  * 2020. [Processing.py (Processing + Python)][19].
-  * 2019. [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>
-  * 2019. [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>
-  * 2019. [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>
-  * 2017. [Taller de introducción a git y GitHub][3].
-  * 2017. [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4].
-  * 2017. [Taller de Scratch][5].
-  * 2015. [Open Source Android Libraries][31].
-  * 2014. [Android Services & Background Tasks][27].
-  * 2014. [Android Sensors Overview][29].
-  * 2014. [Androis Sensors][30].
-  * 2013. [Android Services][26].
-  * 2013. [Android Services & Background Tasks][27].
-  * 2013. [Anroid Services. Viernes Androides][28].
+  * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>. 2021.
+  * [Processing.py (Processing + Python)][19]. 2020.
+  * [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>. 2019.
+  * [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>. 2019.
+  * [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>. 2019.
+  * [Taller de introducción a git y GitHub][3]. 2017.
+  * [Introducción al IoT con Wemos D1 mini, sensores DHT11, MQTT y node.js][4]. 2017.
+  * [Taller de Scratch][5]. 2017.
+  * [Open Source Android Libraries][31]. 2015.
+  * [Android Services & Background Tasks][27]. 2014.
+  * [Android Sensors Overview][29]. 2014.
+  * [Androis Sensors][30]. 2014.
+  * [Android Services][26]. 2013.
+  * [Android Services & Background Tasks][27]. 2013.
+  * [Anroid Services. Viernes Androides][28]. 2013.
 
 ### Work in progress
 
