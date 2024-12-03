@@ -10,25 +10,24 @@ title: About me
 </p>
 
 I currently work as a Secondary School Teacher at [IES Celia Viñas (Almería)][0],
-where I teach Computer Science in a vocational education course.
+where I teach Computer Science in vocational trainning courses.
 
-I received an MSc degree in Computer Science in 2008 and a PhD in Computer
-Science from the [University of Almería][1] in 2024. Previously, I was a member
-of the [Supercomputing-Algorithms Research Group][2] at the [University of
-Almería][3], where I worked in the area of image coding and transmission.
+I received a PhD in Computer Science from the [University of Almería][1] in 2024. Previously, I was a member of the [Supercomputing-Algorithms Research Group][2] at the [University of Almería][3], where I worked in the area of image coding and transmission.
 
+<!--
 In my spare time I enjoy designing and developing native mobile apps for
 [Android][4], experimenting and making stuff with [Arduino][5] and [Raspberry
 Pi][6], and learning new things.
+-->
 
 I have collaborated with [Packt Publishing](https://www.packtpub.com) as a book
 reviewer of [Android Sensor Programming By
-Example](https://www.packtpub.com/application-development/android-sensor-programming-example)
+Example](https://www.packtpub.com/en-us/product/android-sensor-programming-by-example-9781785284663)
 (2016).
 
-I was a co-founder of *Android Almería Developers Group* and an active member
-of [HackLab Almería][8], where I collaborated in organizing programming talks,
-[Hackathons][9] and [Game Jams][13].
+In the old days, I was a co-founder of the *Android Almería Developers Group*
+and an active member of [HackLab Almería][8], where I collaborated in organizing
+programming talks, [Hackathons][9] and [Game Jams][13].
 
 I am proud to have collaborated in the development of open source projects like
 [NanoPlayBoard][15]. Moreover, I have participated as a mentor in [Google Summer

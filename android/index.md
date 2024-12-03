@@ -5,8 +5,12 @@ title: Android
 
 ## Android
 
+### Android Lab
+
+* [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development.
+
 ### Developers Group
-* I am member and collaborator of [Android Almería Developers Group](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
+* I was a co-founder of the [Android Almería Developers Group](https://plus.google.com/u/0/communities/105420979515011141876), a meeting point for the community of Android Developers and Designers of Almería.
 
 ### Book Reviewer
 * I have collaborated with [Packt Publishing](https://www.packtpub.com) as a book reviewer of [Android Sensor Programming By Example](https://www.packtpub.com/application-development/android-sensor-programming-example) (2016).
@@ -44,7 +48,3 @@ Desarrollo de Aplicaciones Android](http://www.cepejido.es/moodle/enrol/index.ph
 
   * [
 Desarrollo de Aplicaciones Android para la familia profesional de Informática](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=145506). November - December 2014. This course was organized by [CEP de Almería](http://www.cepalmeria.org) (Centro del Profesorado de Almería). Duration: 30 hours.
-
-### Android Lab
-
-* [Android Lab](http://josejuansanchez.org/androidlab) is a collection of Resources to learn Android Development.

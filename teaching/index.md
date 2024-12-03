@@ -15,7 +15,7 @@ title: Teaching
 
   * [IoT Dashboard - Sensores, MQTT, Telegraf, InfluxDB y Grafana][24]. <small>[html][24] | [pdf][25]</small>. 2021.
   * [Processing.py (Processing + Python)][19]. 2020.
-  * [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>. 2019.
+  <!--* [Curso de introducción a Docker][17].  <small>[html][17] | [pdf][18]</small>. 2019.-->
   * [Taller de introducción al diseño 3D con OpenSCAD][13]. <small>[html][13] | [pdf][14]</small>. 2019.
   * [Primeros pasos con Ansible y AWS][15]. <small>[html][15] | [pdf][16]</small>. 2019.
   * [Taller de introducción a git y GitHub][3]. 2017.
@@ -37,7 +37,7 @@ title: Teaching
   * [Processing playground][6].
   * [JavaScript playground][8].
   * [PHP playground][12].
-  * [Android playtround][22].
+  * [Android playground][22].
   * [Teaching][9].
   * [Aprender en red][10].
   * [Personal notebook][11].
