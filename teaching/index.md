@@ -33,6 +33,7 @@ title: Teaching
 
   * [Kubernetes][23].
   * [Introducción a Python][20].
+  * [AI Playground][33].
   * [Proyecto CO2 Celia][21].
   * [Processing playground][6].
   * [JavaScript playground][8].
@@ -74,3 +75,4 @@ title: Teaching
 [30]: https://speakerdeck.com/josejuansanchez/android-sensors
 [31]: https://speakerdeck.com/josejuansanchez/open-source-android-libraries
 [32]: https://josejuansanchez.org/daw/
+[33]: https://github.com/josejuansanchez/ai-playground
